@@ -110,6 +110,7 @@
 	<header class="hero">
 		<div class="hero-content">
 			<h1>Selamat Datang di Lembaga Kesejahteraan Sosial Anak <br> FAJAR HARAPAN</h1>
+			<br> MUHAMMADIYAH</h1>
 			<a href="#about" class="btn btn-light">Lebih Lanjut</a>
 		</div>
 	</header>
