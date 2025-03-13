@@ -11,23 +11,25 @@ $start = max(0, ($halaman - 1) * $limit);
 $search = isset($_GET['search']) ? mysqli_real_escape_string($koneksi, $_GET['search']) : '';
 
 // Query untuk menghitung total data alumni
-$totalQuery = "SELECT COUNT(*) AS total FROM tb_siswa WHERE status = 'Lulus' AND nama LIKE '%$search%'";
+$totalQuery = "SELECT COUNT(*) AS total FROM tb_siswa WHERE status_sekolah = 'Lulus' AND LOWER(nama) LIKE LOWER('%$search%')";
 $totalResult = $koneksi->query($totalQuery);
 $totalData = $totalResult->fetch_assoc()['total'];
 $totalPages = ceil($totalData / $limit);
 
-// Query untuk mengambil data alumni (yang sudah "Lulus")
 $sql = "SELECT id, nama, tmp_lahir, tgl_lahir, jk, pendidikan_terakhir, nama_ayah, nama_ibu, pk_ortu, tgl_masuk, tgl_keluar, alamat 
         FROM tb_siswa 
-        WHERE status = 'Lulus' AND LOWER(nama) LIKE LOWER('%$search%') 
+        WHERE status_sekolah = 'Lulus' 
         ORDER BY id ASC 
         LIMIT $start, $limit";
-$result = $koneksi->query($sql);
+
+$result = $koneksi->query($sql) or die("Query Error: " . $koneksi->error);
+
+
 
 // Proses membatalkan status lulus (mengubah ke Aktif)
 if (isset($_GET['batal_lulus'])) {
     $id = (int)$_GET['batal_lulus'];
-    $query = "UPDATE tb_siswa SET status = 'Aktif' WHERE id = $id";
+    $query = "UPDATE tb_siswa SET status_sekolah = 'Aktif' WHERE id = $id";
     if ($koneksi->query($query)) {
         echo "<script>alert('Status siswa berhasil dikembalikan ke Aktif!'); window.location='home-member.php?page=data-alumni';</script>";
     } else {
@@ -101,10 +103,6 @@ if (isset($_GET['batal_lulus'])) {
 <div class="container">
     <h2 class="mb-4 text-center">Data Alumni</h2>
 
-
-    <a href="home-member.php?page=tambah-siswa" class="btn btn-primary btn-tambah mb-3">
-        <i class="fas fa-user-plus"></i> Tambah Siswa
-    </a>
     <a href="cetaksiswapdf.php?search=<?= urlencode($search) ?>" target="_blank" class="btn btn-success mb-3">
         <i class="fas fa-file-pdf"></i> Cetak
     </a>

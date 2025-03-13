@@ -2,13 +2,17 @@
 // Memasukkan file koneksi database
 include('koneksi.php');
 
-// Jika ada siswa yang dipindahkan ke alumni
+// Jika ada siswa yang diklik untuk dipindahkan ke alumni
 if (isset($_GET['lulus'])) {
-    $id = (int) $_GET['lulus'];
-    $query = "UPDATE tb_siswa SET status = 'Lulus' WHERE id = $id";
+    $id = (int) $_GET['lulus']; // Pastikan ID aman dari SQL Injection
+    $query = "UPDATE tb_siswa SET status_sekolah = 'Lulus' WHERE id = $id";
+
 
     if ($koneksi->query($query)) {
-        echo "<script>alert('Siswa berhasil dipindahkan ke Alumni!'); window.location='home-member.php?page=data-siswa';</script>";
+        echo "<script>
+                alert('Siswa berhasil dipindahkan ke Alumni!');
+                window.location='home-member.php?page=data-siswa';
+              </script>";
     } else {
         echo "<script>alert('Gagal memperbarui status!');</script>";
     }
@@ -23,17 +27,18 @@ $start = max(0, ($halaman - 1) * $limit);
 $search = isset($_GET['search']) ? mysqli_real_escape_string($koneksi, $_GET['search']) : '';
 
 // Query untuk menghitung total data
-$totalQuery = "SELECT COUNT(*) AS total FROM tb_siswa WHERE LOWER(nama) LIKE LOWER('%$search%')";
+$totalQuery = "SELECT COUNT(*) AS total FROM tb_siswa WHERE LOWER(nama) LIKE LOWER('%$search%') AND status_sekolah != 'Lulus'";
 $totalResult = $koneksi->query($totalQuery);
 $totalData = $totalResult->fetch_assoc()['total'];
 $totalPages = ceil($totalData / $limit);
 
 // Query untuk mengambil data siswa
-$sql = "SELECT id, nama, tmp_lahir, tgl_lahir, jk, pendidikan_terakhir, nama_ayah, nama_ibu, pk_ortu, tgl_masuk, tgl_keluar, status, alamat 
-        FROM tb_siswa 
-        WHERE LOWER(nama) LIKE LOWER('%$search%') 
-        ORDER BY id ASC 
-        LIMIT $start, $limit";
+$sql = "SELECT id, nama, tmp_lahir, tgl_lahir, jk, pendidikan_terakhir, nama_ayah, nama_ibu, pk_ortu, tgl_masuk, tgl_keluar, status, status_sekolah, alamat
+FROM tb_siswa
+WHERE LOWER(nama) LIKE LOWER('%$search%') AND status_sekolah != 'Lulus'
+ORDER BY id ASC
+LIMIT $start, $limit";
+
 $result = $koneksi->query($sql);
 
 if (!$result) {
@@ -80,6 +85,24 @@ if (!$result) {
                             icon: "error"
                         });
                     });
+            }
+        });
+    }
+
+    function confirmLulus(id) {
+        Swal.fire({
+            title: "Konfirmasi",
+            text: "Apakah Anda yakin ingin memindahkan siswa ini ke Alumni?",
+            icon: "warning",
+            showCancelButton: true,
+            confirmButtonColor: "#3085d6",
+            cancelButtonColor: "#d33",
+            confirmButtonText: "Ya, pindahkan!",
+            cancelButtonText: "Batal"
+        }).then((result) => {
+            if (result.isConfirmed) {
+                // Arahkan ke halaman PHP yang akan memproses perpindahan siswa
+                window.location.href = "home-member.php?page=data-siswa&lulus=" + id;
             }
         });
     }
@@ -210,6 +233,7 @@ if (!$result) {
                 <th>Tgl Masuk</th>
                 <th>Tgl Keluar</th>
                 <th>Status</th>
+                <th>Status Sekolah</th>
                 <th>Alamat</th>
                 <th>Aksi</th>
             </tr>
@@ -231,6 +255,7 @@ if (!$result) {
                     echo "<td>" . htmlspecialchars($data['tgl_masuk']) . "</td>";
                     echo "<td>" . htmlspecialchars($data['tgl_keluar'] ?? '-') . "</td>";
                     echo "<td>" . htmlspecialchars($data['status'] ?? '-') . "</td>";
+                    echo "<td>" . htmlspecialchars($data['status_sekolah'] ?? '-') . "</td>";
                     echo "<td>" . htmlspecialchars($data['alamat']) . "</td>";
                     echo "<td>
                         <a href='home-member.php?page=ubah-siswa&id=" . $data['id'] . "' class='btn btn-warning btn-sm'>
@@ -239,12 +264,11 @@ if (!$result) {
                         <button class='btn btn-danger btn-sm' onclick='confirmDelete(" . $data['id'] . ")'>
                             <i class='fas fa-trash'></i> 
                         </button>";
-                    // Jika siswa belum "Lulus", tampilkan tombol Lulus
-                    if ($data['status'] != 'Lulus') {
-                        echo "<a href='?page=data-siswa&lulus=" . $data['id'] . "' class='btn btn-info btn-sm p-1 fs-'>
-                                <i class='fas fa-graduation-cap'></i> Lulus
-                              </a>";
-                    }
+
+                    echo "<button class='btn btn-info btn-sm p-1 fs-7' onclick='confirmLulus(" . $data['id'] . ")'>
+                        <i class='fas fa-graduation-cap'></i> Lulus
+                      </button>";
+
                     echo "</td>";
                     echo "</tr>";
                 }
@@ -283,32 +307,7 @@ if (!$result) {
         </ul>
     </nav>
 
-    <style>
-        .pagination {
-            margin: 10px 0;
-        }
 
-        .page-item.active .page-link {
-            background-color: #007bff;
-            border-color: #007bff;
-            color: white;
-        }
-
-        .page-link {
-            padding: 2px 8px;
-            margin: 0 5px;
-            border-radius: 5px;
-            border: 1px solid #007bff;
-            color: #007bff;
-            transition: background-color 0.3s, color 0.3s;
-            font-size: 13px;
-        }
-
-        .page-link:hover {
-            background-color: #0056b3;
-            color: white;
-        }
-    </style>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             let searchInput = document.querySelector("input[name='search']");

@@ -134,9 +134,16 @@ $koneksi->close();
                 </div>
 
                 <div class="mb-2">
-                    <label class="form-label"> Status</label>
-                    <input type="text" name="status" class="form-control" required>
+                    <label class="form-label">Status</label>
+                    <select name="status" class="form-control" required>
+                        <option value="" disabled selected>--Pilih Status--</option>
+                        <option value="Yatim">Yatim</option>
+                        <option value="Piatu">Piatu</option>
+                        <option value="Yatim Piatu">Yatim Piatu</option>
+                        <option value="Dhuafa">Dhuafa</option>
+                    </select>
                 </div>
+
 
                 <div class="mb-2">
                     <label class="form-label"> Alamat</label>

@@ -151,7 +151,12 @@ $koneksi->close();
 
                 <div class="mb-2">
                     <label class="form-label">Status</label>
-                    <input type="text" name="status" class="form-control" value="<?= $row['status']; ?>" required>
+                    <select name="status" class="form-control" required>
+                        <option value="Yatim" <?= ($row['status'] == 'Yatim') ? 'selected' : ''; ?>>Yatim</option>
+                        <option value="Piatu" <?= ($row['status'] == 'Piatu') ? 'selected' : ''; ?>>Piatu</option>
+                        <option value="Yatim Piatu" <?= ($row['status'] == 'Yatim Piatu') ? 'selected' : ''; ?>>Yatim Piatu</option>
+                        <option value="Dhuafa" <?= ($row['status'] == 'Dhuafa') ? 'selected' : ''; ?>>Dhuafa</option>
+                    </select>
                 </div>
 
                 <div class="mb-2">
