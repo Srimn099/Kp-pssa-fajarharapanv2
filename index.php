@@ -50,6 +50,13 @@
 			text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
 		}
 
+		.hero h1.br {
+			font-size: 50px;
+			font-weight: bold;
+			text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
+			color: blue;
+		}
+
 		.hero p {
 			font-size: 1.2rem;
 			margin-bottom: 20px;
@@ -107,13 +114,13 @@
 	</nav>
 
 	<!-- Hero Section -->
-	<header class="hero">
-		<div class="hero-content">
-			<h1>Selamat Datang di Lembaga Kesejahteraan Sosial Anak <br> FAJAR HARAPAN</h1>
-			<br> MUHAMMADIYAH</h1>
-			<a href="#about" class="btn btn-light">Lebih Lanjut</a>
-		</div>
-	</header>
+<header class="hero">
+    <div class="hero-content">
+        <h1>Selamat Datang di Lembaga Kesejahteraan Sosial Anak <br> Fajar Harapan <br> <span style="color: blue;">MUHAMMADIYAH</span></h1>
+        <a href="#about" class="btn btn-light">Lebih Lanjut</a>
+    </div>
+</header>
+
 
 	<!-- About Section -->
 	<section id="about" class="container my-5 text-center">
