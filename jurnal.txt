@@ -1,0 +1,2146 @@
+11:45	1	2022-01-02	1121	D	\N	100000.00	Nindi / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-01-02	1120	D	\N	100000.00	Nindi / Rek BRI	JU		Y		COMP
+11:45	1	2022-01-02	4101	K	\N	100000.00	Nindi / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-01-02	4100	K	\N	100000.00	Nindi / Rek BRI	JU		Y		COMP
+11:45	1	2022-01-03	1112	D	\N	500000.00	Amrianty Amir / Jayapura	JU		Y	TR	COMP
+11:45	1	2022-01-03	1110	D	\N	500000.00	Amrianty Amir / Jayapura	JU		Y		COMP
+11:45	1	2022-01-03	4101	K	\N	500000.00	Amrianty Amir / Jayapura	JU		Y	TR	COMP
+11:45	1	2022-01-03	4100	K	\N	500000.00	Amrianty Amir / Jayapura	JU		Y		COMP
+11:45	2	2022-01-03	1112	D	\N	50000.00	Ade Arifin / Cicilan Cashbon ke 3	JU		Y	TR	COMP
+11:45	2	2022-01-03	1110	D	\N	50000.00	Ade Arifin / Cicilan Cashbon ke 3	JU		Y		COMP
+11:45	2	2022-01-03	4101	K	\N	50000.00	Ade Arifin / Cicilan Cashbon ke 3	JU		Y	TR	COMP
+11:45	2	2022-01-03	4100	K	\N	50000.00	Ade Arifin / Cicilan Cashbon ke 3	JU		Y		COMP
+11:45	3	2022-01-03	1112	D	\N	200000.00	Bu prono / konversi beras 20 kg	JU		Y	TR	COMP
+11:45	3	2022-01-03	1110	D	\N	200000.00	Bu prono / konversi beras 20 kg	JU		Y		COMP
+11:45	3	2022-01-03	4101	K	\N	200000.00	Bu prono / konversi beras 20 kg	JU		Y	TR	COMP
+11:45	3	2022-01-03	4100	K	\N	200000.00	Bu prono / konversi beras 20 kg	JU		Y		COMP
+11:45	1	2022-01-04	1112	D	\N	150000.00	Sukma Ayu / Ligar Rimbun	JU		Y	TR	COMP
+11:45	1	2022-01-04	1110	D	\N	150000.00	Sukma Ayu / Ligar Rimbun	JU		Y		COMP
+11:45	1	2022-01-04	4101	K	\N	150000.00	Sukma Ayu / Ligar Rimbun	JU		Y	TR	COMP
+11:45	1	2022-01-04	4100	K	\N	150000.00	Sukma Ayu / Ligar Rimbun	JU		Y		COMP
+11:45	2	2022-01-04	1112	D	\N	250000.00	Ibu Wati RM Sari Rasa / a.n Tari , Rida dan Linda	JU		Y	TR	COMP
+11:45	2	2022-01-04	1110	D	\N	250000.00	Ibu Wati RM Sari Rasa / a.n Tari , Rida dan Linda	JU		Y		COMP
+11:45	2	2022-01-04	4101	K	\N	250000.00	Ibu Wati RM Sari Rasa / a.n Tari , Rida dan Linda	JU		Y	TR	COMP
+11:45	2	2022-01-04	4100	K	\N	250000.00	Ibu Wati RM Sari Rasa / a.n Tari , Rida dan Linda	JU		Y		COMP
+11:45	3	2022-01-04	1122	D	\N	500000.00	Nina Herdiana / Rek BNI	JU		Y	TR	COMP
+11:45	3	2022-01-04	1120	D	\N	500000.00	Nina Herdiana / Rek BNI	JU		Y		COMP
+11:45	3	2022-01-04	4101	K	\N	500000.00	Nina Herdiana / Rek BNI	JU		Y	TR	COMP
+11:45	3	2022-01-04	4100	K	\N	500000.00	Nina Herdiana / Rek BNI	JU		Y		COMP
+11:45	1	2022-01-05	1122	D	\N	200000.00	Sri Haryanti / Rek BNI	JU		Y	TR	COMP
+11:45	1	2022-01-05	1120	D	\N	200000.00	Sri Haryanti / Rek BNI	JU		Y		COMP
+11:45	1	2022-01-05	4101	K	\N	200000.00	Sri Haryanti / Rek BNI	JU		Y	TR	COMP
+11:45	1	2022-01-05	4100	K	\N	200000.00	Sri Haryanti / Rek BNI	JU		Y		COMP
+11:45	1	2022-01-06	1123	D	\N	500000.00	Bp Luki Rustianto / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-01-06	1120	D	\N	500000.00	Bp Luki Rustianto / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-01-06	4101	K	\N	500000.00	Bp Luki Rustianto / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-01-06	4100	K	\N	500000.00	Bp Luki Rustianto / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-01-07	1123	D	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-01-07	1120	D	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-01-07	4101	K	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-01-07	4100	K	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-01-07	1121	D	\N	100000.00	Bu Ecin Kuraesin / Rek BRI	JU		Y	TR	COMP
+11:45	2	2022-01-07	1120	D	\N	100000.00	Bu Ecin Kuraesin / Rek BRI	JU		Y		COMP
+11:45	2	2022-01-07	4101	K	\N	100000.00	Bu Ecin Kuraesin / Rek BRI	JU		Y	TR	COMP
+11:45	2	2022-01-07	4100	K	\N	100000.00	Bu Ecin Kuraesin / Rek BRI	JU		Y		COMP
+11:45	3	2022-01-07	1121	D	\N	250000.00	Upi / Surabaya / Rek BRI	JU		Y	TR	COMP
+11:45	3	2022-01-07	1120	D	\N	250000.00	Upi / Surabaya / Rek BRI	JU		Y		COMP
+11:45	3	2022-01-07	4101	K	\N	250000.00	Upi / Surabaya / Rek BRI	JU		Y	TR	COMP
+11:45	3	2022-01-07	4100	K	\N	250000.00	Upi / Surabaya / Rek BRI	JU		Y		COMP
+11:45	4	2022-01-07	1124	D	\N	700000.00	Amanda Brownies / ReK BSI	JU		Y	TR	COMP
+11:45	4	2022-01-07	1120	D	\N	700000.00	Amanda Brownies / ReK BSI	JU		Y		COMP
+11:45	4	2022-01-07	4101	K	\N	700000.00	Amanda Brownies / ReK BSI	JU		Y	TR	COMP
+11:45	4	2022-01-07	4100	K	\N	700000.00	Amanda Brownies / ReK BSI	JU		Y		COMP
+11:45	5	2022-01-07	1121	D	\N	100000.00	Nindi / Rek BRI	JU		Y	TR	COMP
+11:45	5	2022-01-07	1120	D	\N	100000.00	Nindi / Rek BRI	JU		Y		COMP
+11:45	5	2022-01-07	4101	K	\N	100000.00	Nindi / Rek BRI	JU		Y	TR	COMP
+11:45	5	2022-01-07	4100	K	\N	100000.00	Nindi / Rek BRI	JU		Y		COMP
+11:45	6	2022-01-07	1112	D	\N	150000.00	Bp Misan / Teh Amanda /	JU		Y	TR	COMP
+11:45	6	2022-01-07	1110	D	\N	150000.00	Bp Misan / Teh Amanda /	JU		Y		COMP
+11:45	6	2022-01-07	4101	K	\N	150000.00	Bp Misan / Teh Amanda /	JU		Y	TR	COMP
+11:45	6	2022-01-07	4100	K	\N	150000.00	Bp Misan / Teh Amanda /	JU		Y		COMP
+11:45	7	2022-01-07	1112	D	\N	500000.00	Bank BJB Cabang Suci / Jl Phh Mustofa	JU		Y	TR	COMP
+11:45	7	2022-01-07	1110	D	\N	500000.00	Bank BJB Cabang Suci / Jl Phh Mustofa	JU		Y		COMP
+11:45	7	2022-01-07	4101	K	\N	500000.00	Bank BJB Cabang Suci / Jl Phh Mustofa	JU		Y	TR	COMP
+11:45	7	2022-01-07	4100	K	\N	500000.00	Bank BJB Cabang Suci / Jl Phh Mustofa	JU		Y		COMP
+11:45	1	2022-01-08	1123	D	\N	8800000.00	Santunan dari Telkom Property / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-01-08	1120	D	\N	8800000.00	Santunan dari Telkom Property / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-01-08	4101	K	\N	8800000.00	Santunan dari Telkom Property / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-01-08	4100	K	\N	8800000.00	Santunan dari Telkom Property / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-01-10	1121	D	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-01-10	1120	D	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y		COMP
+11:45	1	2022-01-10	4101	K	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-01-10	4100	K	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y		COMP
+11:45	1	2022-01-11	1112	D	\N	240000.00	Kencleng Bu Ali	JU		Y	TR	COMP
+11:45	1	2022-01-11	1110	D	\N	240000.00	Kencleng Bu Ali	JU		Y		COMP
+11:45	1	2022-01-11	4101	K	\N	240000.00	Kencleng Bu Ali	JU		Y	TR	COMP
+11:45	1	2022-01-11	4100	K	\N	240000.00	Kencleng Bu Ali	JU		Y		COMP
+11:45	2	2022-01-11	1123	D	\N	0.00	PT Sanbe Farma / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-01-11	1120	D	\N	0.00	PT Sanbe Farma / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-01-11	4101	K	\N	0.00	PT Sanbe Farma / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-01-11	4100	K	\N	0.00	PT Sanbe Farma / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-01-13	1112	D	\N	450000.00	Bu Tata / Sukaluyu / konversi beras 45 kg	JU		Y	TR	COMP
+11:45	1	2022-01-13	1110	D	\N	450000.00	Bu Tata / Sukaluyu / konversi beras 45 kg	JU		Y		COMP
+11:45	1	2022-01-13	4101	K	\N	450000.00	Bu Tata / Sukaluyu / konversi beras 45 kg	JU		Y	TR	COMP
+11:45	1	2022-01-13	4100	K	\N	450000.00	Bu Tata / Sukaluyu / konversi beras 45 kg	JU		Y		COMP
+11:45	2	2022-01-13	1112	D	\N	60000.00	Mery konversi minyak 4 L, Bu Ida konversi minyak 2	JU		Y	TR	COMP
+11:45	2	2022-01-13	1110	D	\N	60000.00	Mery konversi minyak 4 L, Bu Ida konversi minyak 2	JU		Y		COMP
+11:45	2	2022-01-13	4101	K	\N	60000.00	Mery konversi minyak 4 L, Bu Ida konversi minyak 2	JU		Y	TR	COMP
+11:45	2	2022-01-13	4100	K	\N	60000.00	Mery konversi minyak 4 L, Bu Ida konversi minyak 2	JU		Y		COMP
+11:45	3	2022-01-13	1112	D	\N	2000000.00	Ghani Mandiri Indonesia / Jl. PHH mustofa 35 bdg	JU		Y	TR	COMP
+11:45	3	2022-01-13	1110	D	\N	2000000.00	Ghani Mandiri Indonesia / Jl. PHH mustofa 35 bdg	JU		Y		COMP
+11:45	3	2022-01-13	4101	K	\N	2000000.00	Ghani Mandiri Indonesia / Jl. PHH mustofa 35 bdg	JU		Y	TR	COMP
+11:45	3	2022-01-13	4100	K	\N	2000000.00	Ghani Mandiri Indonesia / Jl. PHH mustofa 35 bdg	JU		Y		COMP
+11:45	4	2022-01-13	1112	D	\N	400000.00	Zahra / Pengembalian sisa uang amplop dari Telkom	JU		Y	TR	COMP
+11:45	4	2022-01-13	1110	D	\N	400000.00	Zahra / Pengembalian sisa uang amplop dari Telkom	JU		Y		COMP
+11:45	4	2022-01-13	4101	K	\N	400000.00	Zahra / Pengembalian sisa uang amplop dari Telkom	JU		Y	TR	COMP
+11:45	4	2022-01-13	4100	K	\N	400000.00	Zahra / Pengembalian sisa uang amplop dari Telkom	JU		Y		COMP
+11:45	1	2022-01-14	1112	D	\N	20000.00	Pa Zuhry / Pasir layung / konversi minyak 2 Lt	JU		Y	TR	COMP
+11:45	1	2022-01-14	1110	D	\N	20000.00	Pa Zuhry / Pasir layung / konversi minyak 2 Lt	JU		Y		COMP
+11:45	1	2022-01-14	4101	K	\N	20000.00	Pa Zuhry / Pasir layung / konversi minyak 2 Lt	JU		Y	TR	COMP
+11:45	1	2022-01-14	4100	K	\N	20000.00	Pa Zuhry / Pasir layung / konversi minyak 2 Lt	JU		Y		COMP
+11:45	2	2022-01-14	1112	D	\N	1000000.00	H.Kasih Sugiman,H Barkiah, Hj Lina / Sumatera	JU		Y	TR	COMP
+11:45	2	2022-01-14	1110	D	\N	1000000.00	H.Kasih Sugiman,H Barkiah, Hj Lina / Sumatera	JU		Y		COMP
+11:45	2	2022-01-14	4101	K	\N	1000000.00	H.Kasih Sugiman,H Barkiah, Hj Lina / Sumatera	JU		Y	TR	COMP
+11:45	2	2022-01-14	4100	K	\N	1000000.00	H.Kasih Sugiman,H Barkiah, Hj Lina / Sumatera	JU		Y		COMP
+11:45	3	2022-01-14	1123	D	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-01-14	1120	D	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-01-14	4101	K	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-01-14	4100	K	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-01-14	1122	D	\N	100000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	4	2022-01-14	1120	D	\N	100000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	4	2022-01-14	4101	K	\N	100000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	4	2022-01-14	4100	K	\N	100000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	5	2022-01-14	1123	D	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-01-14	1120	D	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-01-14	4101	K	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-01-14	4100	K	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	6	2022-01-14	1123	D	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-01-14	1120	D	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	6	2022-01-14	4101	K	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-01-14	4100	K	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	7	2022-01-14	1121	D	\N	200000.00	Sri Windadari / Rek BRI	JU		Y	TR	COMP
+11:45	7	2022-01-14	1120	D	\N	200000.00	Sri Windadari / Rek BRI	JU		Y		COMP
+11:45	7	2022-01-14	4101	K	\N	200000.00	Sri Windadari / Rek BRI	JU		Y	TR	COMP
+11:45	7	2022-01-14	4100	K	\N	200000.00	Sri Windadari / Rek BRI	JU		Y		COMP
+11:45	8	2022-01-14	1123	D	\N	500000.00	Dedy Setiadi / Rek Mandiri	JU		Y	TR	COMP
+11:45	8	2022-01-14	1120	D	\N	500000.00	Dedy Setiadi / Rek Mandiri	JU		Y		COMP
+11:45	8	2022-01-14	4101	K	\N	500000.00	Dedy Setiadi / Rek Mandiri	JU		Y	TR	COMP
+11:45	8	2022-01-14	4100	K	\N	500000.00	Dedy Setiadi / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-01-17	1112	D	\N	500000.00	Ade Yanwar / Cicilan Casbon ke-8	JU		Y	TR	COMP
+11:45	1	2022-01-17	1110	D	\N	500000.00	Ade Yanwar / Cicilan Casbon ke-8	JU		Y		COMP
+11:45	1	2022-01-17	1601	K	\N	500000.00	Ade Yanwar / Cicilan Casbon ke-8	JU		Y	TR	COMP
+11:45	1	2022-01-17	1600	K	\N	500000.00	Ade Yanwar / Cicilan Casbon ke-8	JU		Y		COMP
+11:45	1	2022-01-20	1112	D	\N	250000.00	Bu Tata / Sukaluyu / konversi beras 25 kg	JU		Y	TR	COMP
+11:45	1	2022-01-20	1110	D	\N	250000.00	Bu Tata / Sukaluyu / konversi beras 25 kg	JU		Y		COMP
+11:45	1	2022-01-20	4101	K	\N	250000.00	Bu Tata / Sukaluyu / konversi beras 25 kg	JU		Y	TR	COMP
+11:45	1	2022-01-20	4100	K	\N	250000.00	Bu Tata / Sukaluyu / konversi beras 25 kg	JU		Y		COMP
+11:45	2	2022-01-20	1112	D	\N	300000.00	H.Muhammad Ali Farouk / Jl Segar ujung Berung	JU		Y	TR	COMP
+11:45	2	2022-01-20	1110	D	\N	300000.00	H.Muhammad Ali Farouk / Jl Segar ujung Berung	JU		Y		COMP
+11:45	2	2022-01-20	4101	K	\N	300000.00	H.Muhammad Ali Farouk / Jl Segar ujung Berung	JU		Y	TR	COMP
+11:45	2	2022-01-20	4100	K	\N	300000.00	H.Muhammad Ali Farouk / Jl Segar ujung Berung	JU		Y		COMP
+11:45	1	2022-01-21	1112	D	\N	50000.00	Hamba Alloh / Jl. Pramuka 13	JU		Y	TR	COMP
+11:45	1	2022-01-21	1110	D	\N	50000.00	Hamba Alloh / Jl. Pramuka 13	JU		Y		COMP
+11:45	1	2022-01-21	4101	K	\N	50000.00	Hamba Alloh / Jl. Pramuka 13	JU		Y	TR	COMP
+11:45	1	2022-01-21	4100	K	\N	50000.00	Hamba Alloh / Jl. Pramuka 13	JU		Y		COMP
+11:45	2	2022-01-21	1123	D	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-01-21	1120	D	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-01-21	4101	K	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-01-21	4100	K	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-01-21	1121	D	\N	25000.00	Luki / Rek BRI	JU		Y	TR	COMP
+11:45	3	2022-01-21	1120	D	\N	25000.00	Luki / Rek BRI	JU		Y		COMP
+11:45	3	2022-01-21	4101	K	\N	25000.00	Luki / Rek BRI	JU		Y	TR	COMP
+11:45	3	2022-01-21	4100	K	\N	25000.00	Luki / Rek BRI	JU		Y		COMP
+11:45	4	2022-01-21	1121	D	\N	300000.00	a.n Ais Hidayah / Rek BRI	JU		Y	TR	COMP
+11:45	4	2022-01-21	1120	D	\N	300000.00	a.n Ais Hidayah / Rek BRI	JU		Y		COMP
+11:45	4	2022-01-21	4101	K	\N	300000.00	a.n Ais Hidayah / Rek BRI	JU		Y	TR	COMP
+11:45	4	2022-01-21	4100	K	\N	300000.00	a.n Ais Hidayah / Rek BRI	JU		Y		COMP
+11:45	5	2022-01-21	1123	D	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-01-21	1120	D	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-01-21	4101	K	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-01-21	4100	K	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	6	2022-01-21	1122	D	\N	100000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	6	2022-01-21	1120	D	\N	100000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	6	2022-01-21	4101	K	\N	100000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	6	2022-01-21	4100	K	\N	100000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	7	2022-01-21	1121	D	\N	100000.00	Nindi / Rek BRI	JU		Y	TR	COMP
+11:45	7	2022-01-21	1120	D	\N	100000.00	Nindi / Rek BRI	JU		Y		COMP
+11:45	7	2022-01-21	4101	K	\N	100000.00	Nindi / Rek BRI	JU		Y	TR	COMP
+11:45	7	2022-01-21	4100	K	\N	100000.00	Nindi / Rek BRI	JU		Y		COMP
+11:45	1	2022-01-22	1112	D	\N	50000.00	Bu Imas / Sukaluyu / konversi Beras 5 kg	JU		Y	TR	COMP
+11:45	1	2022-01-22	1110	D	\N	50000.00	Bu Imas / Sukaluyu / konversi Beras 5 kg	JU		Y		COMP
+11:45	1	2022-01-22	4101	K	\N	50000.00	Bu Imas / Sukaluyu / konversi Beras 5 kg	JU		Y	TR	COMP
+11:45	1	2022-01-22	4100	K	\N	50000.00	Bu Imas / Sukaluyu / konversi Beras 5 kg	JU		Y		COMP
+11:45	1	2022-01-24	1112	D	\N	500000.00	Wawan Karnawan / Setiabudi	JU		Y	TR	COMP
+11:45	1	2022-01-24	1110	D	\N	500000.00	Wawan Karnawan / Setiabudi	JU		Y		COMP
+11:45	1	2022-01-24	4101	K	\N	500000.00	Wawan Karnawan / Setiabudi	JU		Y	TR	COMP
+11:45	1	2022-01-24	4100	K	\N	500000.00	Wawan Karnawan / Setiabudi	JU		Y		COMP
+11:45	1	2022-01-25	1123	D	\N	300000.00	alm H.Hanafi bin Sutalaksana dan almh  Ny Sonya Pu	JU		Y	TR	COMP
+11:45	1	2022-01-25	1120	D	\N	300000.00	alm H.Hanafi bin Sutalaksana dan almh  Ny Sonya Pu	JU		Y		COMP
+11:45	1	2022-01-25	4101	K	\N	300000.00	alm H.Hanafi bin Sutalaksana dan almh  Ny Sonya Pu	JU		Y	TR	COMP
+11:45	1	2022-01-25	4100	K	\N	300000.00	alm H.Hanafi bin Sutalaksana dan almh  Ny Sonya Pu	JU		Y		COMP
+11:45	2	2022-01-25	1112	D	\N	10000.00	Mery konversi gula putih 1 kg	JU		Y	TR	COMP
+11:45	2	2022-01-25	1110	D	\N	10000.00	Mery konversi gula putih 1 kg	JU		Y		COMP
+11:45	2	2022-01-25	4101	K	\N	10000.00	Mery konversi gula putih 1 kg	JU		Y	TR	COMP
+11:45	2	2022-01-25	4100	K	\N	10000.00	Mery konversi gula putih 1 kg	JU		Y		COMP
+11:45	3	2022-01-25	1112	D	\N	310800.00	Kencleng Pa Zuhry	JU		Y	TR	COMP
+11:45	3	2022-01-25	1110	D	\N	310800.00	Kencleng Pa Zuhry	JU		Y		COMP
+11:45	3	2022-01-25	4101	K	\N	310800.00	Kencleng Pa Zuhry	JU		Y	TR	COMP
+11:45	3	2022-01-25	4100	K	\N	310800.00	Kencleng Pa Zuhry	JU		Y		COMP
+11:45	1	2022-01-27	1112	D	\N	250000.00	Bu Tata / konversi beras 25 kg	JU		Y	TR	COMP
+11:45	1	2022-01-27	1110	D	\N	250000.00	Bu Tata / konversi beras 25 kg	JU		Y		COMP
+11:45	1	2022-01-27	4101	K	\N	250000.00	Bu Tata / konversi beras 25 kg	JU		Y	TR	COMP
+11:45	1	2022-01-27	4100	K	\N	250000.00	Bu Tata / konversi beras 25 kg	JU		Y		COMP
+11:45	2	2022-01-27	1112	D	\N	150000.00	BPJS Kesehatan / jl PHH Mustofa	JU		Y	TR	COMP
+11:45	2	2022-01-27	1110	D	\N	150000.00	BPJS Kesehatan / jl PHH Mustofa	JU		Y		COMP
+11:45	2	2022-01-27	4101	K	\N	150000.00	BPJS Kesehatan / jl PHH Mustofa	JU		Y	TR	COMP
+11:45	2	2022-01-27	4100	K	\N	150000.00	BPJS Kesehatan / jl PHH Mustofa	JU		Y		COMP
+11:45	1	2022-01-28	1112	D	\N	500000.00	Touring MMP ( Mawar Merah putih )	JU		Y	TR	COMP
+11:45	1	2022-01-28	1110	D	\N	500000.00	Touring MMP ( Mawar Merah putih )	JU		Y		COMP
+11:45	1	2022-01-28	4101	K	\N	500000.00	Touring MMP ( Mawar Merah putih )	JU		Y	TR	COMP
+11:45	1	2022-01-28	4100	K	\N	500000.00	Touring MMP ( Mawar Merah putih )	JU		Y		COMP
+11:45	2	2022-01-28	1123	D	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-01-28	1120	D	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-01-28	4101	K	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-01-28	4100	K	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-01-28	1123	D	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-01-28	1120	D	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-01-28	4101	K	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-01-28	4100	K	\N	250000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-01-28	1123	D	\N	1000000.00	Dedy Setiadi / Infaq renov Asrama Puteri / Rek Man	JU		Y	TR	COMP
+11:45	4	2022-01-28	1120	D	\N	1000000.00	Dedy Setiadi / Infaq renov Asrama Puteri / Rek Man	JU		Y		COMP
+11:45	4	2022-01-28	4102	K	\N	1000000.00	Dedy Setiadi / Infaq renov Asrama Puteri / Rek Man	JU		Y	TR	COMP
+11:45	4	2022-01-28	4100	K	\N	1000000.00	Dedy Setiadi / Infaq renov Asrama Puteri / Rek Man	JU		Y		COMP
+11:45	5	2022-01-28	1124	D	\N	300000.00	Fazid  Arzaq / Rek BSI	JU		Y	TR	COMP
+11:45	5	2022-01-28	1120	D	\N	300000.00	Fazid  Arzaq / Rek BSI	JU		Y		COMP
+11:45	5	2022-01-28	4101	K	\N	300000.00	Fazid  Arzaq / Rek BSI	JU		Y	TR	COMP
+11:45	5	2022-01-28	4100	K	\N	300000.00	Fazid  Arzaq / Rek BSI	JU		Y		COMP
+11:45	6	2022-01-28	1123	D	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-01-28	1120	D	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	6	2022-01-28	4101	K	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-01-28	4100	K	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	7	2022-01-28	1122	D	\N	200000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	7	2022-01-28	1120	D	\N	200000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	7	2022-01-28	4101	K	\N	200000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	7	2022-01-28	4100	K	\N	200000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	8	2022-01-28	1123	D	\N	500000.00	Gadih Ranti binti Fauzy Baron / Rek Mandiri	JU		Y	TR	COMP
+11:45	8	2022-01-28	1120	D	\N	500000.00	Gadih Ranti binti Fauzy Baron / Rek Mandiri	JU		Y		COMP
+11:45	8	2022-01-28	4101	K	\N	500000.00	Gadih Ranti binti Fauzy Baron / Rek Mandiri	JU		Y	TR	COMP
+11:45	8	2022-01-28	4100	K	\N	500000.00	Gadih Ranti binti Fauzy Baron / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-01-29	1121	D	\N	500000.00	Dian binti Noviar Muis / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-01-29	1120	D	\N	500000.00	Dian binti Noviar Muis / Rek BRI	JU		Y		COMP
+11:45	1	2022-01-29	4101	K	\N	500000.00	Dian binti Noviar Muis / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-01-29	4100	K	\N	500000.00	Dian binti Noviar Muis / Rek BRI	JU		Y		COMP
+11:45	2	2022-01-29	1122	D	\N	350000.00	Muhamad Subhan / a.n Mochammad Djaelani bin Abu Sy	JU		Y	TR	COMP
+11:45	2	2022-01-29	1120	D	\N	350000.00	Muhamad Subhan / a.n Mochammad Djaelani bin Abu Sy	JU		Y		COMP
+11:45	2	2022-01-29	4101	K	\N	350000.00	Muhamad Subhan / a.n Mochammad Djaelani bin Abu Sy	JU		Y	TR	COMP
+11:45	2	2022-01-29	4100	K	\N	350000.00	Muhamad Subhan / a.n Mochammad Djaelani bin Abu Sy	JU		Y		COMP
+11:45	1	2022-01-31	1123	D	\N	1000000.00	Fauzy Baron / Infaq Renov Asrama Puteri / Rek Mand	JU		Y	TR	COMP
+11:45	1	2022-01-31	1120	D	\N	1000000.00	Fauzy Baron / Infaq Renov Asrama Puteri / Rek Mand	JU		Y		COMP
+11:45	1	2022-01-31	4101	K	\N	1000000.00	Fauzy Baron / Infaq Renov Asrama Puteri / Rek Mand	JU		Y	TR	COMP
+11:45	1	2022-01-31	4100	K	\N	1000000.00	Fauzy Baron / Infaq Renov Asrama Puteri / Rek Mand	JU		Y		COMP
+11:45	2	2022-01-31	1112	D	\N	300000.00	Ibu Sri Lestari A. ( Widyatama )	JU		Y	TR	COMP
+11:45	2	2022-01-31	1110	D	\N	300000.00	Ibu Sri Lestari A. ( Widyatama )	JU		Y		COMP
+11:45	2	2022-01-31	4101	K	\N	300000.00	Ibu Sri Lestari A. ( Widyatama )	JU		Y	TR	COMP
+11:45	2	2022-01-31	4100	K	\N	300000.00	Ibu Sri Lestari A. ( Widyatama )	JU		Y		COMP
+11:45	1	2022-02-01	1122	D	\N	187500.00	Ardi Ramadan / Rek BNI	JU		Y	TR	COMP
+11:45	1	2022-02-01	1120	D	\N	187500.00	Ardi Ramadan / Rek BNI	JU		Y		COMP
+11:45	1	2022-02-01	4101	K	\N	187500.00	Ardi Ramadan / Rek BNI	JU		Y	TR	COMP
+11:45	1	2022-02-01	4100	K	\N	187500.00	Ardi Ramadan / Rek BNI	JU		Y		COMP
+11:45	2	2022-02-01	1112	D	\N	1000000.00	M. Athrsyah El Shirazy / Sadang Serang	JU		Y	TR	COMP
+11:45	2	2022-02-01	1110	D	\N	1000000.00	M. Athrsyah El Shirazy / Sadang Serang	JU		Y		COMP
+11:45	2	2022-02-01	4101	K	\N	1000000.00	M. Athrsyah El Shirazy / Sadang Serang	JU		Y	TR	COMP
+11:45	2	2022-02-01	4100	K	\N	1000000.00	M. Athrsyah El Shirazy / Sadang Serang	JU		Y		COMP
+11:45	3	2022-02-01	1112	D	\N	150000.00	Bp Misan / Sukaluyu	JU		Y	TR	COMP
+11:45	3	2022-02-01	1110	D	\N	150000.00	Bp Misan / Sukaluyu	JU		Y		COMP
+11:45	3	2022-02-01	4101	K	\N	150000.00	Bp Misan / Sukaluyu	JU		Y	TR	COMP
+11:45	3	2022-02-01	4100	K	\N	150000.00	Bp Misan / Sukaluyu	JU		Y		COMP
+11:45	4	2022-02-01	1112	D	\N	200000.00	 konversi beras / Gunawan / 20 kg	JU		Y	TR	COMP
+11:45	4	2022-02-01	1110	D	\N	200000.00	 konversi beras / Gunawan / 20 kg	JU		Y		COMP
+11:45	4	2022-02-01	4101	K	\N	200000.00	 konversi beras / Gunawan / 20 kg	JU		Y	TR	COMP
+11:45	4	2022-02-01	4100	K	\N	200000.00	 konversi beras / Gunawan / 20 kg	JU		Y		COMP
+11:45	5	2022-02-01	1112	D	\N	879700.00	Kencleng kelompok salsa	JU		Y	TR	COMP
+11:45	5	2022-02-01	1110	D	\N	879700.00	Kencleng kelompok salsa	JU		Y		COMP
+11:45	5	2022-02-01	4101	K	\N	879700.00	Kencleng kelompok salsa	JU		Y	TR	COMP
+11:45	5	2022-02-01	4100	K	\N	879700.00	Kencleng kelompok salsa	JU		Y		COMP
+11:45	6	2022-02-01	1112	D	\N	1199400.00	kencleng kelompok Nina	JU		Y	TR	COMP
+11:45	6	2022-02-01	1110	D	\N	1199400.00	kencleng kelompok Nina	JU		Y		COMP
+11:45	6	2022-02-01	4101	K	\N	1199400.00	kencleng kelompok Nina	JU		Y	TR	COMP
+11:45	6	2022-02-01	4100	K	\N	1199400.00	kencleng kelompok Nina	JU		Y		COMP
+11:45	1	2022-02-02	1112	D	\N	100000.00	konversi beras / Teh Neng / 10 kg	JU		Y	TR	COMP
+11:45	1	2022-02-02	1110	D	\N	100000.00	konversi beras / Teh Neng / 10 kg	JU		Y		COMP
+11:45	1	2022-02-02	4101	K	\N	100000.00	konversi beras / Teh Neng / 10 kg	JU		Y	TR	COMP
+11:45	1	2022-02-02	4100	K	\N	100000.00	konversi beras / Teh Neng / 10 kg	JU		Y		COMP
+11:45	2	2022-02-02	1123	D	\N	500000.00	Isni Anisah puspowati / Kel. Pa Dahrur / Rek Mandi	JU		Y	TR	COMP
+11:45	2	2022-02-02	1120	D	\N	500000.00	Isni Anisah puspowati / Kel. Pa Dahrur / Rek Mandi	JU		Y		COMP
+11:45	2	2022-02-02	4101	K	\N	500000.00	Isni Anisah puspowati / Kel. Pa Dahrur / Rek Mandi	JU		Y	TR	COMP
+11:45	2	2022-02-02	4100	K	\N	500000.00	Isni Anisah puspowati / Kel. Pa Dahrur / Rek Mandi	JU		Y		COMP
+11:45	3	2022-02-02	1122	D	\N	500000.00	Nina Herdiana / Rek BNI	JU		Y	TR	COMP
+11:45	3	2022-02-02	1120	D	\N	500000.00	Nina Herdiana / Rek BNI	JU		Y		COMP
+11:45	3	2022-02-02	4101	K	\N	500000.00	Nina Herdiana / Rek BNI	JU		Y	TR	COMP
+11:45	3	2022-02-02	4100	K	\N	500000.00	Nina Herdiana / Rek BNI	JU		Y		COMP
+11:45	4	2022-02-02	1123	D	\N	250000.00	Djaliwardi / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-02-02	1120	D	\N	250000.00	Djaliwardi / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-02-02	4101	K	\N	250000.00	Djaliwardi / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-02-02	4100	K	\N	250000.00	Djaliwardi / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-02-03	1123	D	\N	300000.00	Yuammar Imarrazan B./  Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-02-03	1120	D	\N	300000.00	Yuammar Imarrazan B./  Rek Mandiri	JU		Y		COMP
+11:45	1	2022-02-03	4101	K	\N	300000.00	Yuammar Imarrazan B./  Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-02-03	4100	K	\N	300000.00	Yuammar Imarrazan B./  Rek Mandiri	JU		Y		COMP
+11:45	2	2022-02-03	1123	D	\N	300000.00	Nining Susanti / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-02-03	1120	D	\N	300000.00	Nining Susanti / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-02-03	4101	K	\N	300000.00	Nining Susanti / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-02-03	4100	K	\N	300000.00	Nining Susanti / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-02-03	1123	D	\N	250000.00	Ruddy Suwandi / Bogor / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-02-03	1120	D	\N	250000.00	Ruddy Suwandi / Bogor / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-02-03	4101	K	\N	250000.00	Ruddy Suwandi / Bogor / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-02-03	4100	K	\N	250000.00	Ruddy Suwandi / Bogor / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-02-03	1122	D	\N	200000.00	Sri Haryanti / Rek BNI	JU		Y	TR	COMP
+11:45	4	2022-02-03	1120	D	\N	200000.00	Sri Haryanti / Rek BNI	JU		Y		COMP
+11:45	4	2022-02-03	4101	K	\N	200000.00	Sri Haryanti / Rek BNI	JU		Y	TR	COMP
+11:45	4	2022-02-03	4100	K	\N	200000.00	Sri Haryanti / Rek BNI	JU		Y		COMP
+11:45	5	2022-02-03	1112	D	\N	250000.00	konversi beras / Bu tata / 25 kg	JU		Y	TR	COMP
+11:45	5	2022-02-03	1110	D	\N	250000.00	konversi beras / Bu tata / 25 kg	JU		Y		COMP
+11:45	5	2022-02-03	4101	K	\N	250000.00	konversi beras / Bu tata / 25 kg	JU		Y	TR	COMP
+11:45	5	2022-02-03	4100	K	\N	250000.00	konversi beras / Bu tata / 25 kg	JU		Y		COMP
+11:45	6	2022-02-03	1112	D	\N	500000.00	Keluarga Besar ( alm ) Bp Sodik / Sukaluyu	JU		Y	TR	COMP
+11:45	6	2022-02-03	1110	D	\N	500000.00	Keluarga Besar ( alm ) Bp Sodik / Sukaluyu	JU		Y		COMP
+11:45	6	2022-02-03	4101	K	\N	500000.00	Keluarga Besar ( alm ) Bp Sodik / Sukaluyu	JU		Y	TR	COMP
+11:45	6	2022-02-03	4100	K	\N	500000.00	Keluarga Besar ( alm ) Bp Sodik / Sukaluyu	JU		Y		COMP
+11:45	7	2022-02-03	1122	D	\N	100000.00	Retno Utami Ambari / Rek BNI	JU		Y	TR	COMP
+11:45	7	2022-02-03	1120	D	\N	100000.00	Retno Utami Ambari / Rek BNI	JU		Y		COMP
+11:45	7	2022-02-03	4101	K	\N	100000.00	Retno Utami Ambari / Rek BNI	JU		Y	TR	COMP
+11:45	7	2022-02-03	4100	K	\N	100000.00	Retno Utami Ambari / Rek BNI	JU		Y		COMP
+11:45	8	2022-02-03	1123	D	\N	1000000.00	Budi Handojo / Rek Mandiri	JU		Y	TR	COMP
+11:45	8	2022-02-03	1120	D	\N	1000000.00	Budi Handojo / Rek Mandiri	JU		Y		COMP
+11:45	8	2022-02-03	4101	K	\N	1000000.00	Budi Handojo / Rek Mandiri	JU		Y	TR	COMP
+11:45	8	2022-02-03	4100	K	\N	1000000.00	Budi Handojo / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-02-04	1121	D	\N	150000.00	Ais Hidayah / Ais koesmar / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-02-04	1120	D	\N	150000.00	Ais Hidayah / Ais koesmar / Rek BRI	JU		Y		COMP
+11:45	1	2022-02-04	4101	K	\N	150000.00	Ais Hidayah / Ais koesmar / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-02-04	4100	K	\N	150000.00	Ais Hidayah / Ais koesmar / Rek BRI	JU		Y		COMP
+11:45	2	2022-02-04	1123	D	\N	500000.00	Luki Rustianto / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-02-04	1120	D	\N	500000.00	Luki Rustianto / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-02-04	4101	K	\N	500000.00	Luki Rustianto / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-02-04	4100	K	\N	500000.00	Luki Rustianto / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-02-04	1122	D	\N	300000.00	Ratih Kartikawati / Rek BNI	JU		Y	TR	COMP
+11:45	3	2022-02-04	1120	D	\N	300000.00	Ratih Kartikawati / Rek BNI	JU		Y		COMP
+11:45	3	2022-02-04	4101	K	\N	300000.00	Ratih Kartikawati / Rek BNI	JU		Y	TR	COMP
+11:45	3	2022-02-04	4100	K	\N	300000.00	Ratih Kartikawati / Rek BNI	JU		Y		COMP
+11:45	4	2022-02-04	1123	D	\N	150000.00	Anhar Muharam / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-02-04	1120	D	\N	150000.00	Anhar Muharam / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-02-04	4101	K	\N	150000.00	Anhar Muharam / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-02-04	4100	K	\N	150000.00	Anhar Muharam / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-02-04	1123	D	\N	50000.00	Prima / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-02-04	1120	D	\N	50000.00	Prima / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-02-04	4101	K	\N	50000.00	Prima / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-02-04	4100	K	\N	50000.00	Prima / Rek Mandiri	JU		Y		COMP
+11:45	6	2022-02-04	1123	D	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-02-04	1120	D	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	6	2022-02-04	4101	K	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-02-04	4100	K	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	7	2022-02-04	1122	D	\N	400000.00	Siti Mialasmaya SE. / Rek BNI	JU		Y	TR	COMP
+11:45	7	2022-02-04	1120	D	\N	400000.00	Siti Mialasmaya SE. / Rek BNI	JU		Y		COMP
+11:45	7	2022-02-04	4101	K	\N	400000.00	Siti Mialasmaya SE. / Rek BNI	JU		Y	TR	COMP
+11:45	7	2022-02-04	4100	K	\N	400000.00	Siti Mialasmaya SE. / Rek BNI	JU		Y		COMP
+11:45	8	2022-02-04	1122	D	\N	100000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	8	2022-02-04	1120	D	\N	100000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	8	2022-02-04	4101	K	\N	100000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	8	2022-02-04	4100	K	\N	100000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	9	2022-02-04	1121	D	\N	25000.00	Luki / Rek BRI	JU		Y	TR	COMP
+11:45	9	2022-02-04	1120	D	\N	25000.00	Luki / Rek BRI	JU		Y		COMP
+11:45	9	2022-02-04	4101	K	\N	25000.00	Luki / Rek BRI	JU		Y	TR	COMP
+11:45	9	2022-02-04	4100	K	\N	25000.00	Luki / Rek BRI	JU		Y		COMP
+11:45	10	2022-02-04	1112	D	\N	250000.00	Kel. Pa Sasmoko ( Putri Ayu Sasmi ) / Zakat mal	JU		Y	TR	COMP
+11:45	10	2022-02-04	1110	D	\N	250000.00	Kel. Pa Sasmoko ( Putri Ayu Sasmi ) / Zakat mal	JU		Y		COMP
+11:45	10	2022-02-04	4101	K	\N	250000.00	Kel. Pa Sasmoko ( Putri Ayu Sasmi ) / Zakat mal	JU		Y	TR	COMP
+11:45	10	2022-02-04	4100	K	\N	250000.00	Kel. Pa Sasmoko ( Putri Ayu Sasmi ) / Zakat mal	JU		Y		COMP
+11:45	11	2022-02-04	1112	D	\N	2080000.00	BSI / wilayah area Jabar	JU		Y	TR	COMP
+11:45	11	2022-02-04	1110	D	\N	2080000.00	BSI / wilayah area Jabar	JU		Y		COMP
+11:45	11	2022-02-04	4101	K	\N	2080000.00	BSI / wilayah area Jabar	JU		Y	TR	COMP
+11:45	11	2022-02-04	4100	K	\N	2080000.00	BSI / wilayah area Jabar	JU		Y		COMP
+11:45	1	2022-02-05	1112	D	\N	250000.00	Khumaedi . S / jl Pikitdro II no 7	JU		Y	TR	COMP
+11:45	1	2022-02-05	1110	D	\N	250000.00	Khumaedi . S / jl Pikitdro II no 7	JU		Y		COMP
+11:45	1	2022-02-05	4101	K	\N	250000.00	Khumaedi . S / jl Pikitdro II no 7	JU		Y	TR	COMP
+11:45	1	2022-02-05	4100	K	\N	250000.00	Khumaedi . S / jl Pikitdro II no 7	JU		Y		COMP
+11:45	2	2022-02-05	1112	D	\N	500000.00	Yusfandaria	JU		Y	TR	COMP
+11:45	2	2022-02-05	1110	D	\N	500000.00	Yusfandaria	JU		Y		COMP
+11:45	2	2022-02-05	4101	K	\N	500000.00	Yusfandaria	JU		Y	TR	COMP
+11:45	2	2022-02-05	4100	K	\N	500000.00	Yusfandaria	JU		Y		COMP
+11:45	3	2022-02-05	1121	D	\N	150000.00	Nindi / Rek BRI	JU		Y	TR	COMP
+11:45	3	2022-02-05	1120	D	\N	150000.00	Nindi / Rek BRI	JU		Y		COMP
+11:45	3	2022-02-05	4101	K	\N	150000.00	Nindi / Rek BRI	JU		Y	TR	COMP
+11:45	3	2022-02-05	4100	K	\N	150000.00	Nindi / Rek BRI	JU		Y		COMP
+11:45	1	2022-02-06	1123	D	\N	500000.00	Thamrin S.A / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-02-06	1120	D	\N	500000.00	Thamrin S.A / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-02-06	4101	K	\N	500000.00	Thamrin S.A / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-02-06	4100	K	\N	500000.00	Thamrin S.A / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-02-07	1112	D	\N	400000.00	Pengembalian lebih amplop anak putera dari Bank BS	JU		Y	TR	COMP
+11:45	1	2022-02-07	1110	D	\N	400000.00	Pengembalian lebih amplop anak putera dari Bank BS	JU		Y		COMP
+11:45	1	2022-02-07	4101	K	\N	400000.00	Pengembalian lebih amplop anak putera dari Bank BS	JU		Y	TR	COMP
+11:45	1	2022-02-07	4100	K	\N	400000.00	Pengembalian lebih amplop anak putera dari Bank BS	JU		Y		COMP
+11:45	2	2022-02-07	1121	D	\N	500000.00	Kel Fahmi Zuarly / Oman / Rek BRI	JU		Y	TR	COMP
+11:45	2	2022-02-07	1120	D	\N	500000.00	Kel Fahmi Zuarly / Oman / Rek BRI	JU		Y		COMP
+11:45	2	2022-02-07	4101	K	\N	500000.00	Kel Fahmi Zuarly / Oman / Rek BRI	JU		Y	TR	COMP
+11:45	2	2022-02-07	4100	K	\N	500000.00	Kel Fahmi Zuarly / Oman / Rek BRI	JU		Y		COMP
+11:45	3	2022-02-07	1112	D	\N	500000.00	Ade Yanwar / Cicilan Cashbon ke - 9	JU		Y	TR	COMP
+11:45	3	2022-02-07	1110	D	\N	500000.00	Ade Yanwar / Cicilan Cashbon ke - 9	JU		Y		COMP
+11:45	3	2022-02-07	1601	K	\N	500000.00	Ade Yanwar / Cicilan Cashbon ke - 9	JU		Y	TR	COMP
+11:45	3	2022-02-07	1600	K	\N	500000.00	Ade Yanwar / Cicilan Cashbon ke - 9	JU		Y		COMP
+11:45	1	2022-02-08	1112	D	\N	300000.00	Siti Rozanah / Neglasari	JU		Y	TR	COMP
+11:45	1	2022-02-08	1110	D	\N	300000.00	Siti Rozanah / Neglasari	JU		Y		COMP
+11:45	1	2022-02-08	4101	K	\N	300000.00	Siti Rozanah / Neglasari	JU		Y	TR	COMP
+11:45	1	2022-02-08	4100	K	\N	300000.00	Siti Rozanah / Neglasari	JU		Y		COMP
+11:45	2	2022-02-08	1112	D	\N	100000.00	Dina / untuk renov asrama putri	JU		Y	TR	COMP
+11:45	2	2022-02-08	1110	D	\N	100000.00	Dina / untuk renov asrama putri	JU		Y		COMP
+11:45	2	2022-02-08	4102	K	\N	100000.00	Dina / untuk renov asrama putri	JU		Y	TR	COMP
+11:45	2	2022-02-08	4100	K	\N	100000.00	Dina / untuk renov asrama putri	JU		Y		COMP
+11:45	3	2022-02-08	1121	D	\N	1000000.00	( alm ) Noviar Muis dan Ibu Kuniestiowati / Rek BR	JU		Y	TR	COMP
+11:45	3	2022-02-08	1120	D	\N	1000000.00	( alm ) Noviar Muis dan Ibu Kuniestiowati / Rek BR	JU		Y		COMP
+11:45	3	2022-02-08	4101	K	\N	1000000.00	( alm ) Noviar Muis dan Ibu Kuniestiowati / Rek BR	JU		Y	TR	COMP
+11:45	3	2022-02-08	4100	K	\N	1000000.00	( alm ) Noviar Muis dan Ibu Kuniestiowati / Rek BR	JU		Y		COMP
+11:45	1	2022-02-09	1112	D	\N	100000.00	konversi beras / Teh Neng / 10 kg	JU		Y	TR	COMP
+11:45	1	2022-02-09	1110	D	\N	100000.00	konversi beras / Teh Neng / 10 kg	JU		Y		COMP
+11:45	1	2022-02-09	4101	K	\N	100000.00	konversi beras / Teh Neng / 10 kg	JU		Y	TR	COMP
+11:45	1	2022-02-09	4100	K	\N	100000.00	konversi beras / Teh Neng / 10 kg	JU		Y		COMP
+11:45	2	2022-02-09	1112	D	\N	1028200.00	kencleng kelompok Nurul	JU		Y	TR	COMP
+11:45	2	2022-02-09	1110	D	\N	1028200.00	kencleng kelompok Nurul	JU		Y		COMP
+11:45	2	2022-02-09	4101	K	\N	1028200.00	kencleng kelompok Nurul	JU		Y	TR	COMP
+11:45	2	2022-02-09	4100	K	\N	1028200.00	kencleng kelompok Nurul	JU		Y		COMP
+11:45	3	2022-02-09	1112	D	\N	900000.00	Pengembalian lebih uang amplop anak puteri dari Ba	JU		Y	TR	COMP
+11:45	3	2022-02-09	1110	D	\N	900000.00	Pengembalian lebih uang amplop anak puteri dari Ba	JU		Y		COMP
+11:45	3	2022-02-09	4101	K	\N	900000.00	Pengembalian lebih uang amplop anak puteri dari Ba	JU		Y	TR	COMP
+11:45	3	2022-02-09	4100	K	\N	900000.00	Pengembalian lebih uang amplop anak puteri dari Ba	JU		Y		COMP
+11:45	4	2022-02-09	1112	D	\N	918000.00	kencleng kelompok Santi	JU		Y	TR	COMP
+11:45	4	2022-02-09	1110	D	\N	918000.00	kencleng kelompok Santi	JU		Y		COMP
+11:45	4	2022-02-09	4101	K	\N	918000.00	kencleng kelompok Santi	JU		Y	TR	COMP
+11:45	4	2022-02-09	4100	K	\N	918000.00	kencleng kelompok Santi	JU		Y		COMP
+11:45	1	2022-02-10	1112	D	\N	200000.00	konversi beras / Bu Tata / 20 kg	JU		Y	TR	COMP
+11:45	1	2022-02-10	1110	D	\N	200000.00	konversi beras / Bu Tata / 20 kg	JU		Y		COMP
+11:45	1	2022-02-10	4101	K	\N	200000.00	konversi beras / Bu Tata / 20 kg	JU		Y	TR	COMP
+11:45	1	2022-02-10	4100	K	\N	200000.00	konversi beras / Bu Tata / 20 kg	JU		Y		COMP
+11:45	1	2022-02-11	1112	D	\N	80000.00	Kencleng Pa H. Sanusi bulan Januari dan Febuari 20	JU		Y	TR	COMP
+11:45	1	2022-02-11	1110	D	\N	80000.00	Kencleng Pa H. Sanusi bulan Januari dan Febuari 20	JU		Y		COMP
+11:45	1	2022-02-11	4101	K	\N	80000.00	Kencleng Pa H. Sanusi bulan Januari dan Febuari 20	JU		Y	TR	COMP
+11:45	1	2022-02-11	4100	K	\N	80000.00	Kencleng Pa H. Sanusi bulan Januari dan Febuari 20	JU		Y		COMP
+11:45	2	2022-02-11	1112	D	\N	50000.00	Ade Arifin / Cicilan Cashbon ke - 4 ( Pelunasan )	JU		Y	TR	COMP
+11:45	2	2022-02-11	1110	D	\N	50000.00	Ade Arifin / Cicilan Cashbon ke - 4 ( Pelunasan )	JU		Y		COMP
+11:45	2	2022-02-11	1601	K	\N	50000.00	Ade Arifin / Cicilan Cashbon ke - 4 ( Pelunasan )	JU		Y	TR	COMP
+11:45	2	2022-02-11	1600	K	\N	50000.00	Ade Arifin / Cicilan Cashbon ke - 4 ( Pelunasan )	JU		Y		COMP
+11:45	3	2022-02-11	1123	D	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-02-11	1120	D	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-02-11	4101	K	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-02-11	4100	K	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-02-11	1121	D	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y	TR	COMP
+11:45	4	2022-02-11	1120	D	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y		COMP
+11:45	4	2022-02-11	4101	K	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y	TR	COMP
+11:45	4	2022-02-11	4100	K	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y		COMP
+11:45	5	2022-02-11	1122	D	\N	700000.00	Brownies Amanda / Rek Giro BNI	JU		Y	TR	COMP
+11:45	5	2022-02-11	1120	D	\N	700000.00	Brownies Amanda / Rek Giro BNI	JU		Y		COMP
+11:45	5	2022-02-11	4101	K	\N	700000.00	Brownies Amanda / Rek Giro BNI	JU		Y	TR	COMP
+11:45	5	2022-02-11	4100	K	\N	700000.00	Brownies Amanda / Rek Giro BNI	JU		Y		COMP
+11:45	6	2022-02-11	1123	D	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-02-11	1120	D	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y		COMP
+11:45	6	2022-02-11	4101	K	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-02-11	4100	K	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y		COMP
+11:45	7	2022-02-11	1121	D	\N	200000.00	Upi / Surabaya / Rek BRI	JU		Y	TR	COMP
+11:45	7	2022-02-11	1120	D	\N	200000.00	Upi / Surabaya / Rek BRI	JU		Y		COMP
+11:45	7	2022-02-11	4101	K	\N	200000.00	Upi / Surabaya / Rek BRI	JU		Y	TR	COMP
+11:45	7	2022-02-11	4100	K	\N	200000.00	Upi / Surabaya / Rek BRI	JU		Y		COMP
+11:45	8	2022-02-11	1123	D	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	8	2022-02-11	1120	D	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	8	2022-02-11	4101	K	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	8	2022-02-11	4100	K	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	9	2022-02-11	1121	D	\N	150000.00	Nindi / Rek BRI	JU		Y	TR	COMP
+11:45	9	2022-02-11	1120	D	\N	150000.00	Nindi / Rek BRI	JU		Y		COMP
+11:45	9	2022-02-11	4101	K	\N	150000.00	Nindi / Rek BRI	JU		Y	TR	COMP
+11:45	9	2022-02-11	4100	K	\N	150000.00	Nindi / Rek BRI	JU		Y		COMP
+11:45	10	2022-02-11	1122	D	\N	200000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	10	2022-02-11	1120	D	\N	200000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	10	2022-02-11	4101	K	\N	200000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	10	2022-02-11	4100	K	\N	200000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	1	2022-02-12	1112	D	\N	500000.00	Ubudiyah Setiawati  / Jl. Cikutra	JU		Y	TR	COMP
+11:45	1	2022-02-12	1110	D	\N	500000.00	Ubudiyah Setiawati  / Jl. Cikutra	JU		Y		COMP
+11:45	1	2022-02-12	4101	K	\N	500000.00	Ubudiyah Setiawati  / Jl. Cikutra	JU		Y	TR	COMP
+11:45	1	2022-02-12	4100	K	\N	500000.00	Ubudiyah Setiawati  / Jl. Cikutra	JU		Y		COMP
+11:45	2	2022-02-12	1112	D	\N	2000000.00	Sekolah Tinggi Harapan Bangsa	JU		Y	TR	COMP
+11:45	2	2022-02-12	1110	D	\N	2000000.00	Sekolah Tinggi Harapan Bangsa	JU		Y		COMP
+11:45	2	2022-02-12	4101	K	\N	2000000.00	Sekolah Tinggi Harapan Bangsa	JU		Y	TR	COMP
+11:45	2	2022-02-12	4100	K	\N	2000000.00	Sekolah Tinggi Harapan Bangsa	JU		Y		COMP
+11:45	3	2022-02-12	1112	D	\N	105000.00	Pa Hendra / Infaq service sepeda	JU		Y	TR	COMP
+11:45	3	2022-02-12	1110	D	\N	105000.00	Pa Hendra / Infaq service sepeda	JU		Y		COMP
+11:45	3	2022-02-12	4101	K	\N	105000.00	Pa Hendra / Infaq service sepeda	JU		Y	TR	COMP
+11:45	3	2022-02-12	4100	K	\N	105000.00	Pa Hendra / Infaq service sepeda	JU		Y		COMP
+11:45	1	2022-02-16	1123	D	\N	2250000.00	H. Fauzy Baron / Pring Sewu Lampung / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-02-16	1120	D	\N	2250000.00	H. Fauzy Baron / Pring Sewu Lampung / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-02-16	4102	K	\N	2250000.00	H. Fauzy Baron / Pring Sewu Lampung / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-02-16	4100	K	\N	2250000.00	H. Fauzy Baron / Pring Sewu Lampung / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-02-16	1123	D	\N	4000000.00	PT. Masaji Tatanan Kontainer Indonesia / Rek Mandi	JU		Y	TR	COMP
+11:45	2	2022-02-16	1120	D	\N	4000000.00	PT. Masaji Tatanan Kontainer Indonesia / Rek Mandi	JU		Y		COMP
+11:45	2	2022-02-16	4101	K	\N	4000000.00	PT. Masaji Tatanan Kontainer Indonesia / Rek Mandi	JU		Y	TR	COMP
+11:45	2	2022-02-16	4100	K	\N	4000000.00	PT. Masaji Tatanan Kontainer Indonesia / Rek Mandi	JU		Y		COMP
+11:45	1	2022-02-18	1124	D	\N	1000000.00	Aunur Roviek / Rek BSI	JU		Y	TR	COMP
+11:45	1	2022-02-18	1120	D	\N	1000000.00	Aunur Roviek / Rek BSI	JU		Y		COMP
+11:45	1	2022-02-18	4101	K	\N	1000000.00	Aunur Roviek / Rek BSI	JU		Y	TR	COMP
+11:45	1	2022-02-18	4100	K	\N	1000000.00	Aunur Roviek / Rek BSI	JU		Y		COMP
+11:45	2	2022-02-18	1123	D	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-02-18	1120	D	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-02-18	4101	K	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-02-18	4100	K	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-02-18	1123	D	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-02-18	1120	D	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-02-18	4101	K	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-02-18	4100	K	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-02-18	1123	D	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-02-18	1120	D	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-02-18	4101	K	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-02-18	4100	K	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-02-18	1122	D	\N	184700.00	Mey Fitri / Rek BNI	JU		Y	TR	COMP
+11:45	5	2022-02-18	1120	D	\N	184700.00	Mey Fitri / Rek BNI	JU		Y		COMP
+11:45	5	2022-02-18	4101	K	\N	184700.00	Mey Fitri / Rek BNI	JU		Y	TR	COMP
+11:45	5	2022-02-18	4100	K	\N	184700.00	Mey Fitri / Rek BNI	JU		Y		COMP
+11:45	1	2022-02-20	1112	D	\N	300000.00	H,Muhammad Ali Faruq / jl. Segar Ujung berung Inda	JU		Y	TR	COMP
+11:45	1	2022-02-20	1110	D	\N	300000.00	H,Muhammad Ali Faruq / jl. Segar Ujung berung Inda	JU		Y		COMP
+11:45	1	2022-02-20	4101	K	\N	300000.00	H,Muhammad Ali Faruq / jl. Segar Ujung berung Inda	JU		Y	TR	COMP
+11:45	1	2022-02-20	4100	K	\N	300000.00	H,Muhammad Ali Faruq / jl. Segar Ujung berung Inda	JU		Y		COMP
+11:45	2	2022-02-20	1123	D	\N	500000.00	Arif Setiawan / jl. Sidomukti no 71 Sukaluyu bdg /	JU		Y	TR	COMP
+11:45	2	2022-02-20	1120	D	\N	500000.00	Arif Setiawan / jl. Sidomukti no 71 Sukaluyu bdg /	JU		Y		COMP
+11:45	2	2022-02-20	4101	K	\N	500000.00	Arif Setiawan / jl. Sidomukti no 71 Sukaluyu bdg /	JU		Y	TR	COMP
+11:45	2	2022-02-20	4100	K	\N	500000.00	Arif Setiawan / jl. Sidomukti no 71 Sukaluyu bdg /	JU		Y		COMP
+11:45	1	2022-02-22	1112	D	\N	500000.00	Pa Ujang / Bayar Cashbon	JU		Y	TR	COMP
+11:45	1	2022-02-22	1110	D	\N	500000.00	Pa Ujang / Bayar Cashbon	JU		Y		COMP
+11:45	1	2022-02-22	1601	K	\N	500000.00	Pa Ujang / Bayar Cashbon	JU		Y	TR	COMP
+11:45	1	2022-02-22	1600	K	\N	500000.00	Pa Ujang / Bayar Cashbon	JU		Y		COMP
+11:45	2	2022-02-22	1112	D	\N	100000.00	Konversi Beras / Teh Eneng 10 kg	JU		Y	TR	COMP
+11:45	2	2022-02-22	1110	D	\N	100000.00	Konversi Beras / Teh Eneng 10 kg	JU		Y		COMP
+11:45	2	2022-02-22	4101	K	\N	100000.00	Konversi Beras / Teh Eneng 10 kg	JU		Y	TR	COMP
+11:45	2	2022-02-22	4100	K	\N	100000.00	Konversi Beras / Teh Eneng 10 kg	JU		Y		COMP
+11:45	3	2022-02-22	1112	D	\N	450000.00	Konversi Beras / Bu Tata / 45 kg	JU		Y	TR	COMP
+11:45	3	2022-02-22	1110	D	\N	450000.00	Konversi Beras / Bu Tata / 45 kg	JU		Y		COMP
+11:45	3	2022-02-22	4101	K	\N	450000.00	Konversi Beras / Bu Tata / 45 kg	JU		Y	TR	COMP
+11:45	3	2022-02-22	4100	K	\N	450000.00	Konversi Beras / Bu Tata / 45 kg	JU		Y		COMP
+11:45	4	2022-02-22	1112	D	\N	200000.00	Nining Susanti /	JU		Y	TR	COMP
+11:45	4	2022-02-22	1110	D	\N	200000.00	Nining Susanti /	JU		Y		COMP
+11:45	4	2022-02-22	4101	K	\N	200000.00	Nining Susanti /	JU		Y	TR	COMP
+11:45	4	2022-02-22	4100	K	\N	200000.00	Nining Susanti /	JU		Y		COMP
+11:45	1	2022-02-23	1121	D	\N	500000.00	PT. Kalyanamitra ( Alive ) / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-02-23	1120	D	\N	500000.00	PT. Kalyanamitra ( Alive ) / Rek BRI	JU		Y		COMP
+11:45	1	2022-02-23	4101	K	\N	500000.00	PT. Kalyanamitra ( Alive ) / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-02-23	4100	K	\N	500000.00	PT. Kalyanamitra ( Alive ) / Rek BRI	JU		Y		COMP
+11:45	2	2022-02-23	1123	D	\N	300000.00	Kel. ( alm ) H. Uki / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-02-23	1120	D	\N	300000.00	Kel. ( alm ) H. Uki / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-02-23	4101	K	\N	300000.00	Kel. ( alm ) H. Uki / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-02-23	4100	K	\N	300000.00	Kel. ( alm ) H. Uki / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-02-24	1112	D	\N	1000000.00	Riky / Cikaso	JU		Y	TR	COMP
+11:45	1	2022-02-24	1110	D	\N	1000000.00	Riky / Cikaso	JU		Y		COMP
+11:45	1	2022-02-24	4101	K	\N	1000000.00	Riky / Cikaso	JU		Y	TR	COMP
+11:45	1	2022-02-24	4100	K	\N	1000000.00	Riky / Cikaso	JU		Y		COMP
+11:45	1	2022-02-25	1122	D	\N	3000000.00	Muhammad Masykuri/ Rek BNI	JU		Y	TR	COMP
+11:45	1	2022-02-25	1120	D	\N	3000000.00	Muhammad Masykuri/ Rek BNI	JU		Y		COMP
+11:45	1	2022-02-25	4101	K	\N	3000000.00	Muhammad Masykuri/ Rek BNI	JU		Y	TR	COMP
+11:45	1	2022-02-25	4100	K	\N	3000000.00	Muhammad Masykuri/ Rek BNI	JU		Y		COMP
+11:45	2	2022-02-25	1123	D	\N	500000.00	H.Rudi Suwandi / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-02-25	1120	D	\N	500000.00	H.Rudi Suwandi / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-02-25	4101	K	\N	500000.00	H.Rudi Suwandi / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-02-25	4100	K	\N	500000.00	H.Rudi Suwandi / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-02-25	1123	D	\N	250000.00	Muhammad Rahmadi Kres ( Bu Desy ) / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-02-25	1120	D	\N	250000.00	Muhammad Rahmadi Kres ( Bu Desy ) / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-02-25	4101	K	\N	250000.00	Muhammad Rahmadi Kres ( Bu Desy ) / Rek Mandiri	JU		Y	TR	COMP
+11:45	3	2022-02-25	4100	K	\N	250000.00	Muhammad Rahmadi Kres ( Bu Desy ) / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-02-25	1122	D	\N	200000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	4	2022-02-25	1120	D	\N	200000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	4	2022-02-25	4101	K	\N	200000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	4	2022-02-25	4100	K	\N	200000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	5	2022-02-25	1123	D	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-02-25	1120	D	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-02-25	4101	K	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-02-25	4100	K	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y		COMP
+11:45	6	2022-02-25	1123	D	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-02-25	1120	D	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	6	2022-02-25	4101	K	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-02-25	4100	K	\N	100000.00	Iqro Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-02-26	1123	D	\N	500000.00	Gadih Ranti / Pring sewu / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-02-26	1120	D	\N	500000.00	Gadih Ranti / Pring sewu / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-02-26	4101	K	\N	500000.00	Gadih Ranti / Pring sewu / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-02-26	4100	K	\N	500000.00	Gadih Ranti / Pring sewu / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-02-26	1124	D	\N	300000.00	Fazid Arzaq / Pasirlayung / Rek BSI	JU		Y	TR	COMP
+11:45	2	2022-02-26	1120	D	\N	300000.00	Fazid Arzaq / Pasirlayung / Rek BSI	JU		Y		COMP
+11:45	2	2022-02-26	4101	K	\N	300000.00	Fazid Arzaq / Pasirlayung / Rek BSI	JU		Y	TR	COMP
+11:45	2	2022-02-26	4100	K	\N	300000.00	Fazid Arzaq / Pasirlayung / Rek BSI	JU		Y		COMP
+11:45	3	2022-02-26	1112	D	\N	1500000.00	Ibu Fera	JU		Y	TR	COMP
+11:45	3	2022-02-26	1110	D	\N	1500000.00	Ibu Fera	JU		Y		COMP
+11:45	3	2022-02-26	4101	K	\N	1500000.00	Ibu Fera	JU		Y	TR	COMP
+11:45	3	2022-02-26	4100	K	\N	1500000.00	Ibu Fera	JU		Y		COMP
+11:45	1	2022-02-27	1112	D	\N	300000.00	Gerbang Peradaban	JU		Y	TR	COMP
+11:45	1	2022-02-27	1110	D	\N	300000.00	Gerbang Peradaban	JU		Y		COMP
+11:45	1	2022-02-27	4101	K	\N	300000.00	Gerbang Peradaban	JU		Y	TR	COMP
+11:45	1	2022-02-27	4100	K	\N	300000.00	Gerbang Peradaban	JU		Y		COMP
+11:45	2	2022-02-27	1112	D	\N	714000.00	Kencleng a.n Naif dan Fitriyah	JU		Y	TR	COMP
+11:45	2	2022-02-27	1110	D	\N	714000.00	Kencleng a.n Naif dan Fitriyah	JU		Y		COMP
+11:45	2	2022-02-27	4101	K	\N	714000.00	Kencleng a.n Naif dan Fitriyah	JU		Y	TR	COMP
+11:45	2	2022-02-27	4100	K	\N	714000.00	Kencleng a.n Naif dan Fitriyah	JU		Y		COMP
+11:45	1	2022-02-28	1122	D	\N	250000.00	Shinta Wijayanti Ambari / Rek BNI	JU		Y	TR	COMP
+11:45	1	2022-02-28	1120	D	\N	250000.00	Shinta Wijayanti Ambari / Rek BNI	JU		Y		COMP
+11:45	1	2022-02-28	4101	K	\N	250000.00	Shinta Wijayanti Ambari / Rek BNI	JU		Y	TR	COMP
+11:45	1	2022-02-28	4100	K	\N	250000.00	Shinta Wijayanti Ambari / Rek BNI	JU		Y		COMP
+11:45	1	2022-03-01	1112	D	\N	500000.00	Eti Nurmali Rosmayanti / jl. Cijapati	JU		Y	TR	COMP
+11:45	1	2022-03-01	1110	D	\N	500000.00	Eti Nurmali Rosmayanti / jl. Cijapati	JU		Y		COMP
+11:45	1	2022-03-01	4101	K	\N	500000.00	Eti Nurmali Rosmayanti / jl. Cijapati	JU		Y	TR	COMP
+11:45	1	2022-03-01	4100	K	\N	500000.00	Eti Nurmali Rosmayanti / jl. Cijapati	JU		Y		COMP
+11:45	1	2022-03-03	1123	D	\N	500000.00	Luki Rustianto / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-03	1120	D	\N	500000.00	Luki Rustianto / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-03	4101	K	\N	500000.00	Luki Rustianto / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-03	4100	K	\N	500000.00	Luki Rustianto / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-04	1112	D	\N	200000.00	Mushola BPJS	JU		Y	TR	COMP
+11:45	1	2022-03-04	1110	D	\N	200000.00	Mushola BPJS	JU		Y		COMP
+11:45	1	2022-03-04	4101	K	\N	200000.00	Mushola BPJS	JU		Y	TR	COMP
+11:45	1	2022-03-04	4100	K	\N	200000.00	Mushola BPJS	JU		Y		COMP
+11:45	2	2022-03-04	1112	D	\N	250000.00	Pa Dede Marsudi	JU		Y	TR	COMP
+11:45	2	2022-03-04	1110	D	\N	250000.00	Pa Dede Marsudi	JU		Y		COMP
+11:45	2	2022-03-04	4101	K	\N	250000.00	Pa Dede Marsudi	JU		Y	TR	COMP
+11:45	2	2022-03-04	4100	K	\N	250000.00	Pa Dede Marsudi	JU		Y		COMP
+11:45	3	2022-03-04	1122	D	\N	200000.00	Hamba Alloh  / kawan SMA Pa dodih / Rek BNI ( Rati	JU		Y	TR	COMP
+11:45	3	2022-03-04	1120	D	\N	200000.00	Hamba Alloh  / kawan SMA Pa dodih / Rek BNI ( Rati	JU		Y		COMP
+11:45	3	2022-03-04	4101	K	\N	200000.00	Hamba Alloh  / kawan SMA Pa dodih / Rek BNI ( Rati	JU		Y	TR	COMP
+11:45	3	2022-03-04	4100	K	\N	200000.00	Hamba Alloh  / kawan SMA Pa dodih / Rek BNI ( Rati	JU		Y		COMP
+11:45	4	2022-03-04	1121	D	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y	TR	COMP
+11:45	4	2022-03-04	1120	D	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y		COMP
+11:45	4	2022-03-04	4101	K	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y	TR	COMP
+11:45	4	2022-03-04	4100	K	\N	500000.00	Iwan Hermawan / Rek BRI	JU		Y		COMP
+11:45	5	2022-03-04	1123	D	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-03-04	1120	D	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-03-04	4101	K	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-03-04	4100	K	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y		COMP
+11:45	6	2022-03-04	1121	D	\N	100000.00	Ecin Kuraesin / Rek BRI	JU		Y	TR	COMP
+11:45	6	2022-03-04	1120	D	\N	100000.00	Ecin Kuraesin / Rek BRI	JU		Y		COMP
+11:45	6	2022-03-04	4101	K	\N	100000.00	Ecin Kuraesin / Rek BRI	JU		Y	TR	COMP
+11:45	6	2022-03-04	4100	K	\N	100000.00	Ecin Kuraesin / Rek BRI	JU		Y		COMP
+11:45	7	2022-03-04	1123	D	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	7	2022-03-04	1120	D	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	7	2022-03-04	4101	K	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	7	2022-03-04	4100	K	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	8	2022-03-04	1123	D	\N	500000.00	Thamrin S.A / Rek Mandiri	JU		Y	TR	COMP
+11:45	8	2022-03-04	1120	D	\N	500000.00	Thamrin S.A / Rek Mandiri	JU		Y		COMP
+11:45	8	2022-03-04	4101	K	\N	500000.00	Thamrin S.A / Rek Mandiri	JU		Y	TR	COMP
+11:45	8	2022-03-04	4100	K	\N	500000.00	Thamrin S.A / Rek Mandiri	JU		Y		COMP
+11:45	9	2022-03-04	1123	D	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	9	2022-03-04	1120	D	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	9	2022-03-04	4101	K	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	9	2022-03-04	4100	K	\N	50000.00	Zein Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	10	2022-03-04	1122	D	\N	700000.00	Brownies Amanda / a.n Ririn Rianti / Rek BNI	JU		Y	TR	COMP
+11:45	10	2022-03-04	1120	D	\N	700000.00	Brownies Amanda / a.n Ririn Rianti / Rek BNI	JU		Y		COMP
+11:45	10	2022-03-04	4101	K	\N	700000.00	Brownies Amanda / a.n Ririn Rianti / Rek BNI	JU		Y	TR	COMP
+11:45	10	2022-03-04	4100	K	\N	700000.00	Brownies Amanda / a.n Ririn Rianti / Rek BNI	JU		Y		COMP
+11:45	1	2022-03-05	1112	D	\N	200000.00	Sukma Ayu / Ligar Rimbun	JU		Y	TR	COMP
+11:45	1	2022-03-05	1110	D	\N	200000.00	Sukma Ayu / Ligar Rimbun	JU		Y		COMP
+11:45	1	2022-03-05	4101	K	\N	200000.00	Sukma Ayu / Ligar Rimbun	JU		Y	TR	COMP
+11:45	1	2022-03-05	4100	K	\N	200000.00	Sukma Ayu / Ligar Rimbun	JU		Y		COMP
+11:45	2	2022-03-05	1112	D	\N	150000.00	Bp Misan / a.n Hindun Hendarsih , Bp sidin bin Abd	JU		Y	TR	COMP
+11:45	2	2022-03-05	1110	D	\N	150000.00	Bp Misan / a.n Hindun Hendarsih , Bp sidin bin Abd	JU		Y		COMP
+11:45	2	2022-03-05	4101	K	\N	150000.00	Bp Misan / a.n Hindun Hendarsih , Bp sidin bin Abd	JU		Y	TR	COMP
+11:45	2	2022-03-05	4100	K	\N	150000.00	Bp Misan / a.n Hindun Hendarsih , Bp sidin bin Abd	JU		Y		COMP
+11:45	3	2022-03-05	1112	D	\N	100000.00	konversi beras Bu Tata 10 kg	JU		Y	TR	COMP
+11:45	3	2022-03-05	1110	D	\N	100000.00	konversi beras Bu Tata 10 kg	JU		Y		COMP
+11:45	3	2022-03-05	4101	K	\N	100000.00	konversi beras Bu Tata 10 kg	JU		Y	TR	COMP
+11:45	3	2022-03-05	4100	K	\N	100000.00	konversi beras Bu Tata 10 kg	JU		Y		COMP
+11:45	1	2022-03-06	1121	D	\N	200000.00	Upi / Surabaya / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-03-06	1120	D	\N	200000.00	Upi / Surabaya / Rek BRI	JU		Y		COMP
+11:45	1	2022-03-06	4101	K	\N	200000.00	Upi / Surabaya / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-03-06	4100	K	\N	200000.00	Upi / Surabaya / Rek BRI	JU		Y		COMP
+11:45	1	2022-03-07	1123	D	\N	0.00	Trisnawan Taufik / a.n Nana Triana / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-07	1120	D	\N	0.00	Trisnawan Taufik / a.n Nana Triana / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-07	4101	K	\N	0.00	Trisnawan Taufik / a.n Nana Triana / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-07	4100	K	\N	0.00	Trisnawan Taufik / a.n Nana Triana / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-03-07	1112	D	\N	180000.00	Reza	JU		Y	TR	COMP
+11:45	2	2022-03-07	1110	D	\N	180000.00	Reza	JU		Y		COMP
+11:45	2	2022-03-07	4101	K	\N	180000.00	Reza	JU		Y	TR	COMP
+11:45	2	2022-03-07	4100	K	\N	180000.00	Reza	JU		Y		COMP
+11:45	1	2022-03-08	1112	D	\N	500000.00	Selly / Padasuka Ideal	JU		Y	TR	COMP
+11:45	1	2022-03-08	1110	D	\N	500000.00	Selly / Padasuka Ideal	JU		Y		COMP
+11:45	1	2022-03-08	4101	K	\N	500000.00	Selly / Padasuka Ideal	JU		Y	TR	COMP
+11:45	1	2022-03-08	4100	K	\N	500000.00	Selly / Padasuka Ideal	JU		Y		COMP
+11:45	1	2022-03-10	1123	D	\N	200000.00	Suci Purindah / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-10	1120	D	\N	200000.00	Suci Purindah / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-10	4101	K	\N	200000.00	Suci Purindah / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-10	4100	K	\N	200000.00	Suci Purindah / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-11	1123	D	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-11	1120	D	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-11	4101	K	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-11	4100	K	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-03-11	1112	D	\N	1000000.00	Hj Hidron , Hj . Barkiah , Hj Kasih Sugema , Hj Li	JU		Y	TR	COMP
+11:45	2	2022-03-11	1110	D	\N	1000000.00	Hj Hidron , Hj . Barkiah , Hj Kasih Sugema , Hj Li	JU		Y		COMP
+11:45	2	2022-03-11	4101	K	\N	1000000.00	Hj Hidron , Hj . Barkiah , Hj Kasih Sugema , Hj Li	JU		Y	TR	COMP
+11:45	2	2022-03-11	4100	K	\N	1000000.00	Hj Hidron , Hj . Barkiah , Hj Kasih Sugema , Hj Li	JU		Y		COMP
+11:45	3	2022-03-11	1112	D	\N	500000.00	Ibu Zainibar binti Muhammad Langkoyo Basar / Sekel	JU		Y	TR	COMP
+11:45	3	2022-03-11	1110	D	\N	500000.00	Ibu Zainibar binti Muhammad Langkoyo Basar / Sekel	JU		Y		COMP
+11:45	3	2022-03-11	4102	K	\N	500000.00	Ibu Zainibar binti Muhammad Langkoyo Basar / Sekel	JU		Y	TR	COMP
+11:45	3	2022-03-11	4100	K	\N	500000.00	Ibu Zainibar binti Muhammad Langkoyo Basar / Sekel	JU		Y		COMP
+11:45	4	2022-03-11	1123	D	\N	100000.00	Iqra Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-03-11	1120	D	\N	100000.00	Iqra Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-03-11	4101	K	\N	100000.00	Iqra Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-03-11	4100	K	\N	100000.00	Iqra Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-03-11	1122	D	\N	200000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	5	2022-03-11	1120	D	\N	200000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	5	2022-03-11	4101	K	\N	200000.00	Emi Novariza / Rek BNI	JU		Y	TR	COMP
+11:45	5	2022-03-11	4100	K	\N	200000.00	Emi Novariza / Rek BNI	JU		Y		COMP
+11:45	6	2022-03-11	1126	D	\N	100000.00	Yusna / Rek Giro BNI	JU		Y	TR	COMP
+11:45	6	2022-03-11	1120	D	\N	100000.00	Yusna / Rek Giro BNI	JU		Y		COMP
+11:45	6	2022-03-11	4101	K	\N	100000.00	Yusna / Rek Giro BNI	JU		Y	TR	COMP
+11:45	6	2022-03-11	4100	K	\N	100000.00	Yusna / Rek Giro BNI	JU		Y		COMP
+11:45	7	2022-03-11	1122	D	\N	300000.00	Siti Mialasmaya SE.MM.Ak.CA / Rek BNI	JU		Y	TR	COMP
+11:45	7	2022-03-11	1120	D	\N	300000.00	Siti Mialasmaya SE.MM.Ak.CA / Rek BNI	JU		Y		COMP
+11:45	7	2022-03-11	4101	K	\N	300000.00	Siti Mialasmaya SE.MM.Ak.CA / Rek BNI	JU		Y	TR	COMP
+11:45	7	2022-03-11	4100	K	\N	300000.00	Siti Mialasmaya SE.MM.Ak.CA / Rek BNI	JU		Y		COMP
+11:45	8	2022-03-11	1112	D	\N	400000.00	Asep Hendra / Jl Jalaprang	JU		Y	TR	COMP
+11:45	8	2022-03-11	1110	D	\N	400000.00	Asep Hendra / Jl Jalaprang	JU		Y		COMP
+11:45	8	2022-03-11	4101	K	\N	400000.00	Asep Hendra / Jl Jalaprang	JU		Y	TR	COMP
+11:45	8	2022-03-11	4100	K	\N	400000.00	Asep Hendra / Jl Jalaprang	JU		Y		COMP
+11:45	1	2022-03-12	1112	D	\N	300000.00	Bu Teni / Dago	JU		Y	TR	COMP
+11:45	1	2022-03-12	1110	D	\N	300000.00	Bu Teni / Dago	JU		Y		COMP
+11:45	1	2022-03-12	4101	K	\N	300000.00	Bu Teni / Dago	JU		Y	TR	COMP
+11:45	1	2022-03-12	4100	K	\N	300000.00	Bu Teni / Dago	JU		Y		COMP
+11:45	2	2022-03-12	1112	D	\N	250000.00	Neng Nita / Bumi Asri	JU		Y	TR	COMP
+11:45	2	2022-03-12	1110	D	\N	250000.00	Neng Nita / Bumi Asri	JU		Y		COMP
+11:45	2	2022-03-12	4101	K	\N	250000.00	Neng Nita / Bumi Asri	JU		Y	TR	COMP
+11:45	2	2022-03-12	4100	K	\N	250000.00	Neng Nita / Bumi Asri	JU		Y		COMP
+11:45	1	2022-03-15	1123	D	\N	10000000.00	Ibu Asri Ratna Mutiar / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-15	1120	D	\N	10000000.00	Ibu Asri Ratna Mutiar / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-15	4101	K	\N	10000000.00	Ibu Asri Ratna Mutiar / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-15	4100	K	\N	10000000.00	Ibu Asri Ratna Mutiar / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-16	1112	D	\N	1500000.00	Pelunasan Cashbon Pa Hendra	JU		Y	TR	COMP
+11:45	1	2022-03-16	1110	D	\N	1500000.00	Pelunasan Cashbon Pa Hendra	JU		Y		COMP
+11:45	1	2022-03-16	1601	K	\N	1500000.00	Pelunasan Cashbon Pa Hendra	JU		Y	TR	COMP
+11:45	1	2022-03-16	1600	K	\N	1500000.00	Pelunasan Cashbon Pa Hendra	JU		Y		COMP
+11:45	1	2022-03-17	1121	D	\N	50000.00	Bu Tini / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-03-17	1120	D	\N	50000.00	Bu Tini / Rek BRI	JU		Y		COMP
+11:45	1	2022-03-17	4101	K	\N	50000.00	Bu Tini / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-03-17	4100	K	\N	50000.00	Bu Tini / Rek BRI	JU		Y		COMP
+11:45	2	2022-03-17	1123	D	\N	500000.00	Bu Ati Nurinawati / rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-03-17	1120	D	\N	500000.00	Bu Ati Nurinawati / rek Mandiri	JU		Y		COMP
+11:45	2	2022-03-17	4101	K	\N	500000.00	Bu Ati Nurinawati / rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-03-17	4100	K	\N	500000.00	Bu Ati Nurinawati / rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-18	1121	D	\N	50000.00	Luki / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-03-18	1120	D	\N	50000.00	Luki / Rek BRI	JU		Y		COMP
+11:45	1	2022-03-18	4101	K	\N	50000.00	Luki / Rek BRI	JU		Y	TR	COMP
+11:45	1	2022-03-18	4100	K	\N	50000.00	Luki / Rek BRI	JU		Y		COMP
+11:45	2	2022-03-18	1122	D	\N	500000.00	Herudian Ahmadin a.n dr Rika / Rek BNI	JU		Y	TR	COMP
+11:45	2	2022-03-18	1120	D	\N	500000.00	Herudian Ahmadin a.n dr Rika / Rek BNI	JU		Y		COMP
+11:45	2	2022-03-18	4101	K	\N	500000.00	Herudian Ahmadin a.n dr Rika / Rek BNI	JU		Y	TR	COMP
+11:45	2	2022-03-18	4100	K	\N	500000.00	Herudian Ahmadin a.n dr Rika / Rek BNI	JU		Y		COMP
+11:45	3	2022-03-18	1121	D	\N	500000.00	Rina Herliani / Banjaran / Rek BRI	JU		Y	TR	COMP
+11:45	3	2022-03-18	1120	D	\N	500000.00	Rina Herliani / Banjaran / Rek BRI	JU		Y		COMP
+11:45	3	2022-03-18	4101	K	\N	500000.00	Rina Herliani / Banjaran / Rek BRI	JU		Y	TR	COMP
+11:45	3	2022-03-18	4100	K	\N	500000.00	Rina Herliani / Banjaran / Rek BRI	JU		Y		COMP
+11:45	4	2022-03-18	1123	D	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-03-18	1120	D	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-03-18	4101	K	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-03-18	4100	K	\N	200000.00	Anhar Muharram / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-03-18	1123	D	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-03-18	1120	D	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-03-18	4101	K	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y	TR	COMP
+11:45	5	2022-03-18	4100	K	\N	500000.00	Deddy Setiadi / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-19	1112	D	\N	200000.00	Tri Yugo Busono / jl. Pramuka ll no 11	JU		Y	TR	COMP
+11:45	1	2022-03-19	1110	D	\N	200000.00	Tri Yugo Busono / jl. Pramuka ll no 11	JU		Y		COMP
+11:45	1	2022-03-19	4101	K	\N	200000.00	Tri Yugo Busono / jl. Pramuka ll no 11	JU		Y	TR	COMP
+11:45	1	2022-03-19	4100	K	\N	200000.00	Tri Yugo Busono / jl. Pramuka ll no 11	JU		Y		COMP
+11:45	2	2022-03-19	1112	D	\N	200000.00	Shakila Adeva / Sukamantri	JU		Y	TR	COMP
+11:45	2	2022-03-19	1110	D	\N	200000.00	Shakila Adeva / Sukamantri	JU		Y		COMP
+11:45	2	2022-03-19	4101	K	\N	200000.00	Shakila Adeva / Sukamantri	JU		Y	TR	COMP
+11:45	2	2022-03-19	4100	K	\N	200000.00	Shakila Adeva / Sukamantri	JU		Y		COMP
+11:45	1	2022-03-20	1112	D	\N	2000000.00	Krisna / kali Jati Indah no 36 Antapani	JU		Y	TR	COMP
+11:45	1	2022-03-20	1110	D	\N	2000000.00	Krisna / kali Jati Indah no 36 Antapani	JU		Y		COMP
+11:45	1	2022-03-20	4101	K	\N	2000000.00	Krisna / kali Jati Indah no 36 Antapani	JU		Y	TR	COMP
+11:45	1	2022-03-20	4100	K	\N	2000000.00	Krisna / kali Jati Indah no 36 Antapani	JU		Y		COMP
+11:45	2	2022-03-20	1112	D	\N	9500000.00	MS .Glow Aesthetic Clinic / Jl.Lombok no 33 Bandun	JU		Y	TR	COMP
+11:45	2	2022-03-20	1110	D	\N	9500000.00	MS .Glow Aesthetic Clinic / Jl.Lombok no 33 Bandun	JU		Y		COMP
+11:45	2	2022-03-20	4101	K	\N	9500000.00	MS .Glow Aesthetic Clinic / Jl.Lombok no 33 Bandun	JU		Y	TR	COMP
+11:45	2	2022-03-20	4100	K	\N	9500000.00	MS .Glow Aesthetic Clinic / Jl.Lombok no 33 Bandun	JU		Y		COMP
+11:45	1	2022-03-21	1112	D	\N	1000000.00	Helmi / BSI / Jatihandap	JU		Y	TR	COMP
+11:45	1	2022-03-21	1110	D	\N	1000000.00	Helmi / BSI / Jatihandap	JU		Y		COMP
+11:45	1	2022-03-21	4101	K	\N	1000000.00	Helmi / BSI / Jatihandap	JU		Y	TR	COMP
+11:45	1	2022-03-21	4100	K	\N	1000000.00	Helmi / BSI / Jatihandap	JU		Y		COMP
+11:45	1	2022-03-22	1122	D	\N	300000.00	Petisavitrist / Rek BNI	JU		Y	TR	COMP
+11:45	1	2022-03-22	1120	D	\N	300000.00	Petisavitrist / Rek BNI	JU		Y		COMP
+11:45	1	2022-03-22	4101	K	\N	300000.00	Petisavitrist / Rek BNI	JU		Y	TR	COMP
+11:45	1	2022-03-22	4100	K	\N	300000.00	Petisavitrist / Rek BNI	JU		Y		COMP
+11:45	1	2022-03-23	1112	D	\N	2000000.00	Gienah Nagib dan Murodati Ali Afif	JU		Y	TR	COMP
+11:45	1	2022-03-23	1110	D	\N	2000000.00	Gienah Nagib dan Murodati Ali Afif	JU		Y		COMP
+11:45	1	2022-03-23	4101	K	\N	2000000.00	Gienah Nagib dan Murodati Ali Afif	JU		Y	TR	COMP
+11:45	1	2022-03-23	4100	K	\N	2000000.00	Gienah Nagib dan Murodati Ali Afif	JU		Y		COMP
+11:45	2	2022-03-23	1112	D	\N	500000.00	MHABD ( 20 amplop x 25.000)	JU		Y	TR	COMP
+11:45	2	2022-03-23	1110	D	\N	500000.00	MHABD ( 20 amplop x 25.000)	JU		Y		COMP
+11:45	2	2022-03-23	4101	K	\N	500000.00	MHABD ( 20 amplop x 25.000)	JU		Y	TR	COMP
+11:45	2	2022-03-23	4100	K	\N	500000.00	MHABD ( 20 amplop x 25.000)	JU		Y		COMP
+11:45	3	2022-03-23	1112	D	\N	60000.00	Hamba Alloh  Jl Cisadea	JU		Y	TR	COMP
+11:45	3	2022-03-23	1110	D	\N	60000.00	Hamba Alloh  Jl Cisadea	JU		Y		COMP
+11:45	3	2022-03-23	4101	K	\N	60000.00	Hamba Alloh  Jl Cisadea	JU		Y	TR	COMP
+11:45	3	2022-03-23	4100	K	\N	60000.00	Hamba Alloh  Jl Cisadea	JU		Y		COMP
+11:45	1	2022-03-25	1112	D	\N	500000.00	Nigel Hillary / Cibeunying	JU		Y	TR	COMP
+11:45	1	2022-03-25	1110	D	\N	500000.00	Nigel Hillary / Cibeunying	JU		Y		COMP
+11:45	1	2022-03-25	4101	K	\N	500000.00	Nigel Hillary / Cibeunying	JU		Y	TR	COMP
+11:45	1	2022-03-25	4100	K	\N	500000.00	Nigel Hillary / Cibeunying	JU		Y		COMP
+11:45	2	2022-03-25	1123	D	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-03-25	1120	D	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y		COMP
+11:45	2	2022-03-25	4101	K	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y	TR	COMP
+11:45	2	2022-03-25	4100	K	\N	200000.00	Anhar Muharam / Rek Mandiri	JU		Y		COMP
+11:45	3	2022-03-25	1121	D	\N	50000.00	Bu Tini / Rek BRI	JU		Y	TR	COMP
+11:45	3	2022-03-25	1120	D	\N	50000.00	Bu Tini / Rek BRI	JU		Y		COMP
+11:45	3	2022-03-25	4101	K	\N	50000.00	Bu Tini / Rek BRI	JU		Y	TR	COMP
+11:45	3	2022-03-25	4100	K	\N	50000.00	Bu Tini / Rek BRI	JU		Y		COMP
+11:45	4	2022-03-25	1123	D	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-03-25	1120	D	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-03-25	4101	K	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-03-25	4100	K	\N	50000.00	Zen Rahmat / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-03-25	1124	D	\N	250000.00	Ruddy Suwandi / Rek BSI	JU		Y	TR	COMP
+11:45	5	2022-03-25	1120	D	\N	250000.00	Ruddy Suwandi / Rek BSI	JU		Y		COMP
+11:45	5	2022-03-25	4101	K	\N	250000.00	Ruddy Suwandi / Rek BSI	JU		Y	TR	COMP
+11:45	5	2022-03-25	4100	K	\N	250000.00	Ruddy Suwandi / Rek BSI	JU		Y		COMP
+11:45	6	2022-03-25	1123	D	\N	300000.00	Kel Pa H. Uki / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-03-25	1120	D	\N	300000.00	Kel Pa H. Uki / Rek Mandiri	JU		Y		COMP
+11:45	6	2022-03-25	4101	K	\N	300000.00	Kel Pa H. Uki / Rek Mandiri	JU		Y	TR	COMP
+11:45	6	2022-03-25	4100	K	\N	300000.00	Kel Pa H. Uki / Rek Mandiri	JU		Y		COMP
+11:45	7	2022-03-25	1123	D	\N	100000.00	Iqra Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	7	2022-03-25	1120	D	\N	100000.00	Iqra Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	7	2022-03-25	4101	K	\N	100000.00	Iqra Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y	TR	COMP
+11:45	7	2022-03-25	4100	K	\N	100000.00	Iqra Indonesia / a.n Ratna Sari / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-26	1112	D	\N	250000.00	Kel. Dul Basir	JU		Y	TR	COMP
+11:45	1	2022-03-26	1110	D	\N	250000.00	Kel. Dul Basir	JU		Y		COMP
+11:45	1	2022-03-26	4101	K	\N	250000.00	Kel. Dul Basir	JU		Y	TR	COMP
+11:45	1	2022-03-26	4100	K	\N	250000.00	Kel. Dul Basir	JU		Y		COMP
+11:45	1	2022-03-28	1112	D	\N	500000.00	Wawan Karnawan / Jl.Negla Tengah ( ledeng )	JU		Y	TR	COMP
+11:45	1	2022-03-28	1110	D	\N	500000.00	Wawan Karnawan / Jl.Negla Tengah ( ledeng )	JU		Y		COMP
+11:45	1	2022-03-28	4101	K	\N	500000.00	Wawan Karnawan / Jl.Negla Tengah ( ledeng )	JU		Y	TR	COMP
+11:45	1	2022-03-28	4100	K	\N	500000.00	Wawan Karnawan / Jl.Negla Tengah ( ledeng )	JU		Y		COMP
+11:45	2	2022-03-28	1112	D	\N	200000.00	Wawan Karnawan / Jl.Negla Tengah ( ledeng )	JU		Y	TR	COMP
+11:45	2	2022-03-28	1110	D	\N	200000.00	Wawan Karnawan / Jl.Negla Tengah ( ledeng )	JU		Y		COMP
+11:45	2	2022-03-28	4101	K	\N	200000.00	Wawan Karnawan / Jl.Negla Tengah ( ledeng )	JU		Y	TR	COMP
+11:45	2	2022-03-28	4100	K	\N	200000.00	Wawan Karnawan / Jl.Negla Tengah ( ledeng )	JU		Y		COMP
+11:45	3	2022-03-28	1122	D	\N	200000.00	Sinta Wijayanti / Rek BNI	JU		Y	TR	COMP
+11:45	3	2022-03-28	1120	D	\N	200000.00	Sinta Wijayanti / Rek BNI	JU		Y		COMP
+11:45	3	2022-03-28	4101	K	\N	200000.00	Sinta Wijayanti / Rek BNI	JU		Y	TR	COMP
+11:45	3	2022-03-28	4100	K	\N	200000.00	Sinta Wijayanti / Rek BNI	JU		Y		COMP
+11:45	4	2022-03-28	1123	D	\N	500000.00	Fauzy Baron / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-03-28	1120	D	\N	500000.00	Fauzy Baron / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-03-28	4101	K	\N	500000.00	Fauzy Baron / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-03-28	4100	K	\N	500000.00	Fauzy Baron / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-03-28	1112	D	\N	201200.00	Kencleng Hj. Ishendrani / Rereng wulung Indah A2	JU		Y	TR	COMP
+11:45	5	2022-03-28	1110	D	\N	201200.00	Kencleng Hj. Ishendrani / Rereng wulung Indah A2	JU		Y		COMP
+11:45	5	2022-03-28	4101	K	\N	201200.00	Kencleng Hj. Ishendrani / Rereng wulung Indah A2	JU		Y	TR	COMP
+11:45	5	2022-03-28	4100	K	\N	201200.00	Kencleng Hj. Ishendrani / Rereng wulung Indah A2	JU		Y		COMP
+11:45	1	2022-03-29	1112	D	\N	300000.00	H. M Ali Hafid farouk / jl Segar Ujung Berung inda	JU		Y	TR	COMP
+11:45	1	2022-03-29	1110	D	\N	300000.00	H. M Ali Hafid farouk / jl Segar Ujung Berung inda	JU		Y		COMP
+11:45	1	2022-03-29	4101	K	\N	300000.00	H. M Ali Hafid farouk / jl Segar Ujung Berung inda	JU		Y	TR	COMP
+11:45	1	2022-03-29	4100	K	\N	300000.00	H. M Ali Hafid farouk / jl Segar Ujung Berung inda	JU		Y		COMP
+11:45	2	2022-03-29	1112	D	\N	150000.00	Ibu Ais Kusmar / Ais Hidayah / Jl Batik Pekalongan	JU		Y	TR	COMP
+11:45	2	2022-03-29	1110	D	\N	150000.00	Ibu Ais Kusmar / Ais Hidayah / Jl Batik Pekalongan	JU		Y		COMP
+11:45	2	2022-03-29	4103	K	\N	150000.00	Ibu Ais Kusmar / Ais Hidayah / Jl Batik Pekalongan	JU		Y	TR	COMP
+11:45	2	2022-03-29	4100	K	\N	150000.00	Ibu Ais Kusmar / Ais Hidayah / Jl Batik Pekalongan	JU		Y		COMP
+11:45	3	2022-03-29	1112	D	\N	200000.00	Muhammad Fuad Mahris / Dago	JU		Y	TR	COMP
+11:45	3	2022-03-29	1110	D	\N	200000.00	Muhammad Fuad Mahris / Dago	JU		Y		COMP
+11:45	3	2022-03-29	4101	K	\N	200000.00	Muhammad Fuad Mahris / Dago	JU		Y	TR	COMP
+11:45	3	2022-03-29	4100	K	\N	200000.00	Muhammad Fuad Mahris / Dago	JU		Y		COMP
+11:45	4	2022-03-29	1123	D	\N	250000.00	Djaliwardi / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-03-29	1120	D	\N	250000.00	Djaliwardi / Rek Mandiri	JU		Y		COMP
+11:45	4	2022-03-29	4101	K	\N	250000.00	Djaliwardi / Rek Mandiri	JU		Y	TR	COMP
+11:45	4	2022-03-29	4100	K	\N	250000.00	Djaliwardi / Rek Mandiri	JU		Y		COMP
+11:45	5	2022-03-29	1112	D	\N	100000.00	Konversi beras / Pa Zuhry	JU		Y	TR	COMP
+11:45	5	2022-03-29	1110	D	\N	100000.00	Konversi beras / Pa Zuhry	JU		Y		COMP
+11:45	5	2022-03-29	4101	K	\N	100000.00	Konversi beras / Pa Zuhry	JU		Y	TR	COMP
+11:45	5	2022-03-29	4100	K	\N	100000.00	Konversi beras / Pa Zuhry	JU		Y		COMP
+11:45	1	2022-03-31	1123	D	\N	500000.00	M. Fariz Iqbal / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-31	1120	D	\N	500000.00	M. Fariz Iqbal / Rek Mandiri	JU		Y		COMP
+11:45	1	2022-03-31	4101	K	\N	500000.00	M. Fariz Iqbal / Rek Mandiri	JU		Y	TR	COMP
+11:45	1	2022-03-31	4100	K	\N	500000.00	M. Fariz Iqbal / Rek Mandiri	JU		Y		COMP
+12:54	1	2021-12-31	1111	D	\N	7076400.00	SALDO DESEMBER 2021	JU		Y	TR	COMP
+12:54	1	2021-12-31	1110	D	\N	7076400.00	SALDO DESEMBER 2021	JU		Y		COMP
+12:54	1	2021-12-31	1122	D	\N	84841237.00	SALDO DESEMBER 2021	JU		Y	TR	COMP
+12:54	1	2021-12-31	1120	D	\N	84841237.00	SALDO DESEMBER 2021	JU		Y		COMP
+12:54	1	2021-12-31	1126	D	\N	19574582.00	SALDO DESEMBER 2021	JU		Y	TR	COMP
+12:54	1	2021-12-31	1120	D	\N	19574582.00	SALDO DESEMBER 2021	JU		Y		COMP
+12:54	1	2021-12-31	1121	D	\N	14154410.40	SALDO DESEMBER 2021	JU		Y	TR	COMP
+12:54	1	2021-12-31	1120	D	\N	14154410.40	SALDO DESEMBER 2021	JU		Y		COMP
+12:54	1	2021-12-31	1125	D	\N	10914875.00	SALDO DESEMBER 2021	JU		Y	TR	COMP
+12:54	1	2021-12-31	1120	D	\N	10914875.00	SALDO DESEMBER 2021	JU		Y		COMP
+12:54	1	2021-12-31	1124	D	\N	19295149.46	SALDO DESEMBER 2021	JU		Y	TR	COMP
+12:54	1	2021-12-31	1120	D	\N	19295149.46	SALDO DESEMBER 2021	JU		Y		COMP
+12:54	1	2021-12-31	1123	D	\N	45422334.14	SALDO DESEMBER 2021	JU		Y	TR	COMP
+12:54	1	2021-12-31	1120	D	\N	45422334.14	SALDO DESEMBER 2021	JU		Y		COMP
+12:54	1	2021-12-31	1601	D	\N	5100000.00	SALDO DESEMBER 2021	JU		Y	TR	COMP
+12:54	1	2021-12-31	1600	D	\N	5100000.00	SALDO DESEMBER 2021	JU		Y		COMP
+12:54	1	2021-12-31	3100	K	\N	206378988.00	SALDO DESEMBER 2021	JU		Y	TR	COMP
+12:54	1	2021-12-31	3000	K	\N	206378988.00	SALDO DESEMBER 2021	JU		Y		COMP
+10:33	2	2022-01-02	1111	K	\N	5000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y	TR	COMP
+10:33	2	2022-01-02	1110	K	\N	5000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y		COMP
+10:33	2	2022-01-02	1112	D	\N	5000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y	TR	COMP
+10:33	2	2022-01-02	1110	D	\N	5000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y		COMP
+10:33	3	2022-01-02	6137	D	\N	240000.00	Uang makan anak puteri tanggal 1-3 Jan 2022	JU		Y	TR	COMP
+10:33	3	2022-01-02	6100	D	\N	240000.00	Uang makan anak puteri tanggal 1-3 Jan 2022	JU		Y		COMP
+10:33	3	2022-01-02	1112	K	\N	240000.00	Uang makan anak puteri tanggal 1-3 Jan 2022	JU		Y	TR	COMP
+10:33	3	2022-01-02	1110	K	\N	240000.00	Uang makan anak puteri tanggal 1-3 Jan 2022	JU		Y		COMP
+10:33	4	2022-01-02	6134	D	\N	600000.00	Uang belanja keperluan pribadi anak puteri 12 anak	JU		Y	TR	COMP
+10:33	4	2022-01-02	6100	D	\N	600000.00	Uang belanja keperluan pribadi anak puteri 12 anak	JU		Y		COMP
+10:33	4	2022-01-02	1112	K	\N	600000.00	Uang belanja keperluan pribadi anak puteri 12 anak	JU		Y	TR	COMP
+10:33	4	2022-01-02	1110	K	\N	600000.00	Uang belanja keperluan pribadi anak puteri 12 anak	JU		Y		COMP
+10:33	4	2022-01-03	6151	D	\N	224331.00	Belanja keperluan bulanan ( wipol,kamper,tissue dl	JU		Y	TR	COMP
+10:33	4	2022-01-03	6100	D	\N	224331.00	Belanja keperluan bulanan ( wipol,kamper,tissue dl	JU		Y		COMP
+10:33	4	2022-01-03	1112	K	\N	224331.00	Belanja keperluan bulanan ( wipol,kamper,tissue dl	JU		Y	TR	COMP
+10:33	4	2022-01-03	1110	K	\N	224331.00	Belanja keperluan bulanan ( wipol,kamper,tissue dl	JU		Y		COMP
+10:33	5	2022-01-03	6126	D	\N	10000.00	Isi ulang air Galon	JU		Y	TR	COMP
+10:33	5	2022-01-03	6100	D	\N	10000.00	Isi ulang air Galon	JU		Y		COMP
+10:33	5	2022-01-03	1112	K	\N	10000.00	Isi ulang air Galon	JU		Y	TR	COMP
+10:33	5	2022-01-03	1110	K	\N	10000.00	Isi ulang air Galon	JU		Y		COMP
+10:33	6	2022-01-03	6131	D	\N	22000.00	Isi ulang tabung gas melon	JU		Y	TR	COMP
+10:33	6	2022-01-03	6100	D	\N	22000.00	Isi ulang tabung gas melon	JU		Y		COMP
+10:33	6	2022-01-03	1112	K	\N	22000.00	Isi ulang tabung gas melon	JU		Y	TR	COMP
+10:33	6	2022-01-03	1110	K	\N	22000.00	Isi ulang tabung gas melon	JU		Y		COMP
+10:33	7	2022-01-03	6115	D	\N	500000.00	sumbangan kegiatan Diklat Kokam PDPM Kota Bandung	JU		Y	TR	COMP
+10:33	7	2022-01-03	6100	D	\N	500000.00	sumbangan kegiatan Diklat Kokam PDPM Kota Bandung	JU		Y		COMP
+10:33	7	2022-01-03	1112	K	\N	500000.00	sumbangan kegiatan Diklat Kokam PDPM Kota Bandung	JU		Y	TR	COMP
+10:33	7	2022-01-03	1110	K	\N	500000.00	sumbangan kegiatan Diklat Kokam PDPM Kota Bandung	JU		Y		COMP
+10:33	8	2022-01-03	6125	D	\N	65000.00	konsumsi rapat pekanan ( juice dan kue putu )	JU		Y	TR	COMP
+10:33	8	2022-01-03	6100	D	\N	65000.00	konsumsi rapat pekanan ( juice dan kue putu )	JU		Y		COMP
+10:33	8	2022-01-03	1112	K	\N	65000.00	konsumsi rapat pekanan ( juice dan kue putu )	JU		Y	TR	COMP
+10:33	8	2022-01-03	1110	K	\N	65000.00	konsumsi rapat pekanan ( juice dan kue putu )	JU		Y		COMP
+10:33	9	2022-01-03	6115	D	\N	1250000.00	Santunan anak asuh luar panti di awiligar	JU		Y	TR	COMP
+10:33	9	2022-01-03	6100	D	\N	1250000.00	Santunan anak asuh luar panti di awiligar	JU		Y		COMP
+10:33	9	2022-01-03	1112	K	\N	1250000.00	Santunan anak asuh luar panti di awiligar	JU		Y	TR	COMP
+10:33	9	2022-01-03	1110	K	\N	1250000.00	Santunan anak asuh luar panti di awiligar	JU		Y		COMP
+10:33	10	2022-01-03	6116	D	\N	200000.00	Imbalan Jasa pembina anak asuh luar panti di awili	JU		Y	TR	COMP
+10:33	10	2022-01-03	6100	D	\N	200000.00	Imbalan Jasa pembina anak asuh luar panti di awili	JU		Y		COMP
+10:33	10	2022-01-03	1112	K	\N	200000.00	Imbalan Jasa pembina anak asuh luar panti di awili	JU		Y	TR	COMP
+10:33	10	2022-01-03	1110	K	\N	200000.00	Imbalan Jasa pembina anak asuh luar panti di awili	JU		Y		COMP
+10:33	11	2022-01-03	6134	D	\N	125300.00	Belanja keperluan pribadi anak putera bulan Januar	JU		Y	TR	COMP
+10:33	11	2022-01-03	6100	D	\N	125300.00	Belanja keperluan pribadi anak putera bulan Januar	JU		Y		COMP
+10:33	11	2022-01-03	1112	K	\N	125300.00	Belanja keperluan pribadi anak putera bulan Januar	JU		Y	TR	COMP
+10:33	11	2022-01-03	1110	K	\N	125300.00	Belanja keperluan pribadi anak putera bulan Januar	JU		Y		COMP
+10:33	12	2022-01-03	6151	D	\N	20000.00	Sapu dan sosodok untuk di asrama putera	JU		Y	TR	COMP
+10:33	12	2022-01-03	6100	D	\N	20000.00	Sapu dan sosodok untuk di asrama putera	JU		Y		COMP
+10:33	12	2022-01-03	1112	K	\N	20000.00	Sapu dan sosodok untuk di asrama putera	JU		Y	TR	COMP
+10:33	12	2022-01-03	1110	K	\N	20000.00	Sapu dan sosodok untuk di asrama putera	JU		Y		COMP
+10:33	13	2022-01-03	6137	D	\N	100000.00	Uang makan anak puteri tanggal 4 Jan 2022	JU		Y	TR	COMP
+10:33	13	2022-01-03	6100	D	\N	100000.00	Uang makan anak puteri tanggal 4 Jan 2022	JU		Y		COMP
+10:33	13	2022-01-03	1112	K	\N	100000.00	Uang makan anak puteri tanggal 4 Jan 2022	JU		Y	TR	COMP
+10:33	13	2022-01-03	1110	K	\N	100000.00	Uang makan anak puteri tanggal 4 Jan 2022	JU		Y		COMP
+10:33	14	2022-01-03	6139	D	\N	580000.00	Service Printer	JU		Y	TR	COMP
+10:33	14	2022-01-03	6100	D	\N	580000.00	Service Printer	JU		Y		COMP
+10:33	14	2022-01-03	1112	K	\N	580000.00	Service Printer	JU		Y	TR	COMP
+10:33	14	2022-01-03	1110	K	\N	580000.00	Service Printer	JU		Y		COMP
+10:33	15	2022-01-03	1112	D	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 2	JU		Y	TR	COMP
+10:33	15	2022-01-03	1110	D	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 2	JU		Y		COMP
+10:33	15	2022-01-03	1123	K	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 2	JU		Y	TR	COMP
+10:33	15	2022-01-03	1120	K	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 2	JU		Y		COMP
+10:33	4	2022-01-04	6107	D	\N	1500000.00	TUKIN Pa Zuhry	JU		Y	TR	COMP
+10:33	4	2022-01-04	6100	D	\N	1500000.00	TUKIN Pa Zuhry	JU		Y		COMP
+10:33	4	2022-01-04	1112	K	\N	1500000.00	TUKIN Pa Zuhry	JU		Y	TR	COMP
+10:33	4	2022-01-04	1110	K	\N	1500000.00	TUKIN Pa Zuhry	JU		Y		COMP
+10:33	5	2022-01-04	6137	D	\N	1320000.00	Uang Makan anak Puteri dari tanggal 5 - 15 Januari	JU		Y	TR	COMP
+10:33	5	2022-01-04	6100	D	\N	1320000.00	Uang Makan anak Puteri dari tanggal 5 - 15 Januari	JU		Y		COMP
+10:33	5	2022-01-04	1112	K	\N	1320000.00	Uang Makan anak Puteri dari tanggal 5 - 15 Januari	JU		Y	TR	COMP
+10:33	5	2022-01-04	1110	K	\N	1320000.00	Uang Makan anak Puteri dari tanggal 5 - 15 Januari	JU		Y		COMP
+10:33	2	2022-01-05	6134	D	\N	575000.00	Belanja keperluan KOKAM	JU		Y	TR	COMP
+10:33	2	2022-01-05	6100	D	\N	575000.00	Belanja keperluan KOKAM	JU		Y		COMP
+10:33	2	2022-01-05	1112	K	\N	575000.00	Belanja keperluan KOKAM	JU		Y	TR	COMP
+10:33	2	2022-01-05	1110	K	\N	575000.00	Belanja keperluan KOKAM	JU		Y		COMP
+10:33	2	2022-01-06	6134	D	\N	24000.00	Panadol dan Antimo	JU		Y	TR	COMP
+10:33	2	2022-01-06	6100	D	\N	24000.00	Panadol dan Antimo	JU		Y		COMP
+10:33	2	2022-01-06	1112	K	\N	24000.00	Panadol dan Antimo	JU		Y	TR	COMP
+10:33	2	2022-01-06	1110	K	\N	24000.00	Panadol dan Antimo	JU		Y		COMP
+10:33	3	2022-01-06	6137	D	\N	1120000.00	Uang makan anak Putera Bulan Januari 2022 @ 3 anak	JU		Y	TR	COMP
+10:33	3	2022-01-06	6100	D	\N	1120000.00	Uang makan anak Putera Bulan Januari 2022 @ 3 anak	JU		Y		COMP
+10:33	3	2022-01-06	1112	K	\N	1120000.00	Uang makan anak Putera Bulan Januari 2022 @ 3 anak	JU		Y	TR	COMP
+10:33	3	2022-01-06	1110	K	\N	1120000.00	Uang makan anak Putera Bulan Januari 2022 @ 3 anak	JU		Y		COMP
+10:33	4	2022-01-06	6151	D	\N	82500.00	Senter Surya LED Hand	JU		Y	TR	COMP
+10:33	4	2022-01-06	6100	D	\N	82500.00	Senter Surya LED Hand	JU		Y		COMP
+10:33	4	2022-01-06	1112	K	\N	82500.00	Senter Surya LED Hand	JU		Y	TR	COMP
+10:33	4	2022-01-06	1110	K	\N	82500.00	Senter Surya LED Hand	JU		Y		COMP
+10:33	5	2022-01-06	6107	D	\N	1000000.00	TUKIN Pa Hendra	JU		Y	TR	COMP
+10:33	5	2022-01-06	6100	D	\N	1000000.00	TUKIN Pa Hendra	JU		Y		COMP
+10:33	5	2022-01-06	1112	K	\N	1000000.00	TUKIN Pa Hendra	JU		Y	TR	COMP
+10:33	5	2022-01-06	1110	K	\N	1000000.00	TUKIN Pa Hendra	JU		Y		COMP
+10:33	8	2022-01-07	6107	D	\N	150000.00	TUKIN Bu holifah	JU		Y	TR	COMP
+10:33	8	2022-01-07	6100	D	\N	150000.00	TUKIN Bu holifah	JU		Y		COMP
+10:33	8	2022-01-07	1112	K	\N	150000.00	TUKIN Bu holifah	JU		Y	TR	COMP
+10:33	8	2022-01-07	1110	K	\N	150000.00	TUKIN Bu holifah	JU		Y		COMP
+10:33	9	2022-01-07	6107	D	\N	1250000.00	TUKIN Pa Dodih	JU		Y	TR	COMP
+10:33	9	2022-01-07	6100	D	\N	1250000.00	TUKIN Pa Dodih	JU		Y		COMP
+10:33	9	2022-01-07	1112	K	\N	1250000.00	TUKIN Pa Dodih	JU		Y	TR	COMP
+10:33	9	2022-01-07	1110	K	\N	1250000.00	TUKIN Pa Dodih	JU		Y		COMP
+10:33	2	2022-01-08	6134	D	\N	71000.00	Keperluan praktek donat (ketermpilan anak )	JU		Y	TR	COMP
+10:33	2	2022-01-08	6100	D	\N	71000.00	Keperluan praktek donat (ketermpilan anak )	JU		Y		COMP
+10:33	2	2022-01-08	1112	K	\N	71000.00	Keperluan praktek donat (ketermpilan anak )	JU		Y	TR	COMP
+10:33	2	2022-01-08	1110	K	\N	71000.00	Keperluan praktek donat (ketermpilan anak )	JU		Y		COMP
+10:33	3	2022-01-08	6128	D	\N	63900.00	PDAM Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	3	2022-01-08	6100	D	\N	63900.00	PDAM Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	3	2022-01-08	1112	K	\N	63900.00	PDAM Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	3	2022-01-08	1110	K	\N	63900.00	PDAM Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	2	2022-01-10	6107	D	\N	1000000.00	TUKIN Bu Ida	JU		Y	TR	COMP
+10:33	2	2022-01-10	6100	D	\N	1000000.00	TUKIN Bu Ida	JU		Y		COMP
+10:33	2	2022-01-10	1112	K	\N	1000000.00	TUKIN Bu Ida	JU		Y	TR	COMP
+10:33	2	2022-01-10	1110	K	\N	1000000.00	TUKIN Bu Ida	JU		Y		COMP
+10:33	3	2022-01-10	1112	D	\N	2000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y	TR	COMP
+10:33	3	2022-01-10	1110	D	\N	2000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y		COMP
+10:33	3	2022-01-10	1111	K	\N	2000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y	TR	COMP
+10:33	3	2022-01-10	1110	K	\N	2000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y		COMP
+10:33	4	2022-01-10	6134	D	\N	12000.00	Transport 2 anak puteri ke SMAN 10	JU		Y	TR	COMP
+10:33	4	2022-01-10	6100	D	\N	12000.00	Transport 2 anak puteri ke SMAN 10	JU		Y		COMP
+10:33	4	2022-01-10	1112	K	\N	12000.00	Transport 2 anak puteri ke SMAN 10	JU		Y	TR	COMP
+10:33	4	2022-01-10	1110	K	\N	12000.00	Transport 2 anak puteri ke SMAN 10	JU		Y		COMP
+10:33	5	2022-01-10	6152	D	\N	50000.00	Transport Bu Ida ke SMAN 10 bagi rapot anak	JU		Y	TR	COMP
+10:33	5	2022-01-10	6100	D	\N	50000.00	Transport Bu Ida ke SMAN 10 bagi rapot anak	JU		Y		COMP
+10:33	5	2022-01-10	1112	K	\N	50000.00	Transport Bu Ida ke SMAN 10 bagi rapot anak	JU		Y	TR	COMP
+10:33	5	2022-01-10	1110	K	\N	50000.00	Transport Bu Ida ke SMAN 10 bagi rapot anak	JU		Y		COMP
+10:33	6	2022-01-10	6176	D	\N	500000.00	Dana Operasional PAUD bulan Januari 2022	JU		Y	TR	COMP
+10:33	6	2022-01-10	6100	D	\N	500000.00	Dana Operasional PAUD bulan Januari 2022	JU		Y		COMP
+10:33	6	2022-01-10	1112	K	\N	500000.00	Dana Operasional PAUD bulan Januari 2022	JU		Y	TR	COMP
+10:33	6	2022-01-10	1110	K	\N	500000.00	Dana Operasional PAUD bulan Januari 2022	JU		Y		COMP
+10:33	7	2022-01-10	6176	D	\N	500000.00	Dana Operasional Aisyiyah bulan Januari 2022	JU		Y	TR	COMP
+10:33	7	2022-01-10	6100	D	\N	500000.00	Dana Operasional Aisyiyah bulan Januari 2022	JU		Y		COMP
+10:33	7	2022-01-10	1112	K	\N	500000.00	Dana Operasional Aisyiyah bulan Januari 2022	JU		Y	TR	COMP
+10:33	7	2022-01-10	1110	K	\N	500000.00	Dana Operasional Aisyiyah bulan Januari 2022	JU		Y		COMP
+10:33	8	2022-01-10	6134	D	\N	12000.00	Cukur Rambut Aldi	JU		Y	TR	COMP
+10:33	8	2022-01-10	6100	D	\N	12000.00	Cukur Rambut Aldi	JU		Y		COMP
+10:33	8	2022-01-10	1112	K	\N	12000.00	Cukur Rambut Aldi	JU		Y	TR	COMP
+10:33	8	2022-01-10	1110	K	\N	12000.00	Cukur Rambut Aldi	JU		Y		COMP
+10:33	9	2022-01-10	6134	D	\N	34000.00	Biaya kesehatan Agung ( Bubur,obat - obatan dll )	JU		Y	TR	COMP
+10:33	9	2022-01-10	6100	D	\N	34000.00	Biaya kesehatan Agung ( Bubur,obat - obatan dll )	JU		Y		COMP
+10:33	9	2022-01-10	1112	K	\N	34000.00	Biaya kesehatan Agung ( Bubur,obat - obatan dll )	JU		Y	TR	COMP
+10:33	9	2022-01-10	1110	K	\N	34000.00	Biaya kesehatan Agung ( Bubur,obat - obatan dll )	JU		Y		COMP
+10:33	3	2022-01-11	6134	D	\N	100000.00	Uang Kas anak untuk transport dll	JU		Y	TR	COMP
+10:33	3	2022-01-11	6100	D	\N	100000.00	Uang Kas anak untuk transport dll	JU		Y		COMP
+10:33	3	2022-01-11	1112	K	\N	100000.00	Uang Kas anak untuk transport dll	JU		Y	TR	COMP
+10:33	3	2022-01-11	1110	K	\N	100000.00	Uang Kas anak untuk transport dll	JU		Y		COMP
+10:33	4	2022-01-11	6107	D	\N	150000.00	TUKIN Pa Nanam	JU		Y	TR	COMP
+10:33	4	2022-01-11	6100	D	\N	150000.00	TUKIN Pa Nanam	JU		Y		COMP
+10:33	4	2022-01-11	1112	K	\N	150000.00	TUKIN Pa Nanam	JU		Y	TR	COMP
+10:33	4	2022-01-11	1110	K	\N	150000.00	TUKIN Pa Nanam	JU		Y		COMP
+10:33	5	2022-01-11	6134	D	\N	8000.00	Transport ke sekolah SMPN 63 ( Meli)	JU		Y	TR	COMP
+10:33	5	2022-01-11	6100	D	\N	8000.00	Transport ke sekolah SMPN 63 ( Meli)	JU		Y		COMP
+10:33	5	2022-01-11	1112	K	\N	8000.00	Transport ke sekolah SMPN 63 ( Meli)	JU		Y	TR	COMP
+10:33	5	2022-01-11	1110	K	\N	8000.00	Transport ke sekolah SMPN 63 ( Meli)	JU		Y		COMP
+10:33	6	2022-01-11	6127	D	\N	136812.00	Listrik Panti Fajar Harapan	JU		Y	TR	COMP
+10:33	6	2022-01-11	6100	D	\N	136812.00	Listrik Panti Fajar Harapan	JU		Y		COMP
+10:33	6	2022-01-11	1112	K	\N	136812.00	Listrik Panti Fajar Harapan	JU		Y	TR	COMP
+10:33	6	2022-01-11	1110	K	\N	136812.00	Listrik Panti Fajar Harapan	JU		Y		COMP
+10:33	7	2022-01-11	6127	D	\N	32730.00	Listrik Perumnas	JU		Y	TR	COMP
+10:33	7	2022-01-11	6100	D	\N	32730.00	Listrik Perumnas	JU		Y		COMP
+10:33	7	2022-01-11	1112	K	\N	32730.00	Listrik Perumnas	JU		Y	TR	COMP
+10:33	7	2022-01-11	1110	K	\N	32730.00	Listrik Perumnas	JU		Y		COMP
+10:33	8	2022-01-11	6129	D	\N	486500.00	TELKOM dan Wifi	JU		Y	TR	COMP
+10:33	8	2022-01-11	6100	D	\N	486500.00	TELKOM dan Wifi	JU		Y		COMP
+10:33	8	2022-01-11	1112	K	\N	486500.00	TELKOM dan Wifi	JU		Y	TR	COMP
+10:33	8	2022-01-11	1110	K	\N	486500.00	TELKOM dan Wifi	JU		Y		COMP
+10:33	9	2022-01-11	6128	D	\N	240400.00	PDAM Ade Rochman	JU		Y	TR	COMP
+10:33	9	2022-01-11	6100	D	\N	240400.00	PDAM Ade Rochman	JU		Y		COMP
+10:33	9	2022-01-11	1112	K	\N	240400.00	PDAM Ade Rochman	JU		Y	TR	COMP
+10:33	9	2022-01-11	1110	K	\N	240400.00	PDAM Ade Rochman	JU		Y		COMP
+10:33	10	2022-01-11	6127	D	\N	217968.00	Listrik Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	10	2022-01-11	6100	D	\N	217968.00	Listrik Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	10	2022-01-11	1112	K	\N	217968.00	Listrik Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	10	2022-01-11	1110	K	\N	217968.00	Listrik Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	11	2022-01-11	6130	D	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y	TR	COMP
+10:33	11	2022-01-11	6100	D	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y		COMP
+10:33	11	2022-01-11	1112	K	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y	TR	COMP
+10:33	11	2022-01-11	1110	K	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y		COMP
+10:33	12	2022-01-11	6134	D	\N	210000.00	Uang makan Fardan Bulan Januari 2022	JU		Y	TR	COMP
+10:33	12	2022-01-11	6100	D	\N	210000.00	Uang makan Fardan Bulan Januari 2022	JU		Y		COMP
+10:33	12	2022-01-11	1112	K	\N	210000.00	Uang makan Fardan Bulan Januari 2022	JU		Y	TR	COMP
+10:33	12	2022-01-11	1110	K	\N	210000.00	Uang makan Fardan Bulan Januari 2022	JU		Y		COMP
+10:33	1	2022-01-12	6115	D	\N	500000.00	Infaq Masjid Al Barokah	JU		Y	TR	COMP
+10:33	1	2022-01-12	6100	D	\N	500000.00	Infaq Masjid Al Barokah	JU		Y		COMP
+10:33	1	2022-01-12	1112	K	\N	500000.00	Infaq Masjid Al Barokah	JU		Y	TR	COMP
+10:33	1	2022-01-12	1110	K	\N	500000.00	Infaq Masjid Al Barokah	JU		Y		COMP
+10:33	5	2022-01-13	6151	D	\N	49000.00	Kresek putih dan bening untuk packing sembako sant	JU		Y	TR	COMP
+10:33	5	2022-01-13	6100	D	\N	49000.00	Kresek putih dan bening untuk packing sembako sant	JU		Y		COMP
+10:33	5	2022-01-13	1112	K	\N	49000.00	Kresek putih dan bening untuk packing sembako sant	JU		Y	TR	COMP
+10:33	5	2022-01-13	1110	K	\N	49000.00	Kresek putih dan bening untuk packing sembako sant	JU		Y		COMP
+10:33	6	2022-01-13	1112	D	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 4	JU		Y	TR	COMP
+10:33	6	2022-01-13	1110	D	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 4	JU		Y		COMP
+10:33	6	2022-01-13	1123	K	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 4	JU		Y	TR	COMP
+10:33	6	2022-01-13	1120	K	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 4	JU		Y		COMP
+10:33	7	2022-01-13	6134	D	\N	23500.00	OBH Combi untuk agung dan Fardan juga appron	JU		Y	TR	COMP
+10:33	7	2022-01-13	6100	D	\N	23500.00	OBH Combi untuk agung dan Fardan juga appron	JU		Y		COMP
+10:33	7	2022-01-13	1112	K	\N	23500.00	OBH Combi untuk agung dan Fardan juga appron	JU		Y	TR	COMP
+10:33	7	2022-01-13	1110	K	\N	23500.00	OBH Combi untuk agung dan Fardan juga appron	JU		Y		COMP
+10:33	1	2022-01-15	1360	D	\N	845000.00	HP inventaris Ibel A26 2/32 gb	JU		Y	TR	COMP
+10:33	1	2022-01-15	1300	D	\N	845000.00	HP inventaris Ibel A26 2/32 gb	JU		Y		COMP
+10:33	1	2022-01-15	1112	K	\N	845000.00	HP inventaris Ibel A26 2/32 gb	JU		Y	TR	COMP
+10:33	1	2022-01-15	1110	K	\N	845000.00	HP inventaris Ibel A26 2/32 gb	JU		Y		COMP
+10:33	2	2022-01-15	6134	D	\N	36000.00	Transport ke sekolah SMPN 63 ( Meli) dan Arasya SM	JU		Y	TR	COMP
+10:33	2	2022-01-15	6100	D	\N	36000.00	Transport ke sekolah SMPN 63 ( Meli) dan Arasya SM	JU		Y		COMP
+10:33	2	2022-01-15	1112	K	\N	36000.00	Transport ke sekolah SMPN 63 ( Meli) dan Arasya SM	JU		Y	TR	COMP
+10:33	2	2022-01-15	1110	K	\N	36000.00	Transport ke sekolah SMPN 63 ( Meli) dan Arasya SM	JU		Y		COMP
+10:33	3	2022-01-15	6134	D	\N	100000.00	Uang Kas untuk Transport ke sekolah anak puteri	JU		Y	TR	COMP
+10:33	3	2022-01-15	6100	D	\N	100000.00	Uang Kas untuk Transport ke sekolah anak puteri	JU		Y		COMP
+10:33	3	2022-01-15	1112	K	\N	100000.00	Uang Kas untuk Transport ke sekolah anak puteri	JU		Y	TR	COMP
+10:33	3	2022-01-15	1110	K	\N	100000.00	Uang Kas untuk Transport ke sekolah anak puteri	JU		Y		COMP
+10:33	4	2022-01-15	1350	D	\N	980000.00	Tangga Almunium	JU		Y	TR	COMP
+10:33	4	2022-01-15	1300	D	\N	980000.00	Tangga Almunium	JU		Y		COMP
+10:33	4	2022-01-15	1112	K	\N	980000.00	Tangga Almunium	JU		Y	TR	COMP
+10:33	4	2022-01-15	1110	K	\N	980000.00	Tangga Almunium	JU		Y		COMP
+10:33	5	2022-01-15	6107	D	\N	1000000.00	TUKIN Kang Ade Yanwar	JU		Y	TR	COMP
+10:33	5	2022-01-15	6100	D	\N	1000000.00	TUKIN Kang Ade Yanwar	JU		Y		COMP
+10:33	5	2022-01-15	1112	K	\N	1000000.00	TUKIN Kang Ade Yanwar	JU		Y	TR	COMP
+10:33	5	2022-01-15	1110	K	\N	1000000.00	TUKIN Kang Ade Yanwar	JU		Y		COMP
+10:33	6	2022-01-15	6107	D	\N	1000000.00	TUKIN Mery	JU		Y	TR	COMP
+10:33	6	2022-01-15	6100	D	\N	1000000.00	TUKIN Mery	JU		Y		COMP
+10:33	6	2022-01-15	1112	K	\N	1000000.00	TUKIN Mery	JU		Y	TR	COMP
+10:33	6	2022-01-15	1110	K	\N	1000000.00	TUKIN Mery	JU		Y		COMP
+10:33	2	2022-01-17	6152	D	\N	100000.00	sewa angkot untuk  pengiriman sembako ke Awiligar	JU		Y	TR	COMP
+10:33	2	2022-01-17	6100	D	\N	100000.00	sewa angkot untuk  pengiriman sembako ke Awiligar	JU		Y		COMP
+10:33	2	2022-01-17	1112	K	\N	100000.00	sewa angkot untuk  pengiriman sembako ke Awiligar	JU		Y	TR	COMP
+10:33	2	2022-01-17	1110	K	\N	100000.00	sewa angkot untuk  pengiriman sembako ke Awiligar	JU		Y		COMP
+10:33	3	2022-01-17	6137	D	\N	360000.00	Uang Makan anak Puteri dari tanggal 16 - 18 Januar	JU		Y	TR	COMP
+10:33	3	2022-01-17	6100	D	\N	360000.00	Uang Makan anak Puteri dari tanggal 16 - 18 Januar	JU		Y		COMP
+10:33	3	2022-01-17	1112	K	\N	360000.00	Uang Makan anak Puteri dari tanggal 16 - 18 Januar	JU		Y	TR	COMP
+10:33	3	2022-01-17	1110	K	\N	360000.00	Uang Makan anak Puteri dari tanggal 16 - 18 Januar	JU		Y		COMP
+10:33	4	2022-01-17	6134	D	\N	78000.00	Transport anak putera ke sekolah @ 4 anak dari tan	JU		Y	TR	COMP
+10:33	4	2022-01-17	6100	D	\N	78000.00	Transport anak putera ke sekolah @ 4 anak dari tan	JU		Y		COMP
+10:33	4	2022-01-17	1112	K	\N	78000.00	Transport anak putera ke sekolah @ 4 anak dari tan	JU		Y	TR	COMP
+10:33	4	2022-01-17	1110	K	\N	78000.00	Transport anak putera ke sekolah @ 4 anak dari tan	JU		Y		COMP
+10:33	5	2022-01-17	6107	D	\N	150000.00	TUKIN Pa Ade Arifin	JU		Y	TR	COMP
+10:33	5	2022-01-17	6100	D	\N	150000.00	TUKIN Pa Ade Arifin	JU		Y		COMP
+10:33	5	2022-01-17	1112	K	\N	150000.00	TUKIN Pa Ade Arifin	JU		Y	TR	COMP
+10:33	5	2022-01-17	1110	K	\N	150000.00	TUKIN Pa Ade Arifin	JU		Y		COMP
+10:33	6	2022-01-17	6134	D	\N	100000.00	Transport anak puteri ke sekolah	JU		Y	TR	COMP
+10:33	6	2022-01-17	6100	D	\N	100000.00	Transport anak puteri ke sekolah	JU		Y		COMP
+10:33	6	2022-01-17	1112	K	\N	100000.00	Transport anak puteri ke sekolah	JU		Y	TR	COMP
+10:33	6	2022-01-17	1110	K	\N	100000.00	Transport anak puteri ke sekolah	JU		Y		COMP
+10:33	1	2022-01-18	6134	D	\N	50000.00	Transport Alifa ke sekolah dari tanggal 18 - 19 De	JU		Y	TR	COMP
+10:33	1	2022-01-18	6100	D	\N	50000.00	Transport Alifa ke sekolah dari tanggal 18 - 19 De	JU		Y		COMP
+10:33	1	2022-01-18	1112	K	\N	50000.00	Transport Alifa ke sekolah dari tanggal 18 - 19 De	JU		Y	TR	COMP
+10:33	1	2022-01-18	1110	K	\N	50000.00	Transport Alifa ke sekolah dari tanggal 18 - 19 De	JU		Y		COMP
+10:33	2	2022-01-18	6176	D	\N	500000.00	Dana Operasional Dakwah untuk Al Muhajirin	JU		Y	TR	COMP
+10:33	2	2022-01-18	6100	D	\N	500000.00	Dana Operasional Dakwah untuk Al Muhajirin	JU		Y		COMP
+10:33	2	2022-01-18	1112	K	\N	500000.00	Dana Operasional Dakwah untuk Al Muhajirin	JU		Y	TR	COMP
+10:33	2	2022-01-18	1110	K	\N	500000.00	Dana Operasional Dakwah untuk Al Muhajirin	JU		Y		COMP
+10:33	3	2022-01-18	6137	D	\N	1560000.00	Uang makan anak puteri dari tanggal 19 Jan 2022 -	JU		Y	TR	COMP
+10:33	3	2022-01-18	6100	D	\N	1560000.00	Uang makan anak puteri dari tanggal 19 Jan 2022 -	JU		Y		COMP
+10:33	3	2022-01-18	1112	K	\N	1560000.00	Uang makan anak puteri dari tanggal 19 Jan 2022 -	JU		Y	TR	COMP
+10:33	3	2022-01-18	1110	K	\N	1560000.00	Uang makan anak puteri dari tanggal 19 Jan 2022 -	JU		Y		COMP
+10:33	4	2022-01-18	6149	D	\N	270000.00	Majalah Suara Muhammadiyah @ 10 exmplar	JU		Y	TR	COMP
+10:33	4	2022-01-18	6100	D	\N	270000.00	Majalah Suara Muhammadiyah @ 10 exmplar	JU		Y		COMP
+10:33	4	2022-01-18	1112	K	\N	270000.00	Majalah Suara Muhammadiyah @ 10 exmplar	JU		Y	TR	COMP
+10:33	4	2022-01-18	1110	K	\N	270000.00	Majalah Suara Muhammadiyah @ 10 exmplar	JU		Y		COMP
+10:33	1	2022-01-19	6152	D	\N	250000.00	droping darurat untuk transport ke klinik dll	JU		Y	TR	COMP
+10:33	1	2022-01-19	6100	D	\N	250000.00	droping darurat untuk transport ke klinik dll	JU		Y		COMP
+10:33	1	2022-01-19	1112	K	\N	250000.00	droping darurat untuk transport ke klinik dll	JU		Y	TR	COMP
+10:33	1	2022-01-19	1110	K	\N	250000.00	droping darurat untuk transport ke klinik dll	JU		Y		COMP
+10:33	3	2022-01-20	6177	D	\N	500000.00	Sponshorship 5 % Telkom property	JU		Y	TR	COMP
+10:33	3	2022-01-20	6100	D	\N	500000.00	Sponshorship 5 % Telkom property	JU		Y		COMP
+10:33	3	2022-01-20	1112	K	\N	500000.00	Sponshorship 5 % Telkom property	JU		Y	TR	COMP
+10:33	3	2022-01-20	1110	K	\N	500000.00	Sponshorship 5 % Telkom property	JU		Y		COMP
+10:33	4	2022-01-20	6134	D	\N	30000.00	Uang Cukur Agung & Fardan	JU		Y	TR	COMP
+10:33	4	2022-01-20	6100	D	\N	30000.00	Uang Cukur Agung & Fardan	JU		Y		COMP
+10:33	4	2022-01-20	1112	K	\N	30000.00	Uang Cukur Agung & Fardan	JU		Y	TR	COMP
+10:33	4	2022-01-20	1110	K	\N	30000.00	Uang Cukur Agung & Fardan	JU		Y		COMP
+10:33	8	2022-01-21	6135	D	\N	4000.00	Jilid Proposal ke PT Qtasnim Digital Tekhnologi	JU		Y	TR	COMP
+10:33	8	2022-01-21	6100	D	\N	4000.00	Jilid Proposal ke PT Qtasnim Digital Tekhnologi	JU		Y		COMP
+10:33	8	2022-01-21	1112	K	\N	4000.00	Jilid Proposal ke PT Qtasnim Digital Tekhnologi	JU		Y	TR	COMP
+10:33	8	2022-01-21	1110	K	\N	4000.00	Jilid Proposal ke PT Qtasnim Digital Tekhnologi	JU		Y		COMP
+10:33	9	2022-01-21	6134	D	\N	66000.00	Transport anak putera ke sekolah	JU		Y	TR	COMP
+10:33	9	2022-01-21	6100	D	\N	66000.00	Transport anak putera ke sekolah	JU		Y		COMP
+10:33	9	2022-01-21	1112	K	\N	66000.00	Transport anak putera ke sekolah	JU		Y	TR	COMP
+10:33	9	2022-01-21	1110	K	\N	66000.00	Transport anak putera ke sekolah	JU		Y		COMP
+10:33	10	2022-01-21	6134	D	\N	36000.00	Transport Melly ke SMPN 63 dari tanggal 17 - 21 Ja	JU		Y	TR	COMP
+10:33	10	2022-01-21	6100	D	\N	36000.00	Transport Melly ke SMPN 63 dari tanggal 17 - 21 Ja	JU		Y		COMP
+10:33	10	2022-01-21	1112	K	\N	36000.00	Transport Melly ke SMPN 63 dari tanggal 17 - 21 Ja	JU		Y	TR	COMP
+10:33	10	2022-01-21	1110	K	\N	36000.00	Transport Melly ke SMPN 63 dari tanggal 17 - 21 Ja	JU		Y		COMP
+10:33	2	2022-01-22	6152	D	\N	100000.00	Transport Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	2	2022-01-22	6100	D	\N	100000.00	Transport Tutor Tapak Suci	JU		Y		COMP
+10:33	2	2022-01-22	1112	K	\N	100000.00	Transport Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	2	2022-01-22	1110	K	\N	100000.00	Transport Tutor Tapak Suci	JU		Y		COMP
+10:33	3	2022-01-22	6125	D	\N	77000.00	konsumsi rapat pekanan ( Mie Ayam )	JU		Y	TR	COMP
+10:33	3	2022-01-22	6100	D	\N	77000.00	konsumsi rapat pekanan ( Mie Ayam )	JU		Y		COMP
+10:33	3	2022-01-22	1112	K	\N	77000.00	konsumsi rapat pekanan ( Mie Ayam )	JU		Y	TR	COMP
+10:33	3	2022-01-22	1110	K	\N	77000.00	konsumsi rapat pekanan ( Mie Ayam )	JU		Y		COMP
+10:33	2	2022-01-24	6134	D	\N	26500.00	Baud untuk tempat tidur puteri	JU		Y	TR	COMP
+10:33	2	2022-01-24	6100	D	\N	26500.00	Baud untuk tempat tidur puteri	JU		Y		COMP
+10:33	2	2022-01-24	1112	K	\N	26500.00	Baud untuk tempat tidur puteri	JU		Y	TR	COMP
+10:33	2	2022-01-24	1110	K	\N	26500.00	Baud untuk tempat tidur puteri	JU		Y		COMP
+10:33	3	2022-01-24	6134	D	\N	11000.00	dudukan lampu kamar mandi puteri	JU		Y	TR	COMP
+10:33	3	2022-01-24	6100	D	\N	11000.00	dudukan lampu kamar mandi puteri	JU		Y		COMP
+10:33	3	2022-01-24	1112	K	\N	11000.00	dudukan lampu kamar mandi puteri	JU		Y	TR	COMP
+10:33	3	2022-01-24	1110	K	\N	11000.00	dudukan lampu kamar mandi puteri	JU		Y		COMP
+10:33	4	2022-01-24	6134	D	\N	45000.00	Lampu, Buryam dan paracetamol	JU		Y	TR	COMP
+10:33	4	2022-01-24	6100	D	\N	45000.00	Lampu, Buryam dan paracetamol	JU		Y		COMP
+10:33	4	2022-01-24	1112	K	\N	45000.00	Lampu, Buryam dan paracetamol	JU		Y	TR	COMP
+10:33	4	2022-01-24	1110	K	\N	45000.00	Lampu, Buryam dan paracetamol	JU		Y		COMP
+10:33	5	2022-01-24	6134	D	\N	15000.00	Kunci HUB ( kunci lemari )	JU		Y	TR	COMP
+10:33	5	2022-01-24	6100	D	\N	15000.00	Kunci HUB ( kunci lemari )	JU		Y		COMP
+10:33	5	2022-01-24	1112	K	\N	15000.00	Kunci HUB ( kunci lemari )	JU		Y	TR	COMP
+10:33	5	2022-01-24	1110	K	\N	15000.00	Kunci HUB ( kunci lemari )	JU		Y		COMP
+10:33	6	2022-01-24	6126	D	\N	6000.00	Isi Ulang air galon 1 bh	JU		Y	TR	COMP
+10:33	6	2022-01-24	6100	D	\N	6000.00	Isi Ulang air galon 1 bh	JU		Y		COMP
+10:33	6	2022-01-24	1112	K	\N	6000.00	Isi Ulang air galon 1 bh	JU		Y	TR	COMP
+10:33	6	2022-01-24	1110	K	\N	6000.00	Isi Ulang air galon 1 bh	JU		Y		COMP
+10:33	7	2022-01-24	6134	D	\N	540000.00	Transport anak puteri ke sekolah SMAMSa via angkot	JU		Y	TR	COMP
+10:33	7	2022-01-24	6100	D	\N	540000.00	Transport anak puteri ke sekolah SMAMSa via angkot	JU		Y		COMP
+10:33	7	2022-01-24	1112	K	\N	540000.00	Transport anak puteri ke sekolah SMAMSa via angkot	JU		Y	TR	COMP
+10:33	7	2022-01-24	1110	K	\N	540000.00	Transport anak puteri ke sekolah SMAMSa via angkot	JU		Y		COMP
+10:33	4	2022-01-25	6149	D	\N	44000.00	Isi Spidol 2 bh	JU		Y	TR	COMP
+10:33	4	2022-01-25	6100	D	\N	44000.00	Isi Spidol 2 bh	JU		Y		COMP
+10:33	4	2022-01-25	1112	K	\N	44000.00	Isi Spidol 2 bh	JU		Y	TR	COMP
+10:33	4	2022-01-25	1110	K	\N	44000.00	Isi Spidol 2 bh	JU		Y		COMP
+10:33	1	2022-01-26	6134	D	\N	100000.00	Uang kas droping untuk transport puteri SMAN 10 dl	JU		Y	TR	COMP
+10:33	1	2022-01-26	6100	D	\N	100000.00	Uang kas droping untuk transport puteri SMAN 10 dl	JU		Y		COMP
+10:33	1	2022-01-26	1112	K	\N	100000.00	Uang kas droping untuk transport puteri SMAN 10 dl	JU		Y	TR	COMP
+10:33	1	2022-01-26	1110	K	\N	100000.00	Uang kas droping untuk transport puteri SMAN 10 dl	JU		Y		COMP
+10:33	2	2022-01-26	6134	D	\N	450000.00	SPP Agung bulan Desember 2021  & Januari 2022	JU		Y	TR	COMP
+10:33	2	2022-01-26	6100	D	\N	450000.00	SPP Agung bulan Desember 2021  & Januari 2022	JU		Y		COMP
+10:33	2	2022-01-26	1112	K	\N	450000.00	SPP Agung bulan Desember 2021  & Januari 2022	JU		Y	TR	COMP
+10:33	2	2022-01-26	1110	K	\N	450000.00	SPP Agung bulan Desember 2021  & Januari 2022	JU		Y		COMP
+10:33	3	2022-01-26	6134	D	\N	400000.00	SPP Fardan bulan Desember 2021 & Januari 2022	JU		Y	TR	COMP
+10:33	3	2022-01-26	6100	D	\N	400000.00	SPP Fardan bulan Desember 2021 & Januari 2022	JU		Y		COMP
+10:33	3	2022-01-26	1112	K	\N	400000.00	SPP Fardan bulan Desember 2021 & Januari 2022	JU		Y	TR	COMP
+10:33	3	2022-01-26	1110	K	\N	400000.00	SPP Fardan bulan Desember 2021 & Januari 2022	JU		Y		COMP
+10:33	4	2022-01-26	6134	D	\N	60000.00	Transport anak putera ke sekolah dari tanggal 24 J	JU		Y	TR	COMP
+10:33	4	2022-01-26	6100	D	\N	60000.00	Transport anak putera ke sekolah dari tanggal 24 J	JU		Y		COMP
+10:33	4	2022-01-26	1112	K	\N	60000.00	Transport anak putera ke sekolah dari tanggal 24 J	JU		Y	TR	COMP
+10:33	4	2022-01-26	1110	K	\N	60000.00	Transport anak putera ke sekolah dari tanggal 24 J	JU		Y		COMP
+10:33	5	2022-01-26	6135	D	\N	48000.00	Fotocopy dan Jilid	JU		Y	TR	COMP
+10:33	5	2022-01-26	6100	D	\N	48000.00	Fotocopy dan Jilid	JU		Y		COMP
+10:33	5	2022-01-26	1112	K	\N	48000.00	Fotocopy dan Jilid	JU		Y	TR	COMP
+10:33	5	2022-01-26	1110	K	\N	48000.00	Fotocopy dan Jilid	JU		Y		COMP
+10:33	3	2022-01-27	6134	D	\N	60000.00	Transport ke sekolah Alifa & Mely dari tanggal 24	JU		Y	TR	COMP
+10:33	3	2022-01-27	6100	D	\N	60000.00	Transport ke sekolah Alifa & Mely dari tanggal 24	JU		Y		COMP
+10:33	3	2022-01-27	1112	K	\N	60000.00	Transport ke sekolah Alifa & Mely dari tanggal 24	JU		Y	TR	COMP
+10:33	3	2022-01-27	1110	K	\N	60000.00	Transport ke sekolah Alifa & Mely dari tanggal 24	JU		Y		COMP
+10:33	9	2022-01-28	6134	D	\N	39000.00	Biaya kesehatan zahra ( susu beruang , sayur bayam	JU		Y	TR	COMP
+10:33	9	2022-01-28	6100	D	\N	39000.00	Biaya kesehatan zahra ( susu beruang , sayur bayam	JU		Y		COMP
+10:33	9	2022-01-28	1112	K	\N	39000.00	Biaya kesehatan zahra ( susu beruang , sayur bayam	JU		Y	TR	COMP
+10:33	9	2022-01-28	1110	K	\N	39000.00	Biaya kesehatan zahra ( susu beruang , sayur bayam	JU		Y		COMP
+10:33	10	2022-01-28	6134	D	\N	200000.00	Transport anak puteri ke sekolah SMAMSa, SMP , dan	JU		Y	TR	COMP
+10:33	10	2022-01-28	6100	D	\N	200000.00	Transport anak puteri ke sekolah SMAMSa, SMP , dan	JU		Y		COMP
+10:33	10	2022-01-28	1112	K	\N	200000.00	Transport anak puteri ke sekolah SMAMSa, SMP , dan	JU		Y	TR	COMP
+10:33	10	2022-01-28	1110	K	\N	200000.00	Transport anak puteri ke sekolah SMAMSa, SMP , dan	JU		Y		COMP
+10:33	3	2022-01-29	1112	D	\N	5000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y	TR	COMP
+10:33	3	2022-01-29	1110	D	\N	5000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y		COMP
+10:33	3	2022-01-29	1111	K	\N	5000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y	TR	COMP
+10:33	3	2022-01-29	1110	K	\N	5000000.00	Dikeluarkan dari brankas untuk operasional bulan J	JU		Y		COMP
+10:33	1	2022-01-30	1112	D	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 6	JU		Y	TR	COMP
+10:33	1	2022-01-30	1110	D	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 6	JU		Y		COMP
+10:33	1	2022-01-30	1123	K	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 6	JU		Y	TR	COMP
+10:33	1	2022-01-30	1120	K	\N	10000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 6	JU		Y		COMP
+10:33	3	2022-01-31	6134	D	\N	50000.00	Peralatan kebersihan di panti puteri sapu jalan dl	JU		Y	TR	COMP
+10:33	3	2022-01-31	6100	D	\N	50000.00	Peralatan kebersihan di panti puteri sapu jalan dl	JU		Y		COMP
+10:33	3	2022-01-31	1112	K	\N	50000.00	Peralatan kebersihan di panti puteri sapu jalan dl	JU		Y	TR	COMP
+10:33	3	2022-01-31	1110	K	\N	50000.00	Peralatan kebersihan di panti puteri sapu jalan dl	JU		Y		COMP
+10:33	4	2022-01-31	6135	D	\N	720000.00	Uang makan puteri dari tanggal 1 Feb 2022 sampai 6	JU		Y	TR	COMP
+10:33	4	2022-01-31	6100	D	\N	720000.00	Uang makan puteri dari tanggal 1 Feb 2022 sampai 6	JU		Y		COMP
+10:33	4	2022-01-31	1112	K	\N	720000.00	Uang makan puteri dari tanggal 1 Feb 2022 sampai 6	JU		Y	TR	COMP
+10:33	4	2022-01-31	1110	K	\N	720000.00	Uang makan puteri dari tanggal 1 Feb 2022 sampai 6	JU		Y		COMP
+10:33	5	2022-01-31	6135	D	\N	300000.00	Uang makan anak Putera dan puteri dari tanggal 1 F	JU		Y	TR	COMP
+10:33	5	2022-01-31	6100	D	\N	300000.00	Uang makan anak Putera dan puteri dari tanggal 1 F	JU		Y		COMP
+10:33	5	2022-01-31	1112	K	\N	300000.00	Uang makan anak Putera dan puteri dari tanggal 1 F	JU		Y	TR	COMP
+10:33	5	2022-01-31	1110	K	\N	300000.00	Uang makan anak Putera dan puteri dari tanggal 1 F	JU		Y		COMP
+10:33	2	2021-12-31	6157	D	\N	13772500.00	Biaya Renov Asrama Puteri bulan Januari	JU		Y	TR	COMP
+10:33	2	2021-12-31	6100	D	\N	13772500.00	Biaya Renov Asrama Puteri bulan Januari	JU		Y		COMP
+10:33	2	2021-12-31	1112	K	\N	13772500.00	Biaya Renov Asrama Puteri bulan Januari	JU		Y	TR	COMP
+10:33	2	2021-12-31	1110	K	\N	13772500.00	Biaya Renov Asrama Puteri bulan Januari	JU		Y		COMP
+10:33	5	2022-02-02	1112	D	\N	30000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 1	JU		Y	TR	COMP
+10:33	5	2022-02-02	1110	D	\N	30000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 1	JU		Y		COMP
+10:33	5	2022-02-02	1123	K	\N	30000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 1	JU		Y	TR	COMP
+10:33	5	2022-02-02	1120	K	\N	30000000.00	Penarikan dari Mandiri ATM (DROPING) tahap 1	JU		Y		COMP
+10:33	6	2022-02-02	6134	D	\N	5000.00	Kok	JU		Y	TR	COMP
+10:33	6	2022-02-02	6100	D	\N	5000.00	Kok	JU		Y		COMP
+10:33	6	2022-02-02	1112	K	\N	5000.00	Kok	JU		Y	TR	COMP
+10:33	6	2022-02-02	1110	K	\N	5000.00	Kok	JU		Y		COMP
+10:33	7	2022-02-02	6134	D	\N	3000.00	kertas HVS A3 dan spidol ( tugas sekolah melly )	JU		Y	TR	COMP
+10:33	7	2022-02-02	6100	D	\N	3000.00	kertas HVS A3 dan spidol ( tugas sekolah melly )	JU		Y		COMP
+10:33	7	2022-02-02	1112	K	\N	3000.00	kertas HVS A3 dan spidol ( tugas sekolah melly )	JU		Y	TR	COMP
+10:33	7	2022-02-02	1110	K	\N	3000.00	kertas HVS A3 dan spidol ( tugas sekolah melly )	JU		Y		COMP
+10:33	9	2022-02-03	6101	D	\N	1500000.00	Imbalan Jasa Pa Zuhry bulan Januari 2022	JU		Y	TR	COMP
+10:33	9	2022-02-03	6100	D	\N	1500000.00	Imbalan Jasa Pa Zuhry bulan Januari 2022	JU		Y		COMP
+10:33	9	2022-02-03	1112	K	\N	1500000.00	Imbalan Jasa Pa Zuhry bulan Januari 2022	JU		Y	TR	COMP
+10:33	9	2022-02-03	1110	K	\N	1500000.00	Imbalan Jasa Pa Zuhry bulan Januari 2022	JU		Y		COMP
+10:33	10	2022-02-03	6134	D	\N	102000.00	Transport anak putera ke sekolah dari tanggal 27 J	JU		Y	TR	COMP
+10:33	10	2022-02-03	6100	D	\N	102000.00	Transport anak putera ke sekolah dari tanggal 27 J	JU		Y		COMP
+10:33	10	2022-02-03	1112	K	\N	102000.00	Transport anak putera ke sekolah dari tanggal 27 J	JU		Y	TR	COMP
+10:33	10	2022-02-03	1110	K	\N	102000.00	Transport anak putera ke sekolah dari tanggal 27 J	JU		Y		COMP
+10:33	11	2022-02-03	6135	D	\N	1100000.00	Uang makan anak putera 4 anak dan 1 pembina dari t	JU		Y	TR	COMP
+10:33	11	2022-02-03	6100	D	\N	1100000.00	Uang makan anak putera 4 anak dan 1 pembina dari t	JU		Y		COMP
+10:33	11	2022-02-03	1112	K	\N	1100000.00	Uang makan anak putera 4 anak dan 1 pembina dari t	JU		Y	TR	COMP
+10:33	11	2022-02-03	1110	K	\N	1100000.00	Uang makan anak putera 4 anak dan 1 pembina dari t	JU		Y		COMP
+10:33	12	2022-02-03	6134	D	\N	20000.00	Transport anak puteri pulang sekolah 2 anak dari S	JU		Y	TR	COMP
+10:33	12	2022-02-03	6100	D	\N	20000.00	Transport anak puteri pulang sekolah 2 anak dari S	JU		Y		COMP
+10:33	12	2022-02-03	1112	K	\N	20000.00	Transport anak puteri pulang sekolah 2 anak dari S	JU		Y	TR	COMP
+10:33	12	2022-02-03	1110	K	\N	20000.00	Transport anak puteri pulang sekolah 2 anak dari S	JU		Y		COMP
+10:33	13	2022-02-03	6101	D	\N	1000000.00	Imbalan Jasa Bu Ida bulan Januari 2022	JU		Y	TR	COMP
+10:33	13	2022-02-03	6100	D	\N	1000000.00	Imbalan Jasa Bu Ida bulan Januari 2022	JU		Y		COMP
+10:33	13	2022-02-03	1112	K	\N	1000000.00	Imbalan Jasa Bu Ida bulan Januari 2022	JU		Y	TR	COMP
+10:33	13	2022-02-03	1110	K	\N	1000000.00	Imbalan Jasa Bu Ida bulan Januari 2022	JU		Y		COMP
+10:33	14	2022-02-03	6176	D	\N	500000.00	Dana Operasional Dakwah Aisyiah	JU		Y	TR	COMP
+10:33	14	2022-02-03	6100	D	\N	500000.00	Dana Operasional Dakwah Aisyiah	JU		Y		COMP
+10:33	14	2022-02-03	1112	K	\N	500000.00	Dana Operasional Dakwah Aisyiah	JU		Y	TR	COMP
+10:33	14	2022-02-03	1110	K	\N	500000.00	Dana Operasional Dakwah Aisyiah	JU		Y		COMP
+10:33	15	2022-02-03	6176	D	\N	500000.00	Dana Operasional Dakwah PAUD	JU		Y	TR	COMP
+10:33	15	2022-02-03	6100	D	\N	500000.00	Dana Operasional Dakwah PAUD	JU		Y		COMP
+10:33	15	2022-02-03	1112	K	\N	500000.00	Dana Operasional Dakwah PAUD	JU		Y	TR	COMP
+10:33	15	2022-02-03	1110	K	\N	500000.00	Dana Operasional Dakwah PAUD	JU		Y		COMP
+10:33	16	2022-02-03	6176	D	\N	500000.00	Dana Operasional Dakwah Al Muhajirin	JU		Y	TR	COMP
+10:33	16	2022-02-03	6100	D	\N	500000.00	Dana Operasional Dakwah Al Muhajirin	JU		Y		COMP
+10:33	16	2022-02-03	1112	K	\N	500000.00	Dana Operasional Dakwah Al Muhajirin	JU		Y	TR	COMP
+10:33	16	2022-02-03	1110	K	\N	500000.00	Dana Operasional Dakwah Al Muhajirin	JU		Y		COMP
+10:33	17	2022-02-03	6135	D	\N	2640000.00	Uang makan anak puteri 11 anak dan 1 pembina dari	JU		Y	TR	COMP
+10:33	17	2022-02-03	6100	D	\N	2640000.00	Uang makan anak puteri 11 anak dan 1 pembina dari	JU		Y		COMP
+10:33	17	2022-02-03	1112	K	\N	2640000.00	Uang makan anak puteri 11 anak dan 1 pembina dari	JU		Y	TR	COMP
+10:33	17	2022-02-03	1110	K	\N	2640000.00	Uang makan anak puteri 11 anak dan 1 pembina dari	JU		Y		COMP
+10:33	18	2022-02-03	6134	D	\N	226700.00	Keperluan pribadi anak putera	JU		Y	TR	COMP
+10:33	18	2022-02-03	6100	D	\N	226700.00	Keperluan pribadi anak putera	JU		Y		COMP
+10:33	18	2022-02-03	1112	K	\N	226700.00	Keperluan pribadi anak putera	JU		Y	TR	COMP
+10:33	18	2022-02-03	1110	K	\N	226700.00	Keperluan pribadi anak putera	JU		Y		COMP
+10:33	19	2022-02-03	6151	D	\N	10000.00	Sapu rotan untuk karpet di kantor	JU		Y	TR	COMP
+10:33	19	2022-02-03	6100	D	\N	10000.00	Sapu rotan untuk karpet di kantor	JU		Y		COMP
+10:33	19	2022-02-03	1112	K	\N	10000.00	Sapu rotan untuk karpet di kantor	JU		Y	TR	COMP
+10:33	19	2022-02-03	1110	K	\N	10000.00	Sapu rotan untuk karpet di kantor	JU		Y		COMP
+10:33	20	2022-02-03	6134	D	\N	205000.00	Transport anak puteri ke sekolah SMAN 10 & SMAMSA	JU		Y	TR	COMP
+10:33	20	2022-02-03	6100	D	\N	205000.00	Transport anak puteri ke sekolah SMAN 10 & SMAMSA	JU		Y		COMP
+10:33	20	2022-02-03	1112	K	\N	205000.00	Transport anak puteri ke sekolah SMAN 10 & SMAMSA	JU		Y	TR	COMP
+10:33	20	2022-02-03	1110	K	\N	205000.00	Transport anak puteri ke sekolah SMAN 10 & SMAMSA	JU		Y		COMP
+10:33	12	2022-02-04	6126	D	\N	12000.00	Air isi ulang galon	JU		Y	TR	COMP
+10:33	12	2022-02-04	6100	D	\N	12000.00	Air isi ulang galon	JU		Y		COMP
+10:33	12	2022-02-04	1112	K	\N	12000.00	Air isi ulang galon	JU		Y	TR	COMP
+10:33	12	2022-02-04	1110	K	\N	12000.00	Air isi ulang galon	JU		Y		COMP
+10:33	13	2022-02-04	6134	D	\N	16000.00	Transport Meli ke sekolah SMPN 63	JU		Y	TR	COMP
+10:33	13	2022-02-04	6100	D	\N	16000.00	Transport Meli ke sekolah SMPN 63	JU		Y		COMP
+10:33	13	2022-02-04	1112	K	\N	16000.00	Transport Meli ke sekolah SMPN 63	JU		Y	TR	COMP
+10:33	13	2022-02-04	1110	K	\N	16000.00	Transport Meli ke sekolah SMPN 63	JU		Y		COMP
+10:33	14	2022-02-04	6176	D	\N	2000000.00	Dana Operasional Dakwah PCM Bulan Januari & Febuar	JU		Y	TR	COMP
+10:33	14	2022-02-04	6100	D	\N	2000000.00	Dana Operasional Dakwah PCM Bulan Januari & Febuar	JU		Y		COMP
+10:33	14	2022-02-04	1112	K	\N	2000000.00	Dana Operasional Dakwah PCM Bulan Januari & Febuar	JU		Y	TR	COMP
+10:33	14	2022-02-04	1110	K	\N	2000000.00	Dana Operasional Dakwah PCM Bulan Januari & Febuar	JU		Y		COMP
+10:33	15	2022-02-04	6101	D	\N	1250000.00	Imbalan Jasa Pa Dodih bulan Januari 2022	JU		Y	TR	COMP
+10:33	15	2022-02-04	6100	D	\N	1250000.00	Imbalan Jasa Pa Dodih bulan Januari 2022	JU		Y		COMP
+10:33	15	2022-02-04	1112	K	\N	1250000.00	Imbalan Jasa Pa Dodih bulan Januari 2022	JU		Y	TR	COMP
+10:33	15	2022-02-04	1110	K	\N	1250000.00	Imbalan Jasa Pa Dodih bulan Januari 2022	JU		Y		COMP
+10:33	16	2022-02-04	6101	D	\N	1000000.00	Imbalan Jasa Pa Hendra bulan Januari 2022	JU		Y	TR	COMP
+10:33	16	2022-02-04	6100	D	\N	1000000.00	Imbalan Jasa Pa Hendra bulan Januari 2022	JU		Y		COMP
+10:33	16	2022-02-04	1112	K	\N	1000000.00	Imbalan Jasa Pa Hendra bulan Januari 2022	JU		Y	TR	COMP
+10:33	16	2022-02-04	1110	K	\N	1000000.00	Imbalan Jasa Pa Hendra bulan Januari 2022	JU		Y		COMP
+10:33	17	2022-02-04	6101	D	\N	1000000.00	Imbalan Jasa Mery bulan Januari 2022	JU		Y	TR	COMP
+10:33	17	2022-02-04	6100	D	\N	1000000.00	Imbalan Jasa Mery bulan Januari 2022	JU		Y		COMP
+10:33	17	2022-02-04	1112	K	\N	1000000.00	Imbalan Jasa Mery bulan Januari 2022	JU		Y	TR	COMP
+10:33	17	2022-02-04	1110	K	\N	1000000.00	Imbalan Jasa Mery bulan Januari 2022	JU		Y		COMP
+10:33	18	2022-02-04	6134	D	\N	600000.00	uang kecantikan / keperluan pribadi puteri @ 12 an	JU		Y	TR	COMP
+10:33	18	2022-02-04	6100	D	\N	600000.00	uang kecantikan / keperluan pribadi puteri @ 12 an	JU		Y		COMP
+10:33	18	2022-02-04	1112	K	\N	600000.00	uang kecantikan / keperluan pribadi puteri @ 12 an	JU		Y	TR	COMP
+10:33	18	2022-02-04	1110	K	\N	600000.00	uang kecantikan / keperluan pribadi puteri @ 12 an	JU		Y		COMP
+10:33	19	2022-02-04	6125	D	\N	77000.00	Konsumsi rapat pengurus ( mie ayam )	JU		Y	TR	COMP
+10:33	19	2022-02-04	6100	D	\N	77000.00	Konsumsi rapat pengurus ( mie ayam )	JU		Y		COMP
+10:33	19	2022-02-04	1112	K	\N	77000.00	Konsumsi rapat pengurus ( mie ayam )	JU		Y	TR	COMP
+10:33	19	2022-02-04	1110	K	\N	77000.00	Konsumsi rapat pengurus ( mie ayam )	JU		Y		COMP
+10:33	20	2022-02-04	6152	D	\N	100000.00	Transport Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	20	2022-02-04	6100	D	\N	100000.00	Transport Tutor Tapak Suci	JU		Y		COMP
+10:33	20	2022-02-04	1112	K	\N	100000.00	Transport Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	20	2022-02-04	1110	K	\N	100000.00	Transport Tutor Tapak Suci	JU		Y		COMP
+10:33	4	2022-02-05	6134	D	\N	13000.00	Fariz Ahmadi / pangkas rambut	JU		Y	TR	COMP
+10:33	4	2022-02-05	6100	D	\N	13000.00	Fariz Ahmadi / pangkas rambut	JU		Y		COMP
+10:33	4	2022-02-05	1112	K	\N	13000.00	Fariz Ahmadi / pangkas rambut	JU		Y	TR	COMP
+10:33	4	2022-02-05	1110	K	\N	13000.00	Fariz Ahmadi / pangkas rambut	JU		Y		COMP
+10:33	2	2022-02-06	6134	D	\N	16000.00	Susu Beruang, roti , kue roma sari gandum ( biaya	JU		Y	TR	COMP
+10:33	2	2022-02-06	6100	D	\N	16000.00	Susu Beruang, roti , kue roma sari gandum ( biaya	JU		Y		COMP
+10:33	2	2022-02-06	1112	K	\N	16000.00	Susu Beruang, roti , kue roma sari gandum ( biaya	JU		Y	TR	COMP
+10:33	2	2022-02-06	1110	K	\N	16000.00	Susu Beruang, roti , kue roma sari gandum ( biaya	JU		Y		COMP
+10:33	4	2022-02-07	6134	D	\N	200000.00	SPP Fardan bulan Febuari 2022	JU		Y	TR	COMP
+10:33	4	2022-02-07	6100	D	\N	200000.00	SPP Fardan bulan Febuari 2022	JU		Y		COMP
+10:33	4	2022-02-07	1112	K	\N	200000.00	SPP Fardan bulan Febuari 2022	JU		Y	TR	COMP
+10:33	4	2022-02-07	1110	K	\N	200000.00	SPP Fardan bulan Febuari 2022	JU		Y		COMP
+10:33	5	2022-02-07	6134	D	\N	225000.00	SPP Agung bulan Febuari 2022	JU		Y	TR	COMP
+10:33	5	2022-02-07	6100	D	\N	225000.00	SPP Agung bulan Febuari 2022	JU		Y		COMP
+10:33	5	2022-02-07	1112	K	\N	225000.00	SPP Agung bulan Febuari 2022	JU		Y	TR	COMP
+10:33	5	2022-02-07	1110	K	\N	225000.00	SPP Agung bulan Febuari 2022	JU		Y		COMP
+10:33	6	2022-02-07	6134	D	\N	62000.00	Cat , koas , palet , mica ( keperluan praktek Alif	JU		Y	TR	COMP
+10:33	6	2022-02-07	6100	D	\N	62000.00	Cat , koas , palet , mica ( keperluan praktek Alif	JU		Y		COMP
+10:33	6	2022-02-07	1112	K	\N	62000.00	Cat , koas , palet , mica ( keperluan praktek Alif	JU		Y	TR	COMP
+10:33	6	2022-02-07	1110	K	\N	62000.00	Cat , koas , palet , mica ( keperluan praktek Alif	JU		Y		COMP
+10:33	7	2022-02-07	6149	D	\N	10000.00	Spidol P	JU		Y	TR	COMP
+10:33	7	2022-02-07	6100	D	\N	10000.00	Spidol P	JU		Y		COMP
+10:33	7	2022-02-07	1112	K	\N	10000.00	Spidol P	JU		Y	TR	COMP
+10:33	7	2022-02-07	1110	K	\N	10000.00	Spidol P	JU		Y		COMP
+10:33	8	2022-02-07	6134	D	\N	43000.00	lem tembak dan provinal ( tugas Arasya )	JU		Y	TR	COMP
+10:33	8	2022-02-07	6100	D	\N	43000.00	lem tembak dan provinal ( tugas Arasya )	JU		Y		COMP
+10:33	8	2022-02-07	1112	K	\N	43000.00	lem tembak dan provinal ( tugas Arasya )	JU		Y	TR	COMP
+10:33	8	2022-02-07	1110	K	\N	43000.00	lem tembak dan provinal ( tugas Arasya )	JU		Y		COMP
+10:33	9	2022-02-07	6101	D	\N	1000000.00	Imbalan Jasa Kang Ade bulan Januari 2022	JU		Y	TR	COMP
+10:33	9	2022-02-07	6100	D	\N	1000000.00	Imbalan Jasa Kang Ade bulan Januari 2022	JU		Y		COMP
+10:33	9	2022-02-07	1112	K	\N	1000000.00	Imbalan Jasa Kang Ade bulan Januari 2022	JU		Y	TR	COMP
+10:33	9	2022-02-07	1110	K	\N	1000000.00	Imbalan Jasa Kang Ade bulan Januari 2022	JU		Y		COMP
+10:33	4	2022-02-08	6115	D	\N	500000.00	Takziah Aki Emo	JU		Y	TR	COMP
+10:33	4	2022-02-08	6100	D	\N	500000.00	Takziah Aki Emo	JU		Y		COMP
+10:33	4	2022-02-08	1112	K	\N	500000.00	Takziah Aki Emo	JU		Y	TR	COMP
+10:33	4	2022-02-08	1110	K	\N	500000.00	Takziah Aki Emo	JU		Y		COMP
+10:33	5	2022-02-08	6134	D	\N	15000.00	Susu Beruang, Buryam ( biaya kesehatan Fina )	JU		Y	TR	COMP
+10:33	5	2022-02-08	6100	D	\N	15000.00	Susu Beruang, Buryam ( biaya kesehatan Fina )	JU		Y		COMP
+10:33	5	2022-02-08	1112	K	\N	15000.00	Susu Beruang, Buryam ( biaya kesehatan Fina )	JU		Y	TR	COMP
+10:33	5	2022-02-08	1110	K	\N	15000.00	Susu Beruang, Buryam ( biaya kesehatan Fina )	JU		Y		COMP
+10:33	6	2022-02-08	6134	D	\N	7000.00	Bahan praktek tugas sekolah Fardan ( sabun , lem g	JU		Y	TR	COMP
+10:33	6	2022-02-08	6100	D	\N	7000.00	Bahan praktek tugas sekolah Fardan ( sabun , lem g	JU		Y		COMP
+10:33	6	2022-02-08	1112	K	\N	7000.00	Bahan praktek tugas sekolah Fardan ( sabun , lem g	JU		Y	TR	COMP
+10:33	6	2022-02-08	1110	K	\N	7000.00	Bahan praktek tugas sekolah Fardan ( sabun , lem g	JU		Y		COMP
+10:33	5	2022-02-09	6129	D	\N	40000.00	Uang Quota Bu Ida Bulan januari dan Febuari	JU		Y	TR	COMP
+10:33	5	2022-02-09	6100	D	\N	40000.00	Uang Quota Bu Ida Bulan januari dan Febuari	JU		Y		COMP
+10:33	5	2022-02-09	1112	K	\N	40000.00	Uang Quota Bu Ida Bulan januari dan Febuari	JU		Y	TR	COMP
+10:33	5	2022-02-09	1110	K	\N	40000.00	Uang Quota Bu Ida Bulan januari dan Febuari	JU		Y		COMP
+10:33	6	2022-02-09	6134	D	\N	19000.00	Kanvas ( tugas praktek cicah )	JU		Y	TR	COMP
+10:33	6	2022-02-09	6100	D	\N	19000.00	Kanvas ( tugas praktek cicah )	JU		Y		COMP
+10:33	6	2022-02-09	1112	K	\N	19000.00	Kanvas ( tugas praktek cicah )	JU		Y	TR	COMP
+10:33	6	2022-02-09	1110	K	\N	19000.00	Kanvas ( tugas praktek cicah )	JU		Y		COMP
+10:33	7	2022-02-09	6134	D	\N	11200.00	Listerin ( obat kumur ) untuk Fina	JU		Y	TR	COMP
+10:33	7	2022-02-09	6100	D	\N	11200.00	Listerin ( obat kumur ) untuk Fina	JU		Y		COMP
+10:33	7	2022-02-09	1112	K	\N	11200.00	Listerin ( obat kumur ) untuk Fina	JU		Y	TR	COMP
+10:33	7	2022-02-09	1110	K	\N	11200.00	Listerin ( obat kumur ) untuk Fina	JU		Y		COMP
+10:33	8	2022-02-09	6134	D	\N	97143.00	P3K ( Hansaplast, koyo, obat2an, dll )	JU		Y	TR	COMP
+10:33	8	2022-02-09	6100	D	\N	97143.00	P3K ( Hansaplast, koyo, obat2an, dll )	JU		Y		COMP
+10:33	8	2022-02-09	1112	K	\N	97143.00	P3K ( Hansaplast, koyo, obat2an, dll )	JU		Y	TR	COMP
+10:33	8	2022-02-09	1110	K	\N	97143.00	P3K ( Hansaplast, koyo, obat2an, dll )	JU		Y		COMP
+10:33	9	2022-02-09	6151	D	\N	165546.00	Tisue , pembersih kaca, wipol, kamper dll ) dan pa	JU		Y	TR	COMP
+10:33	9	2022-02-09	6100	D	\N	165546.00	Tisue , pembersih kaca, wipol, kamper dll ) dan pa	JU		Y		COMP
+10:33	9	2022-02-09	1112	K	\N	165546.00	Tisue , pembersih kaca, wipol, kamper dll ) dan pa	JU		Y	TR	COMP
+10:33	9	2022-02-09	1110	K	\N	165546.00	Tisue , pembersih kaca, wipol, kamper dll ) dan pa	JU		Y		COMP
+10:33	10	2022-02-09	6127	D	\N	124068.00	Listrik Panti Fajar Harapan	JU		Y	TR	COMP
+10:33	10	2022-02-09	6100	D	\N	124068.00	Listrik Panti Fajar Harapan	JU		Y		COMP
+10:33	10	2022-02-09	1112	K	\N	124068.00	Listrik Panti Fajar Harapan	JU		Y	TR	COMP
+10:33	10	2022-02-09	1110	K	\N	124068.00	Listrik Panti Fajar Harapan	JU		Y		COMP
+10:33	11	2022-02-09	6127	D	\N	29760.00	Listrik Perumnas	JU		Y	TR	COMP
+10:33	11	2022-02-09	6100	D	\N	29760.00	Listrik Perumnas	JU		Y		COMP
+10:33	11	2022-02-09	1112	K	\N	29760.00	Listrik Perumnas	JU		Y	TR	COMP
+10:33	11	2022-02-09	1110	K	\N	29760.00	Listrik Perumnas	JU		Y		COMP
+10:33	12	2022-02-09	6128	D	\N	176200.00	PDAM Ade Rochman	JU		Y	TR	COMP
+10:33	12	2022-02-09	6100	D	\N	176200.00	PDAM Ade Rochman	JU		Y		COMP
+10:33	12	2022-02-09	1112	K	\N	176200.00	PDAM Ade Rochman	JU		Y	TR	COMP
+10:33	12	2022-02-09	1110	K	\N	176200.00	PDAM Ade Rochman	JU		Y		COMP
+10:33	13	2022-02-09	6129	D	\N	487635.00	TELKOM dan Wifi	JU		Y	TR	COMP
+10:33	13	2022-02-09	6100	D	\N	487635.00	TELKOM dan Wifi	JU		Y		COMP
+10:33	13	2022-02-09	1112	K	\N	487635.00	TELKOM dan Wifi	JU		Y	TR	COMP
+10:33	13	2022-02-09	1110	K	\N	487635.00	TELKOM dan Wifi	JU		Y		COMP
+10:33	14	2022-02-09	6130	D	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y	TR	COMP
+10:33	14	2022-02-09	6100	D	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y		COMP
+10:33	14	2022-02-09	1112	K	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y	TR	COMP
+10:33	14	2022-02-09	1110	K	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y		COMP
+10:33	15	2022-02-09	6127	D	\N	236599.00	Listrik Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	15	2022-02-09	6100	D	\N	236599.00	Listrik Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	15	2022-02-09	1112	K	\N	236599.00	Listrik Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	15	2022-02-09	1110	K	\N	236599.00	Listrik Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	16	2022-02-09	6128	D	\N	77700.00	PDAM Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	16	2022-02-09	6100	D	\N	77700.00	PDAM Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	16	2022-02-09	1112	K	\N	77700.00	PDAM Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	16	2022-02-09	1110	K	\N	77700.00	PDAM Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	2	2022-02-10	6134	D	\N	28000.00	Transport Meli ke sekolah SMPN 63 dari tanggal 7 F	JU		Y	TR	COMP
+10:33	2	2022-02-10	6100	D	\N	28000.00	Transport Meli ke sekolah SMPN 63 dari tanggal 7 F	JU		Y		COMP
+10:33	2	2022-02-10	1112	K	\N	28000.00	Transport Meli ke sekolah SMPN 63 dari tanggal 7 F	JU		Y	TR	COMP
+10:33	2	2022-02-10	1110	K	\N	28000.00	Transport Meli ke sekolah SMPN 63 dari tanggal 7 F	JU		Y		COMP
+10:33	3	2022-02-10	1601	D	\N	500000.00	Cashbon Pa Ujang	JU		Y	TR	COMP
+10:33	3	2022-02-10	1600	D	\N	500000.00	Cashbon Pa Ujang	JU		Y		COMP
+10:33	3	2022-02-10	1112	K	\N	500000.00	Cashbon Pa Ujang	JU		Y	TR	COMP
+10:33	3	2022-02-10	1110	K	\N	500000.00	Cashbon Pa Ujang	JU		Y		COMP
+10:33	11	2022-02-11	6152	D	\N	100000.00	Transport Tapak Suci	JU		Y	TR	COMP
+10:33	11	2022-02-11	6100	D	\N	100000.00	Transport Tapak Suci	JU		Y		COMP
+10:33	11	2022-02-11	1112	K	\N	100000.00	Transport Tapak Suci	JU		Y	TR	COMP
+10:33	11	2022-02-11	1110	K	\N	100000.00	Transport Tapak Suci	JU		Y		COMP
+10:33	12	2022-02-11	6151	D	\N	50000.00	Batre	JU		Y	TR	COMP
+10:33	12	2022-02-11	6100	D	\N	50000.00	Batre	JU		Y		COMP
+10:33	12	2022-02-11	1112	K	\N	50000.00	Batre	JU		Y	TR	COMP
+10:33	12	2022-02-11	1110	K	\N	50000.00	Batre	JU		Y		COMP
+10:33	13	2022-02-11	6115	D	\N	1250000.00	Santunan anak asuh luar panti wilayah awiligar	JU		Y	TR	COMP
+10:33	13	2022-02-11	6100	D	\N	1250000.00	Santunan anak asuh luar panti wilayah awiligar	JU		Y		COMP
+10:33	13	2022-02-11	1112	K	\N	1250000.00	Santunan anak asuh luar panti wilayah awiligar	JU		Y	TR	COMP
+10:33	13	2022-02-11	1110	K	\N	1250000.00	Santunan anak asuh luar panti wilayah awiligar	JU		Y		COMP
+10:33	14	2022-02-11	6116	D	\N	150000.00	imbalan jasa pembina anak asuh luar panti di awili	JU		Y	TR	COMP
+10:33	14	2022-02-11	6100	D	\N	150000.00	imbalan jasa pembina anak asuh luar panti di awili	JU		Y		COMP
+10:33	14	2022-02-11	1112	K	\N	150000.00	imbalan jasa pembina anak asuh luar panti di awili	JU		Y	TR	COMP
+10:33	14	2022-02-11	1110	K	\N	150000.00	imbalan jasa pembina anak asuh luar panti di awili	JU		Y		COMP
+10:33	4	2022-02-12	6140	D	\N	605000.00	Service sepeda ( 3 sepeda )	JU		Y	TR	COMP
+10:33	4	2022-02-12	6100	D	\N	605000.00	Service sepeda ( 3 sepeda )	JU		Y		COMP
+10:33	4	2022-02-12	1112	K	\N	605000.00	Service sepeda ( 3 sepeda )	JU		Y	TR	COMP
+10:33	4	2022-02-12	1110	K	\N	605000.00	Service sepeda ( 3 sepeda )	JU		Y		COMP
+10:33	1	2022-02-14	6126	D	\N	6000.00	Isi Ulang air Galon 1 galon	JU		Y	TR	COMP
+10:33	1	2022-02-14	6100	D	\N	6000.00	Isi Ulang air Galon 1 galon	JU		Y		COMP
+10:33	1	2022-02-14	1112	K	\N	6000.00	Isi Ulang air Galon 1 galon	JU		Y	TR	COMP
+10:33	1	2022-02-14	1110	K	\N	6000.00	Isi Ulang air Galon 1 galon	JU		Y		COMP
+10:33	2	2022-02-14	6134	D	\N	84000.00	Transport anak putera ke sekolah dari tanggal 4 Fe	JU		Y	TR	COMP
+10:33	2	2022-02-14	6100	D	\N	84000.00	Transport anak putera ke sekolah dari tanggal 4 Fe	JU		Y		COMP
+10:33	2	2022-02-14	1112	K	\N	84000.00	Transport anak putera ke sekolah dari tanggal 4 Fe	JU		Y	TR	COMP
+10:33	2	2022-02-14	1110	K	\N	84000.00	Transport anak putera ke sekolah dari tanggal 4 Fe	JU		Y		COMP
+10:33	3	2022-02-14	6177	D	\N	310000.00	Sponshorship anak bulan Febuari 2022	JU		Y	TR	COMP
+10:33	3	2022-02-14	6100	D	\N	310000.00	Sponshorship anak bulan Febuari 2022	JU		Y		COMP
+10:33	3	2022-02-14	1112	K	\N	310000.00	Sponshorship anak bulan Febuari 2022	JU		Y	TR	COMP
+10:33	3	2022-02-14	1110	K	\N	310000.00	Sponshorship anak bulan Febuari 2022	JU		Y		COMP
+10:33	1	2022-02-15	6151	D	\N	9000.00	Double tape	JU		Y	TR	COMP
+10:33	1	2022-02-15	6100	D	\N	9000.00	Double tape	JU		Y		COMP
+10:33	1	2022-02-15	1112	K	\N	9000.00	Double tape	JU		Y	TR	COMP
+10:33	1	2022-02-15	1110	K	\N	9000.00	Double tape	JU		Y		COMP
+10:33	2	2022-02-15	6115	D	\N	500000.00	Infaq Masjid Al Barokah	JU		Y	TR	COMP
+10:33	2	2022-02-15	6100	D	\N	500000.00	Infaq Masjid Al Barokah	JU		Y		COMP
+10:33	2	2022-02-15	1112	K	\N	500000.00	Infaq Masjid Al Barokah	JU		Y	TR	COMP
+10:33	2	2022-02-15	1110	K	\N	500000.00	Infaq Masjid Al Barokah	JU		Y		COMP
+10:33	3	2022-02-15	6134	D	\N	2700000.00	SPP SMAMSA 6 anak @ 225.000 dari bulan Januari 202	JU		Y	TR	COMP
+10:33	3	2022-02-15	6100	D	\N	2700000.00	SPP SMAMSA 6 anak @ 225.000 dari bulan Januari 202	JU		Y		COMP
+10:33	3	2022-02-15	1112	K	\N	2700000.00	SPP SMAMSA 6 anak @ 225.000 dari bulan Januari 202	JU		Y	TR	COMP
+10:33	3	2022-02-15	1110	K	\N	2700000.00	SPP SMAMSA 6 anak @ 225.000 dari bulan Januari 202	JU		Y		COMP
+10:33	4	2022-02-15	6134	D	\N	900000.00	SPP SMAN 10 / 3 anak @ 50.000 dari bulan Januari 2	JU		Y	TR	COMP
+10:33	4	2022-02-15	6100	D	\N	900000.00	SPP SMAN 10 / 3 anak @ 50.000 dari bulan Januari 2	JU		Y		COMP
+10:33	4	2022-02-15	1112	K	\N	900000.00	SPP SMAN 10 / 3 anak @ 50.000 dari bulan Januari 2	JU		Y	TR	COMP
+10:33	4	2022-02-15	1110	K	\N	900000.00	SPP SMAN 10 / 3 anak @ 50.000 dari bulan Januari 2	JU		Y		COMP
+10:33	5	2022-02-15	6152	D	\N	50000.00	Transport Bu Ida ke sekolah	JU		Y	TR	COMP
+10:33	5	2022-02-15	6100	D	\N	50000.00	Transport Bu Ida ke sekolah	JU		Y		COMP
+10:33	5	2022-02-15	1112	K	\N	50000.00	Transport Bu Ida ke sekolah	JU		Y	TR	COMP
+10:33	5	2022-02-15	1110	K	\N	50000.00	Transport Bu Ida ke sekolah	JU		Y		COMP
+10:33	6	2022-02-15	6134	D	\N	113100.00	Obat mixagrip ,marie regal, susu beruang dan hansa	JU		Y	TR	COMP
+10:33	6	2022-02-15	6100	D	\N	113100.00	Obat mixagrip ,marie regal, susu beruang dan hansa	JU		Y		COMP
+10:33	6	2022-02-15	1112	K	\N	113100.00	Obat mixagrip ,marie regal, susu beruang dan hansa	JU		Y	TR	COMP
+10:33	6	2022-02-15	1110	K	\N	113100.00	Obat mixagrip ,marie regal, susu beruang dan hansa	JU		Y		COMP
+10:33	1	2022-02-17	6136	D	\N	15500.00	Ongkos kirim paket LPJ ke PT Masaji Tatanan Kontai	JU		Y	TR	COMP
+10:33	1	2022-02-17	6100	D	\N	15500.00	Ongkos kirim paket LPJ ke PT Masaji Tatanan Kontai	JU		Y		COMP
+10:33	1	2022-02-17	1112	K	\N	15500.00	Ongkos kirim paket LPJ ke PT Masaji Tatanan Kontai	JU		Y	TR	COMP
+10:33	1	2022-02-17	1110	K	\N	15500.00	Ongkos kirim paket LPJ ke PT Masaji Tatanan Kontai	JU		Y		COMP
+10:33	2	2022-02-17	6134	D	\N	55200.00	P3K ( Konidin , Mixagrip , Hot & Cream, obat2an, d	JU		Y	TR	COMP
+10:33	2	2022-02-17	6100	D	\N	55200.00	P3K ( Konidin , Mixagrip , Hot & Cream, obat2an, d	JU		Y		COMP
+10:33	2	2022-02-17	1112	K	\N	55200.00	P3K ( Konidin , Mixagrip , Hot & Cream, obat2an, d	JU		Y	TR	COMP
+10:33	2	2022-02-17	1110	K	\N	55200.00	P3K ( Konidin , Mixagrip , Hot & Cream, obat2an, d	JU		Y		COMP
+10:33	6	2022-02-18	6134	D	\N	10000.00	Larutan cap kaki 3 untuk 5 anak	JU		Y	TR	COMP
+10:33	6	2022-02-18	6100	D	\N	10000.00	Larutan cap kaki 3 untuk 5 anak	JU		Y		COMP
+10:33	6	2022-02-18	1112	K	\N	10000.00	Larutan cap kaki 3 untuk 5 anak	JU		Y	TR	COMP
+10:33	6	2022-02-18	1110	K	\N	10000.00	Larutan cap kaki 3 untuk 5 anak	JU		Y		COMP
+10:33	7	2022-02-18	6134	D	\N	82000.00	Infaq pengobatan tukang urut untuk Meli dan perban	JU		Y	TR	COMP
+10:33	7	2022-02-18	6100	D	\N	82000.00	Infaq pengobatan tukang urut untuk Meli dan perban	JU		Y		COMP
+10:33	7	2022-02-18	1112	K	\N	82000.00	Infaq pengobatan tukang urut untuk Meli dan perban	JU		Y	TR	COMP
+10:33	7	2022-02-18	1110	K	\N	82000.00	Infaq pengobatan tukang urut untuk Meli dan perban	JU		Y		COMP
+10:33	8	2022-02-18	6134	D	\N	18000.00	Transport Meli ke sekolah SMPN 63 dari tanggal 14	JU		Y	TR	COMP
+10:33	8	2022-02-18	6100	D	\N	18000.00	Transport Meli ke sekolah SMPN 63 dari tanggal 14	JU		Y		COMP
+10:33	8	2022-02-18	1112	K	\N	18000.00	Transport Meli ke sekolah SMPN 63 dari tanggal 14	JU		Y	TR	COMP
+10:33	8	2022-02-18	1110	K	\N	18000.00	Transport Meli ke sekolah SMPN 63 dari tanggal 14	JU		Y		COMP
+10:33	9	2022-02-18	6152	D	\N	100000.00	Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	9	2022-02-18	6100	D	\N	100000.00	Tutor Tapak Suci	JU		Y		COMP
+10:33	9	2022-02-18	1112	K	\N	100000.00	Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	9	2022-02-18	1110	K	\N	100000.00	Tutor Tapak Suci	JU		Y		COMP
+10:33	1	2022-02-19	6134	D	\N	66500.00	P3K ( Counterpain 15, Medicrepe ( perban kain )	JU		Y	TR	COMP
+10:33	1	2022-02-19	6100	D	\N	66500.00	P3K ( Counterpain 15, Medicrepe ( perban kain )	JU		Y		COMP
+10:33	1	2022-02-19	1112	K	\N	66500.00	P3K ( Counterpain 15, Medicrepe ( perban kain )	JU		Y	TR	COMP
+10:33	1	2022-02-19	1110	K	\N	66500.00	P3K ( Counterpain 15, Medicrepe ( perban kain )	JU		Y		COMP
+10:33	2	2022-02-19	6134	D	\N	19000.00	Keperluan praktek  Alifa ( karton,pulpen, kertas k	JU		Y	TR	COMP
+10:33	2	2022-02-19	6100	D	\N	19000.00	Keperluan praktek  Alifa ( karton,pulpen, kertas k	JU		Y		COMP
+10:33	2	2022-02-19	1112	K	\N	19000.00	Keperluan praktek  Alifa ( karton,pulpen, kertas k	JU		Y	TR	COMP
+10:33	2	2022-02-19	1110	K	\N	19000.00	Keperluan praktek  Alifa ( karton,pulpen, kertas k	JU		Y		COMP
+10:33	3	2022-02-20	6134	D	\N	30000.00	Cukur Rambut Agung dan Aldi	JU		Y	TR	COMP
+10:33	3	2022-02-20	6100	D	\N	30000.00	Cukur Rambut Agung dan Aldi	JU		Y		COMP
+10:33	3	2022-02-20	1112	K	\N	30000.00	Cukur Rambut Agung dan Aldi	JU		Y	TR	COMP
+10:33	3	2022-02-20	1110	K	\N	30000.00	Cukur Rambut Agung dan Aldi	JU		Y		COMP
+10:33	1	2022-02-21	6134	D	\N	7000.00	Transport Arasya ( pulang sekolah )	JU		Y	TR	COMP
+10:33	1	2022-02-21	6100	D	\N	7000.00	Transport Arasya ( pulang sekolah )	JU		Y		COMP
+10:33	1	2022-02-21	1112	K	\N	7000.00	Transport Arasya ( pulang sekolah )	JU		Y	TR	COMP
+10:33	1	2022-02-21	1110	K	\N	7000.00	Transport Arasya ( pulang sekolah )	JU		Y		COMP
+10:33	2	2022-02-21	6134	D	\N	130000.00	Transport anak puteri SMAN 10 ( Fina dan Nurul ) s	JU		Y	TR	COMP
+10:33	2	2022-02-21	6100	D	\N	130000.00	Transport anak puteri SMAN 10 ( Fina dan Nurul ) s	JU		Y		COMP
+10:33	2	2022-02-21	1112	K	\N	130000.00	Transport anak puteri SMAN 10 ( Fina dan Nurul ) s	JU		Y	TR	COMP
+10:33	2	2022-02-21	1110	K	\N	130000.00	Transport anak puteri SMAN 10 ( Fina dan Nurul ) s	JU		Y		COMP
+10:33	3	2022-02-21	6134	D	\N	10000.00	Kertas Folio ( tugas anak )	JU		Y	TR	COMP
+10:33	3	2022-02-21	6100	D	\N	10000.00	Kertas Folio ( tugas anak )	JU		Y		COMP
+10:33	3	2022-02-21	1112	K	\N	10000.00	Kertas Folio ( tugas anak )	JU		Y	TR	COMP
+10:33	3	2022-02-21	1110	K	\N	10000.00	Kertas Folio ( tugas anak )	JU		Y		COMP
+10:33	5	2022-02-22	6134	D	\N	15000.00	Kok @ 3 bh	JU		Y	TR	COMP
+10:33	5	2022-02-22	6100	D	\N	15000.00	Kok @ 3 bh	JU		Y		COMP
+10:33	5	2022-02-22	1112	K	\N	15000.00	Kok @ 3 bh	JU		Y	TR	COMP
+10:33	5	2022-02-22	1110	K	\N	15000.00	Kok @ 3 bh	JU		Y		COMP
+10:33	6	2022-02-22	6149	D	\N	270000.00	Majalah Suara Muhammadiyah 10 exmp	JU		Y	TR	COMP
+10:33	6	2022-02-22	6100	D	\N	270000.00	Majalah Suara Muhammadiyah 10 exmp	JU		Y		COMP
+10:33	6	2022-02-22	1112	K	\N	270000.00	Majalah Suara Muhammadiyah 10 exmp	JU		Y	TR	COMP
+10:33	6	2022-02-22	1110	K	\N	270000.00	Majalah Suara Muhammadiyah 10 exmp	JU		Y		COMP
+10:33	7	2022-02-22	6134	D	\N	60000.00	Transport Alifa ke sekolah dari tanggal 31 Januari	JU		Y	TR	COMP
+10:33	7	2022-02-22	6100	D	\N	60000.00	Transport Alifa ke sekolah dari tanggal 31 Januari	JU		Y		COMP
+10:33	7	2022-02-22	1112	K	\N	60000.00	Transport Alifa ke sekolah dari tanggal 31 Januari	JU		Y	TR	COMP
+10:33	7	2022-02-22	1110	K	\N	60000.00	Transport Alifa ke sekolah dari tanggal 31 Januari	JU		Y		COMP
+10:33	8	2022-02-22	6134	D	\N	1000000.00	Transport anak SMAMSa dari tanggal 24 januari samp	JU		Y	TR	COMP
+10:33	8	2022-02-22	6100	D	\N	1000000.00	Transport anak SMAMSa dari tanggal 24 januari samp	JU		Y		COMP
+10:33	8	2022-02-22	1112	K	\N	1000000.00	Transport anak SMAMSa dari tanggal 24 januari samp	JU		Y	TR	COMP
+10:33	8	2022-02-22	1110	K	\N	1000000.00	Transport anak SMAMSa dari tanggal 24 januari samp	JU		Y		COMP
+10:33	3	2022-02-23	6134	D	\N	95000.00	Bahan Praktek sabun ( Nurul )	JU		Y	TR	COMP
+10:33	3	2022-02-23	6100	D	\N	95000.00	Bahan Praktek sabun ( Nurul )	JU		Y		COMP
+10:33	3	2022-02-23	1112	K	\N	95000.00	Bahan Praktek sabun ( Nurul )	JU		Y	TR	COMP
+10:33	3	2022-02-23	1110	K	\N	95000.00	Bahan Praktek sabun ( Nurul )	JU		Y		COMP
+10:33	2	2022-02-24	6152	D	\N	23000.00	Transport Undangan donatur ke Hotel @ 3 anak	JU		Y	TR	COMP
+10:33	2	2022-02-24	6100	D	\N	23000.00	Transport Undangan donatur ke Hotel @ 3 anak	JU		Y		COMP
+10:33	2	2022-02-24	1112	K	\N	23000.00	Transport Undangan donatur ke Hotel @ 3 anak	JU		Y	TR	COMP
+10:33	2	2022-02-24	1110	K	\N	23000.00	Transport Undangan donatur ke Hotel @ 3 anak	JU		Y		COMP
+10:33	3	2022-02-24	6134	D	\N	27000.00	Lampu , Gunting	JU		Y	TR	COMP
+10:33	3	2022-02-24	6100	D	\N	27000.00	Lampu , Gunting	JU		Y		COMP
+10:33	3	2022-02-24	1112	K	\N	27000.00	Lampu , Gunting	JU		Y	TR	COMP
+10:33	3	2022-02-24	1110	K	\N	27000.00	Lampu , Gunting	JU		Y		COMP
+10:33	4	2022-02-24	6134	D	\N	19000.00	Bedak Herocyn	JU		Y	TR	COMP
+10:33	4	2022-02-24	6100	D	\N	19000.00	Bedak Herocyn	JU		Y		COMP
+10:33	4	2022-02-24	1112	K	\N	19000.00	Bedak Herocyn	JU		Y	TR	COMP
+10:33	4	2022-02-24	1110	K	\N	19000.00	Bedak Herocyn	JU		Y		COMP
+10:33	7	2022-02-25	6134	D	\N	49000.00	Kok @ 1 Roll ( untuk anak2 Fh )	JU		Y	TR	COMP
+10:33	7	2022-02-25	6100	D	\N	49000.00	Kok @ 1 Roll ( untuk anak2 Fh )	JU		Y		COMP
+10:33	7	2022-02-25	1112	K	\N	49000.00	Kok @ 1 Roll ( untuk anak2 Fh )	JU		Y	TR	COMP
+10:33	7	2022-02-25	1110	K	\N	49000.00	Kok @ 1 Roll ( untuk anak2 Fh )	JU		Y		COMP
+10:33	8	2022-02-25	6152	D	\N	100000.00	Transport Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	8	2022-02-25	6100	D	\N	100000.00	Transport Tutor Tapak Suci	JU		Y		COMP
+10:33	8	2022-02-25	1112	K	\N	100000.00	Transport Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	8	2022-02-25	1110	K	\N	100000.00	Transport Tutor Tapak Suci	JU		Y		COMP
+10:33	9	2022-02-25	6134	D	\N	30000.00	Transport Ujian praktek SBK dari tanggal 22 feb sa	JU		Y	TR	COMP
+10:33	9	2022-02-25	6100	D	\N	30000.00	Transport Ujian praktek SBK dari tanggal 22 feb sa	JU		Y		COMP
+10:33	9	2022-02-25	1112	K	\N	30000.00	Transport Ujian praktek SBK dari tanggal 22 feb sa	JU		Y	TR	COMP
+10:33	9	2022-02-25	1110	K	\N	30000.00	Transport Ujian praktek SBK dari tanggal 22 feb sa	JU		Y		COMP
+10:33	10	2022-02-25	6134	D	\N	36000.00	Transport Meli ke sekolah dari tanggal 21 Feb samp	JU		Y	TR	COMP
+10:33	10	2022-02-25	6100	D	\N	36000.00	Transport Meli ke sekolah dari tanggal 21 Feb samp	JU		Y		COMP
+10:33	10	2022-02-25	1112	K	\N	36000.00	Transport Meli ke sekolah dari tanggal 21 Feb samp	JU		Y	TR	COMP
+10:33	10	2022-02-25	1110	K	\N	36000.00	Transport Meli ke sekolah dari tanggal 21 Feb samp	JU		Y		COMP
+10:33	11	2022-02-25	6134	D	\N	15000.00	Transport Juli ke SMAMSa kerja kelompok	JU		Y	TR	COMP
+10:33	11	2022-02-25	6100	D	\N	15000.00	Transport Juli ke SMAMSa kerja kelompok	JU		Y		COMP
+10:33	11	2022-02-25	1112	K	\N	15000.00	Transport Juli ke SMAMSa kerja kelompok	JU		Y	TR	COMP
+10:33	11	2022-02-25	1110	K	\N	15000.00	Transport Juli ke SMAMSa kerja kelompok	JU		Y		COMP
+10:33	12	2022-02-25	6134	D	\N	37000.00	Batre	JU		Y	TR	COMP
+10:33	12	2022-02-25	6100	D	\N	37000.00	Batre	JU		Y		COMP
+10:33	12	2022-02-25	1112	K	\N	37000.00	Batre	JU		Y	TR	COMP
+10:33	12	2022-02-25	1110	K	\N	37000.00	Batre	JU		Y		COMP
+10:33	4	2022-02-26	6134	D	\N	24000.00	Transport ke SMPM 3 latihan gabungan Tapak Suci	JU		Y	TR	COMP
+10:33	4	2022-02-26	6100	D	\N	24000.00	Transport ke SMPM 3 latihan gabungan Tapak Suci	JU		Y		COMP
+10:33	4	2022-02-26	1112	K	\N	24000.00	Transport ke SMPM 3 latihan gabungan Tapak Suci	JU		Y	TR	COMP
+10:33	4	2022-02-26	1110	K	\N	24000.00	Transport ke SMPM 3 latihan gabungan Tapak Suci	JU		Y		COMP
+10:33	5	2022-02-26	6134	D	\N	150000.00	Biaya kesehatan salsabila untuk ke Dokter	JU		Y	TR	COMP
+10:33	5	2022-02-26	6100	D	\N	150000.00	Biaya kesehatan salsabila untuk ke Dokter	JU		Y		COMP
+10:33	5	2022-02-26	1112	K	\N	150000.00	Biaya kesehatan salsabila untuk ke Dokter	JU		Y	TR	COMP
+10:33	5	2022-02-26	1110	K	\N	150000.00	Biaya kesehatan salsabila untuk ke Dokter	JU		Y		COMP
+10:33	6	2022-02-26	6134	D	\N	63500.00	Madu kaliandra dan sari Kurma ( untuk Salsabila )	JU		Y	TR	COMP
+10:33	6	2022-02-26	6100	D	\N	63500.00	Madu kaliandra dan sari Kurma ( untuk Salsabila )	JU		Y		COMP
+10:33	6	2022-02-26	1112	K	\N	63500.00	Madu kaliandra dan sari Kurma ( untuk Salsabila )	JU		Y	TR	COMP
+10:33	6	2022-02-26	1110	K	\N	63500.00	Madu kaliandra dan sari Kurma ( untuk Salsabila )	JU		Y		COMP
+10:33	2	2022-02-28	6134	D	\N	44000.00	Praktek Biologi Fina ( susu murni dan Chimory, sos	JU		Y	TR	COMP
+10:33	2	2022-02-28	6100	D	\N	44000.00	Praktek Biologi Fina ( susu murni dan Chimory, sos	JU		Y		COMP
+10:33	2	2022-02-28	1112	K	\N	44000.00	Praktek Biologi Fina ( susu murni dan Chimory, sos	JU		Y	TR	COMP
+10:33	2	2022-02-28	1110	K	\N	44000.00	Praktek Biologi Fina ( susu murni dan Chimory, sos	JU		Y		COMP
+10:33	3	2022-02-28	6134	D	\N	46500.00	Praktek Biologi dan KWU ( Cicah )	JU		Y	TR	COMP
+10:33	3	2022-02-28	6100	D	\N	46500.00	Praktek Biologi dan KWU ( Cicah )	JU		Y		COMP
+10:33	3	2022-02-28	1112	K	\N	46500.00	Praktek Biologi dan KWU ( Cicah )	JU		Y	TR	COMP
+10:33	3	2022-02-28	1110	K	\N	46500.00	Praktek Biologi dan KWU ( Cicah )	JU		Y		COMP
+10:33	4	2022-02-28	6134	D	\N	8500.00	Praktek KWU ( Nurul )	JU		Y	TR	COMP
+10:33	4	2022-02-28	6100	D	\N	8500.00	Praktek KWU ( Nurul )	JU		Y		COMP
+10:33	4	2022-02-28	1112	K	\N	8500.00	Praktek KWU ( Nurul )	JU		Y	TR	COMP
+10:33	4	2022-02-28	1110	K	\N	8500.00	Praktek KWU ( Nurul )	JU		Y		COMP
+10:33	5	2022-02-28	1112	D	\N	46000000.00	Dikeluarkan dari brankas untuk operasional bulan F	JU		Y	TR	COMP
+10:33	5	2022-02-28	1110	D	\N	46000000.00	Dikeluarkan dari brankas untuk operasional bulan F	JU		Y		COMP
+10:33	5	2022-02-28	1111	K	\N	46000000.00	Dikeluarkan dari brankas untuk operasional bulan F	JU		Y	TR	COMP
+10:33	5	2022-02-28	1110	K	\N	46000000.00	Dikeluarkan dari brankas untuk operasional bulan F	JU		Y		COMP
+10:33	6	2022-02-28	6134	D	\N	45000.00	Biaya kesehstsn Fina ( diurut )	JU		Y	TR	COMP
+10:33	6	2022-02-28	6100	D	\N	45000.00	Biaya kesehstsn Fina ( diurut )	JU		Y		COMP
+10:33	6	2022-02-28	1112	K	\N	45000.00	Biaya kesehstsn Fina ( diurut )	JU		Y	TR	COMP
+10:33	6	2022-02-28	1110	K	\N	45000.00	Biaya kesehstsn Fina ( diurut )	JU		Y		COMP
+10:33	7	2022-02-28	6157	D	\N	47338000.00	Renov Panti Puteri	JU		Y	TR	COMP
+10:33	7	2022-02-28	6100	D	\N	47338000.00	Renov Panti Puteri	JU		Y		COMP
+10:33	7	2022-02-28	1112	K	\N	47338000.00	Renov Panti Puteri	JU		Y	TR	COMP
+10:33	7	2022-02-28	1110	K	\N	47338000.00	Renov Panti Puteri	JU		Y		COMP
+10:33	2	2022-03-01	1112	D	\N	20000000.00	Penarikan dari BANK BNI untuk operasional bulan Ma	JU		Y	TR	COMP
+10:33	2	2022-03-01	1110	D	\N	20000000.00	Penarikan dari BANK BNI untuk operasional bulan Ma	JU		Y		COMP
+10:33	2	2022-03-01	1122	K	\N	20000000.00	Penarikan dari BANK BNI untuk operasional bulan Ma	JU		Y	TR	COMP
+10:33	2	2022-03-01	1120	K	\N	20000000.00	Penarikan dari BANK BNI untuk operasional bulan Ma	JU		Y		COMP
+10:33	3	2022-03-01	6134	D	\N	600000.00	Uang Keperluan pribadi anak puteri 12 anak	JU		Y	TR	COMP
+10:33	3	2022-03-01	6100	D	\N	600000.00	Uang Keperluan pribadi anak puteri 12 anak	JU		Y		COMP
+10:33	3	2022-03-01	1112	K	\N	600000.00	Uang Keperluan pribadi anak puteri 12 anak	JU		Y	TR	COMP
+10:33	3	2022-03-01	1110	K	\N	600000.00	Uang Keperluan pribadi anak puteri 12 anak	JU		Y		COMP
+10:33	4	2022-03-01	6134	D	\N	20000.00	Transport ke Ebun ( ahli Tulang ) Zahra dan Nurul	JU		Y	TR	COMP
+10:33	4	2022-03-01	6100	D	\N	20000.00	Transport ke Ebun ( ahli Tulang ) Zahra dan Nurul	JU		Y		COMP
+10:33	4	2022-03-01	1112	K	\N	20000.00	Transport ke Ebun ( ahli Tulang ) Zahra dan Nurul	JU		Y	TR	COMP
+10:33	4	2022-03-01	1110	K	\N	20000.00	Transport ke Ebun ( ahli Tulang ) Zahra dan Nurul	JU		Y		COMP
+10:33	5	2022-03-01	6176	D	\N	500000.00	Dana Operasional PAUD	JU		Y	TR	COMP
+10:33	5	2022-03-01	6100	D	\N	500000.00	Dana Operasional PAUD	JU		Y		COMP
+10:33	5	2022-03-01	1112	K	\N	500000.00	Dana Operasional PAUD	JU		Y	TR	COMP
+10:33	5	2022-03-01	1110	K	\N	500000.00	Dana Operasional PAUD	JU		Y		COMP
+10:33	6	2022-03-01	6176	D	\N	500000.00	Dana Operasional Aisiyah	JU		Y	TR	COMP
+10:33	6	2022-03-01	6100	D	\N	500000.00	Dana Operasional Aisiyah	JU		Y		COMP
+10:33	6	2022-03-01	1112	K	\N	500000.00	Dana Operasional Aisiyah	JU		Y	TR	COMP
+10:33	6	2022-03-01	1110	K	\N	500000.00	Dana Operasional Aisiyah	JU		Y		COMP
+10:33	7	2022-03-01	6176	D	\N	500000.00	Dana Operasional Al Muhajirin	JU		Y	TR	COMP
+10:33	7	2022-03-01	6100	D	\N	500000.00	Dana Operasional Al Muhajirin	JU		Y		COMP
+10:33	7	2022-03-01	1112	K	\N	500000.00	Dana Operasional Al Muhajirin	JU		Y	TR	COMP
+10:33	7	2022-03-01	1110	K	\N	500000.00	Dana Operasional Al Muhajirin	JU		Y		COMP
+10:33	8	2022-03-01	6134	D	\N	1560000.00	Uang makan anak puteri 12 anak dari tanggal 1 samp	JU		Y	TR	COMP
+10:33	8	2022-03-01	6100	D	\N	1560000.00	Uang makan anak puteri 12 anak dari tanggal 1 samp	JU		Y		COMP
+10:33	8	2022-03-01	1112	K	\N	1560000.00	Uang makan anak puteri 12 anak dari tanggal 1 samp	JU		Y	TR	COMP
+10:33	8	2022-03-01	1110	K	\N	1560000.00	Uang makan anak puteri 12 anak dari tanggal 1 samp	JU		Y		COMP
+10:33	1	2022-03-02	6101	D	\N	1500000.00	Imbalan Jasa Pa Zuhry Bulan Febuari 2022	JU		Y	TR	COMP
+10:33	1	2022-03-02	6100	D	\N	1500000.00	Imbalan Jasa Pa Zuhry Bulan Febuari 2022	JU		Y		COMP
+10:33	1	2022-03-02	1112	K	\N	1500000.00	Imbalan Jasa Pa Zuhry Bulan Febuari 2022	JU		Y	TR	COMP
+10:33	1	2022-03-02	1110	K	\N	1500000.00	Imbalan Jasa Pa Zuhry Bulan Febuari 2022	JU		Y		COMP
+10:33	2	2022-03-02	6101	D	\N	1000000.00	Imbalan Jasa Kang Ade Bulan Febuari 2022	JU		Y	TR	COMP
+10:33	2	2022-03-02	6100	D	\N	1000000.00	Imbalan Jasa Kang Ade Bulan Febuari 2022	JU		Y		COMP
+10:33	2	2022-03-02	1112	K	\N	1000000.00	Imbalan Jasa Kang Ade Bulan Febuari 2022	JU		Y	TR	COMP
+10:33	2	2022-03-02	1110	K	\N	1000000.00	Imbalan Jasa Kang Ade Bulan Febuari 2022	JU		Y		COMP
+10:33	3	2022-03-02	6101	D	\N	1000000.00	Imbalan Jasa Mery Bulan Febuari 2022	JU		Y	TR	COMP
+10:33	3	2022-03-02	6100	D	\N	1000000.00	Imbalan Jasa Mery Bulan Febuari 2022	JU		Y		COMP
+10:33	3	2022-03-02	1112	K	\N	1000000.00	Imbalan Jasa Mery Bulan Febuari 2022	JU		Y	TR	COMP
+10:33	3	2022-03-02	1110	K	\N	1000000.00	Imbalan Jasa Mery Bulan Febuari 2022	JU		Y		COMP
+10:33	4	2022-03-02	6101	D	\N	1000000.00	Imbalan Jasa Bu Ida Bulan Febuari 2022	JU		Y	TR	COMP
+10:33	4	2022-03-02	6100	D	\N	1000000.00	Imbalan Jasa Bu Ida Bulan Febuari 2022	JU		Y		COMP
+10:33	4	2022-03-02	1112	K	\N	1000000.00	Imbalan Jasa Bu Ida Bulan Febuari 2022	JU		Y	TR	COMP
+10:33	4	2022-03-02	1110	K	\N	1000000.00	Imbalan Jasa Bu Ida Bulan Febuari 2022	JU		Y		COMP
+10:33	5	2022-03-02	6101	D	\N	1250000.00	Imbalan Jasa Pa Dodih Bulan Febuari 2022	JU		Y	TR	COMP
+10:33	5	2022-03-02	6100	D	\N	1250000.00	Imbalan Jasa Pa Dodih Bulan Febuari 2022	JU		Y		COMP
+10:33	5	2022-03-02	1112	K	\N	1250000.00	Imbalan Jasa Pa Dodih Bulan Febuari 2022	JU		Y	TR	COMP
+10:33	5	2022-03-02	1110	K	\N	1250000.00	Imbalan Jasa Pa Dodih Bulan Febuari 2022	JU		Y		COMP
+10:33	6	2022-03-02	6151	D	\N	185000.00	Lampu LED Philip	JU		Y	TR	COMP
+10:33	6	2022-03-02	6100	D	\N	185000.00	Lampu LED Philip	JU		Y		COMP
+10:33	6	2022-03-02	1112	K	\N	185000.00	Lampu LED Philip	JU		Y	TR	COMP
+10:33	6	2022-03-02	1110	K	\N	185000.00	Lampu LED Philip	JU		Y		COMP
+10:33	7	2022-03-02	6134	D	\N	77000.00	Biaya kesehatan Aldi ke Pa Ebun ( ahli Tulang )	JU		Y	TR	COMP
+10:33	7	2022-03-02	6100	D	\N	77000.00	Biaya kesehatan Aldi ke Pa Ebun ( ahli Tulang )	JU		Y		COMP
+10:33	7	2022-03-02	1112	K	\N	77000.00	Biaya kesehatan Aldi ke Pa Ebun ( ahli Tulang )	JU		Y	TR	COMP
+10:33	7	2022-03-02	1110	K	\N	77000.00	Biaya kesehatan Aldi ke Pa Ebun ( ahli Tulang )	JU		Y		COMP
+10:33	8	2022-03-02	6115	D	\N	1250000.00	Santunan anak asuh luar panti di awiligar	JU		Y	TR	COMP
+10:33	8	2022-03-02	6100	D	\N	1250000.00	Santunan anak asuh luar panti di awiligar	JU		Y		COMP
+10:33	8	2022-03-02	1112	K	\N	1250000.00	Santunan anak asuh luar panti di awiligar	JU		Y	TR	COMP
+10:33	8	2022-03-02	1110	K	\N	1250000.00	Santunan anak asuh luar panti di awiligar	JU		Y		COMP
+10:33	9	2022-03-02	6101	D	\N	150000.00	Imbalan Jasa pembina anak asuh di awiligar	JU		Y	TR	COMP
+10:33	9	2022-03-02	6100	D	\N	150000.00	Imbalan Jasa pembina anak asuh di awiligar	JU		Y		COMP
+10:33	9	2022-03-02	1112	K	\N	150000.00	Imbalan Jasa pembina anak asuh di awiligar	JU		Y	TR	COMP
+10:33	9	2022-03-02	1110	K	\N	150000.00	Imbalan Jasa pembina anak asuh di awiligar	JU		Y		COMP
+10:33	10	2022-03-02	1601	D	\N	300000.00	Cashbon Pa Ade Arifin	JU		Y	TR	COMP
+10:33	10	2022-03-02	1600	D	\N	300000.00	Cashbon Pa Ade Arifin	JU		Y		COMP
+10:33	10	2022-03-02	1112	K	\N	300000.00	Cashbon Pa Ade Arifin	JU		Y	TR	COMP
+10:33	10	2022-03-02	1110	K	\N	300000.00	Cashbon Pa Ade Arifin	JU		Y		COMP
+10:33	2	2022-03-03	6134	D	\N	140000.00	Biaya keperluan pribadi anak putera	JU		Y	TR	COMP
+10:33	2	2022-03-03	6100	D	\N	140000.00	Biaya keperluan pribadi anak putera	JU		Y		COMP
+10:33	2	2022-03-03	1112	K	\N	140000.00	Biaya keperluan pribadi anak putera	JU		Y	TR	COMP
+10:33	2	2022-03-03	1110	K	\N	140000.00	Biaya keperluan pribadi anak putera	JU		Y		COMP
+10:33	11	2022-03-04	6152	D	\N	100000.00	Transport Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	11	2022-03-04	6100	D	\N	100000.00	Transport Tutor Tapak Suci	JU		Y		COMP
+10:33	11	2022-03-04	1112	K	\N	100000.00	Transport Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	11	2022-03-04	1110	K	\N	100000.00	Transport Tutor Tapak Suci	JU		Y		COMP
+10:33	12	2022-03-04	6134	D	\N	1550000.00	Uang makan anak putera 4 orang dan 1 pembina bulan	JU		Y	TR	COMP
+10:33	12	2022-03-04	6100	D	\N	1550000.00	Uang makan anak putera 4 orang dan 1 pembina bulan	JU		Y		COMP
+10:33	12	2022-03-04	1112	K	\N	1550000.00	Uang makan anak putera 4 orang dan 1 pembina bulan	JU		Y	TR	COMP
+10:33	12	2022-03-04	1110	K	\N	1550000.00	Uang makan anak putera 4 orang dan 1 pembina bulan	JU		Y		COMP
+10:33	13	2022-03-04	6134	D	\N	20000.00	solasi	JU		Y	TR	COMP
+10:33	13	2022-03-04	6100	D	\N	20000.00	solasi	JU		Y		COMP
+10:33	13	2022-03-04	1112	K	\N	20000.00	solasi	JU		Y	TR	COMP
+10:33	13	2022-03-04	1110	K	\N	20000.00	solasi	JU		Y		COMP
+10:33	4	2022-03-05	6134	D	\N	13000.00	Stop kontak	JU		Y	TR	COMP
+10:33	4	2022-03-05	6100	D	\N	13000.00	Stop kontak	JU		Y		COMP
+10:33	4	2022-03-05	1112	K	\N	13000.00	Stop kontak	JU		Y	TR	COMP
+10:33	4	2022-03-05	1110	K	\N	13000.00	Stop kontak	JU		Y		COMP
+10:33	2	2022-03-06	6134	D	\N	330000.00	Tiket masuk Batu templek dan Oray Tapa	JU		Y	TR	COMP
+10:33	2	2022-03-06	6100	D	\N	330000.00	Tiket masuk Batu templek dan Oray Tapa	JU		Y		COMP
+10:33	2	2022-03-06	1112	K	\N	330000.00	Tiket masuk Batu templek dan Oray Tapa	JU		Y	TR	COMP
+10:33	2	2022-03-06	1110	K	\N	330000.00	Tiket masuk Batu templek dan Oray Tapa	JU		Y		COMP
+10:33	3	2022-03-06	6146	D	\N	450000.00	Sewa angkot , supir dan bensin anak - anak ke Batu	JU		Y	TR	COMP
+10:33	3	2022-03-06	6100	D	\N	450000.00	Sewa angkot , supir dan bensin anak - anak ke Batu	JU		Y		COMP
+10:33	3	2022-03-06	1112	K	\N	450000.00	Sewa angkot , supir dan bensin anak - anak ke Batu	JU		Y	TR	COMP
+10:33	3	2022-03-06	1110	K	\N	450000.00	Sewa angkot , supir dan bensin anak - anak ke Batu	JU		Y		COMP
+10:33	4	2022-03-06	6134	D	\N	600000.00	konsumsi liwet 20 orang di rumah Santi ( sebelum k	JU		Y	TR	COMP
+10:33	4	2022-03-06	6100	D	\N	600000.00	konsumsi liwet 20 orang di rumah Santi ( sebelum k	JU		Y		COMP
+10:33	4	2022-03-06	1112	K	\N	600000.00	konsumsi liwet 20 orang di rumah Santi ( sebelum k	JU		Y	TR	COMP
+10:33	4	2022-03-06	1110	K	\N	600000.00	konsumsi liwet 20 orang di rumah Santi ( sebelum k	JU		Y		COMP
+10:33	5	2022-03-06	6134	D	\N	35000.00	Air minum 7 botol untuk anak - anak	JU		Y	TR	COMP
+10:33	5	2022-03-06	6100	D	\N	35000.00	Air minum 7 botol untuk anak - anak	JU		Y		COMP
+10:33	5	2022-03-06	1112	K	\N	35000.00	Air minum 7 botol untuk anak - anak	JU		Y	TR	COMP
+10:33	5	2022-03-06	1110	K	\N	35000.00	Air minum 7 botol untuk anak - anak	JU		Y		COMP
+10:33	3	2022-03-07	6134	D	\N	77000.00	Biaya kesehatan Aldi kontrol ke Ebun	JU		Y	TR	COMP
+10:33	3	2022-03-07	6100	D	\N	77000.00	Biaya kesehatan Aldi kontrol ke Ebun	JU		Y		COMP
+10:33	3	2022-03-07	1112	K	\N	77000.00	Biaya kesehatan Aldi kontrol ke Ebun	JU		Y	TR	COMP
+10:33	3	2022-03-07	1110	K	\N	77000.00	Biaya kesehatan Aldi kontrol ke Ebun	JU		Y		COMP
+10:33	4	2022-03-07	6115	D	\N	500000.00	Infaq Masjid Al Barokah	JU		Y	TR	COMP
+10:33	4	2022-03-07	6100	D	\N	500000.00	Infaq Masjid Al Barokah	JU		Y		COMP
+10:33	4	2022-03-07	1112	K	\N	500000.00	Infaq Masjid Al Barokah	JU		Y	TR	COMP
+10:33	4	2022-03-07	1110	K	\N	500000.00	Infaq Masjid Al Barokah	JU		Y		COMP
+10:33	2	2022-03-08	6134	D	\N	66000.00	Transport anak putera 4 anak dari tanggal 15 Feb s	JU		Y	TR	COMP
+10:33	2	2022-03-08	6100	D	\N	66000.00	Transport anak putera 4 anak dari tanggal 15 Feb s	JU		Y		COMP
+10:33	2	2022-03-08	1112	K	\N	66000.00	Transport anak putera 4 anak dari tanggal 15 Feb s	JU		Y	TR	COMP
+10:33	2	2022-03-08	1110	K	\N	66000.00	Transport anak putera 4 anak dari tanggal 15 Feb s	JU		Y		COMP
+10:33	3	2022-03-08	6134	D	\N	30000.00	Transport Fina dan Cicah ke Masjid Nurul Iman di S	JU		Y	TR	COMP
+10:33	3	2022-03-08	6100	D	\N	30000.00	Transport Fina dan Cicah ke Masjid Nurul Iman di S	JU		Y		COMP
+10:33	3	2022-03-08	1112	K	\N	30000.00	Transport Fina dan Cicah ke Masjid Nurul Iman di S	JU		Y	TR	COMP
+10:33	3	2022-03-08	1110	K	\N	30000.00	Transport Fina dan Cicah ke Masjid Nurul Iman di S	JU		Y		COMP
+10:33	4	2022-03-08	6134	D	\N	200000.00	Kurang bayar SPP SMAMSa Januari dan Febuari 6 anak	JU		Y	TR	COMP
+10:33	4	2022-03-08	6100	D	\N	200000.00	Kurang bayar SPP SMAMSa Januari dan Febuari 6 anak	JU		Y		COMP
+10:33	4	2022-03-08	1112	K	\N	200000.00	Kurang bayar SPP SMAMSa Januari dan Febuari 6 anak	JU		Y	TR	COMP
+10:33	4	2022-03-08	1110	K	\N	200000.00	Kurang bayar SPP SMAMSa Januari dan Febuari 6 anak	JU		Y		COMP
+10:33	5	2022-03-08	6151	D	\N	15500.00	Kabel	JU		Y	TR	COMP
+10:33	5	2022-03-08	6100	D	\N	15500.00	Kabel	JU		Y		COMP
+10:33	5	2022-03-08	1112	K	\N	15500.00	Kabel	JU		Y	TR	COMP
+10:33	5	2022-03-08	1110	K	\N	15500.00	Kabel	JU		Y		COMP
+10:33	1	2022-03-09	6134	D	\N	226400.00	Spanduk untuk di Asrama putera dan puteri	JU		Y	TR	COMP
+10:33	1	2022-03-09	6100	D	\N	226400.00	Spanduk untuk di Asrama putera dan puteri	JU		Y		COMP
+10:33	1	2022-03-09	1112	K	\N	226400.00	Spanduk untuk di Asrama putera dan puteri	JU		Y	TR	COMP
+10:33	1	2022-03-09	1110	K	\N	226400.00	Spanduk untuk di Asrama putera dan puteri	JU		Y		COMP
+10:33	2	2022-03-09	6134	D	\N	292352.00	Belanja keperluan Asrama , SP piring, SP lantai, t	JU		Y	TR	COMP
+10:33	2	2022-03-09	6100	D	\N	292352.00	Belanja keperluan Asrama , SP piring, SP lantai, t	JU		Y		COMP
+10:33	2	2022-03-09	1112	K	\N	292352.00	Belanja keperluan Asrama , SP piring, SP lantai, t	JU		Y	TR	COMP
+10:33	2	2022-03-09	1110	K	\N	292352.00	Belanja keperluan Asrama , SP piring, SP lantai, t	JU		Y		COMP
+10:33	3	2022-03-09	6136	D	\N	15500.00	Kirim berkas ke PGN	JU		Y	TR	COMP
+10:33	3	2022-03-09	6100	D	\N	15500.00	Kirim berkas ke PGN	JU		Y		COMP
+10:33	3	2022-03-09	1112	K	\N	15500.00	Kirim berkas ke PGN	JU		Y	TR	COMP
+10:33	3	2022-03-09	1110	K	\N	15500.00	Kirim berkas ke PGN	JU		Y		COMP
+10:33	2	2022-03-10	6134	D	\N	30000.00	Transport Nina pulang sekolah @ 2 hari	JU		Y	TR	COMP
+10:33	2	2022-03-10	6100	D	\N	30000.00	Transport Nina pulang sekolah @ 2 hari	JU		Y		COMP
+10:33	2	2022-03-10	1112	K	\N	30000.00	Transport Nina pulang sekolah @ 2 hari	JU		Y	TR	COMP
+10:33	2	2022-03-10	1110	K	\N	30000.00	Transport Nina pulang sekolah @ 2 hari	JU		Y		COMP
+10:33	9	2022-03-11	6151	D	\N	65000.00	Kunci Silinder untuk Asrama Putera	JU		Y	TR	COMP
+10:33	9	2022-03-11	6100	D	\N	65000.00	Kunci Silinder untuk Asrama Putera	JU		Y		COMP
+10:33	9	2022-03-11	1112	K	\N	65000.00	Kunci Silinder untuk Asrama Putera	JU		Y	TR	COMP
+10:33	9	2022-03-11	1110	K	\N	65000.00	Kunci Silinder untuk Asrama Putera	JU		Y		COMP
+10:33	10	2022-03-11	6151	D	\N	444000.00	Kabel , saklar , stop kontak untuk asrama Puteri	JU		Y	TR	COMP
+10:33	10	2022-03-11	6100	D	\N	444000.00	Kabel , saklar , stop kontak untuk asrama Puteri	JU		Y		COMP
+10:33	10	2022-03-11	1112	K	\N	444000.00	Kabel , saklar , stop kontak untuk asrama Puteri	JU		Y	TR	COMP
+10:33	10	2022-03-11	1110	K	\N	444000.00	Kabel , saklar , stop kontak untuk asrama Puteri	JU		Y		COMP
+10:33	11	2022-03-11	6151	D	\N	78000.00	Trash bag dan kantong keresek	JU		Y	TR	COMP
+10:33	11	2022-03-11	6100	D	\N	78000.00	Trash bag dan kantong keresek	JU		Y		COMP
+10:33	11	2022-03-11	1112	K	\N	78000.00	Trash bag dan kantong keresek	JU		Y	TR	COMP
+10:33	11	2022-03-11	1110	K	\N	78000.00	Trash bag dan kantong keresek	JU		Y		COMP
+10:33	12	2022-03-11	6152	D	\N	100000.00	Transport Tutor Tapak suci	JU		Y	TR	COMP
+10:33	12	2022-03-11	6100	D	\N	100000.00	Transport Tutor Tapak suci	JU		Y		COMP
+10:33	12	2022-03-11	1112	K	\N	100000.00	Transport Tutor Tapak suci	JU		Y	TR	COMP
+10:33	12	2022-03-11	1110	K	\N	100000.00	Transport Tutor Tapak suci	JU		Y		COMP
+10:33	1	2022-03-13	1601	D	\N	500000.00	Pa Ujang / Cashbon	JU		Y	TR	COMP
+10:33	1	2022-03-13	1600	D	\N	500000.00	Pa Ujang / Cashbon	JU		Y		COMP
+10:33	1	2022-03-13	1112	K	\N	500000.00	Pa Ujang / Cashbon	JU		Y	TR	COMP
+10:33	1	2022-03-13	1110	K	\N	500000.00	Pa Ujang / Cashbon	JU		Y		COMP
+10:33	1	2022-03-14	1112	D	\N	13500000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y	TR	COMP
+10:33	1	2022-03-14	1110	D	\N	13500000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y		COMP
+10:33	1	2022-03-14	1111	K	\N	13500000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y	TR	COMP
+10:33	1	2022-03-14	1110	K	\N	13500000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y		COMP
+10:33	2	2022-03-14	6108	D	\N	190000.00	Upah pekerjaan tukang Pa Nanam / pemasangan kabel	JU		Y	TR	COMP
+10:33	2	2022-03-14	6100	D	\N	190000.00	Upah pekerjaan tukang Pa Nanam / pemasangan kabel	JU		Y		COMP
+10:33	2	2022-03-14	1112	K	\N	190000.00	Upah pekerjaan tukang Pa Nanam / pemasangan kabel	JU		Y	TR	COMP
+10:33	2	2022-03-14	1110	K	\N	190000.00	Upah pekerjaan tukang Pa Nanam / pemasangan kabel	JU		Y		COMP
+10:33	3	2022-03-14	6125	D	\N	108000.00	Konsumsi rapat pengangkatan pengurus Baru	JU		Y	TR	COMP
+10:33	3	2022-03-14	6100	D	\N	108000.00	Konsumsi rapat pengangkatan pengurus Baru	JU		Y		COMP
+10:33	3	2022-03-14	1112	K	\N	108000.00	Konsumsi rapat pengangkatan pengurus Baru	JU		Y	TR	COMP
+10:33	3	2022-03-14	1110	K	\N	108000.00	Konsumsi rapat pengangkatan pengurus Baru	JU		Y		COMP
+10:33	4	2022-03-14	6134	D	\N	100000.00	Foto Ijazah dan Medali ( Meli )	JU		Y	TR	COMP
+10:33	4	2022-03-14	6100	D	\N	100000.00	Foto Ijazah dan Medali ( Meli )	JU		Y		COMP
+10:33	4	2022-03-14	1112	K	\N	100000.00	Foto Ijazah dan Medali ( Meli )	JU		Y	TR	COMP
+10:33	4	2022-03-14	1110	K	\N	100000.00	Foto Ijazah dan Medali ( Meli )	JU		Y		COMP
+10:33	5	2022-03-14	6138	D	\N	36000.00	Pit Plavon broco, OB engkel, OB stop kontak untuk	JU		Y	TR	COMP
+10:33	5	2022-03-14	6100	D	\N	36000.00	Pit Plavon broco, OB engkel, OB stop kontak untuk	JU		Y		COMP
+10:33	5	2022-03-14	1112	K	\N	36000.00	Pit Plavon broco, OB engkel, OB stop kontak untuk	JU		Y	TR	COMP
+10:33	5	2022-03-14	1110	K	\N	36000.00	Pit Plavon broco, OB engkel, OB stop kontak untuk	JU		Y		COMP
+10:33	6	2022-03-14	6138	D	\N	4500.00	klem 10	JU		Y	TR	COMP
+10:33	6	2022-03-14	6100	D	\N	4500.00	klem 10	JU		Y		COMP
+10:33	6	2022-03-14	1112	K	\N	4500.00	klem 10	JU		Y	TR	COMP
+10:33	6	2022-03-14	1110	K	\N	4500.00	klem 10	JU		Y		COMP
+10:33	7	2022-03-14	6131	D	\N	100000.00	Gas dan air mineral	JU		Y	TR	COMP
+10:33	7	2022-03-14	6100	D	\N	100000.00	Gas dan air mineral	JU		Y		COMP
+10:33	7	2022-03-14	1112	K	\N	100000.00	Gas dan air mineral	JU		Y	TR	COMP
+10:33	7	2022-03-14	1110	K	\N	100000.00	Gas dan air mineral	JU		Y		COMP
+10:33	8	2022-03-14	6134	D	\N	13000.00	Transport Alifa ke klinik	JU		Y	TR	COMP
+10:33	8	2022-03-14	6100	D	\N	13000.00	Transport Alifa ke klinik	JU		Y		COMP
+10:33	8	2022-03-14	1112	K	\N	13000.00	Transport Alifa ke klinik	JU		Y	TR	COMP
+10:33	8	2022-03-14	1110	K	\N	13000.00	Transport Alifa ke klinik	JU		Y		COMP
+10:33	2	2022-03-15	6125	D	\N	40000.00	konsumsi konsolidasi pengurus inti	JU		Y	TR	COMP
+10:33	2	2022-03-15	6100	D	\N	40000.00	konsumsi konsolidasi pengurus inti	JU		Y		COMP
+10:33	2	2022-03-15	1112	K	\N	40000.00	konsumsi konsolidasi pengurus inti	JU		Y	TR	COMP
+10:33	2	2022-03-15	1110	K	\N	40000.00	konsumsi konsolidasi pengurus inti	JU		Y		COMP
+10:33	2	2022-03-16	1112	D	\N	10000000.00	Penarikan dari ATM Mandiri untuk operasional bulan	JU		Y	TR	COMP
+10:33	2	2022-03-16	1110	D	\N	10000000.00	Penarikan dari ATM Mandiri untuk operasional bulan	JU		Y		COMP
+10:33	2	2022-03-16	1123	K	\N	10000000.00	Penarikan dari ATM Mandiri untuk operasional bulan	JU		Y	TR	COMP
+10:33	2	2022-03-16	1120	K	\N	10000000.00	Penarikan dari ATM Mandiri untuk operasional bulan	JU		Y		COMP
+10:33	3	2022-03-16	6151	D	\N	151500.00	Stiker untuk Plang FH @ 2 bh	JU		Y	TR	COMP
+10:33	3	2022-03-16	6100	D	\N	151500.00	Stiker untuk Plang FH @ 2 bh	JU		Y		COMP
+10:33	3	2022-03-16	1112	K	\N	151500.00	Stiker untuk Plang FH @ 2 bh	JU		Y	TR	COMP
+10:33	3	2022-03-16	1110	K	\N	151500.00	Stiker untuk Plang FH @ 2 bh	JU		Y		COMP
+10:33	4	2022-03-16	6101	D	\N	1000000.00	Imbalan Jasa Pa Hendra bulan Febuari	JU		Y	TR	COMP
+10:33	4	2022-03-16	6100	D	\N	1000000.00	Imbalan Jasa Pa Hendra bulan Febuari	JU		Y		COMP
+10:33	4	2022-03-16	1112	K	\N	1000000.00	Imbalan Jasa Pa Hendra bulan Febuari	JU		Y	TR	COMP
+10:33	4	2022-03-16	1110	K	\N	1000000.00	Imbalan Jasa Pa Hendra bulan Febuari	JU		Y		COMP
+10:33	5	2022-03-16	6134	D	\N	16000.00	Transport ke sekolah SMAN 10	JU		Y	TR	COMP
+10:33	5	2022-03-16	6100	D	\N	16000.00	Transport ke sekolah SMAN 10	JU		Y		COMP
+10:33	5	2022-03-16	1112	K	\N	16000.00	Transport ke sekolah SMAN 10	JU		Y	TR	COMP
+10:33	5	2022-03-16	1110	K	\N	16000.00	Transport ke sekolah SMAN 10	JU		Y		COMP
+10:33	6	2022-03-16	6134	D	\N	25000.00	Transport Meli kerkom pake grab	JU		Y	TR	COMP
+10:33	6	2022-03-16	6100	D	\N	25000.00	Transport Meli kerkom pake grab	JU		Y		COMP
+10:33	6	2022-03-16	1112	K	\N	25000.00	Transport Meli kerkom pake grab	JU		Y	TR	COMP
+10:33	6	2022-03-16	1110	K	\N	25000.00	Transport Meli kerkom pake grab	JU		Y		COMP
+10:33	7	2022-03-16	6113	D	\N	3750000.00	Uang kadeudeuh untuk Pa Zuhry,Pa Dodih,Pa Hendra d	JU		Y	TR	COMP
+10:33	7	2022-03-16	6100	D	\N	3750000.00	Uang kadeudeuh untuk Pa Zuhry,Pa Dodih,Pa Hendra d	JU		Y		COMP
+10:33	7	2022-03-16	1112	K	\N	3750000.00	Uang kadeudeuh untuk Pa Zuhry,Pa Dodih,Pa Hendra d	JU		Y	TR	COMP
+10:33	7	2022-03-16	1110	K	\N	3750000.00	Uang kadeudeuh untuk Pa Zuhry,Pa Dodih,Pa Hendra d	JU		Y		COMP
+10:33	8	2022-03-16	6134	D	\N	750000.00	Tambah kurang bayar SPP SMAMSa dari bulan Maret sa	JU		Y	TR	COMP
+10:33	8	2022-03-16	6100	D	\N	750000.00	Tambah kurang bayar SPP SMAMSa dari bulan Maret sa	JU		Y		COMP
+10:33	8	2022-03-16	1112	K	\N	750000.00	Tambah kurang bayar SPP SMAMSa dari bulan Maret sa	JU		Y	TR	COMP
+10:33	8	2022-03-16	1110	K	\N	750000.00	Tambah kurang bayar SPP SMAMSa dari bulan Maret sa	JU		Y		COMP
+10:33	9	2022-03-16	6152	D	\N	50000.00	Transport Bu Ida ke SMAMSa  untuk bayar SPP	JU		Y	TR	COMP
+10:33	9	2022-03-16	6100	D	\N	50000.00	Transport Bu Ida ke SMAMSa  untuk bayar SPP	JU		Y		COMP
+10:33	9	2022-03-16	1112	K	\N	50000.00	Transport Bu Ida ke SMAMSa  untuk bayar SPP	JU		Y	TR	COMP
+10:33	9	2022-03-16	1110	K	\N	50000.00	Transport Bu Ida ke SMAMSa  untuk bayar SPP	JU		Y		COMP
+10:33	3	2022-03-17	6134	D	\N	2160000.00	Uang Makan anak puteri 12 anak dari tanggal 14 sam	JU		Y	TR	COMP
+10:33	3	2022-03-17	6100	D	\N	2160000.00	Uang Makan anak puteri 12 anak dari tanggal 14 sam	JU		Y		COMP
+10:33	3	2022-03-17	1112	K	\N	2160000.00	Uang Makan anak puteri 12 anak dari tanggal 14 sam	JU		Y	TR	COMP
+10:33	3	2022-03-17	1110	K	\N	2160000.00	Uang Makan anak puteri 12 anak dari tanggal 14 sam	JU		Y		COMP
+10:33	6	2022-03-18	6138	D	\N	15860500.00	Renovasi asrama puteri	JU		Y	TR	COMP
+10:33	6	2022-03-18	6100	D	\N	15860500.00	Renovasi asrama puteri	JU		Y		COMP
+10:33	6	2022-03-18	1112	K	\N	15860500.00	Renovasi asrama puteri	JU		Y	TR	COMP
+10:33	6	2022-03-18	1110	K	\N	15860500.00	Renovasi asrama puteri	JU		Y		COMP
+10:33	3	2022-03-19	6134	D	\N	54000.00	Transport Alifa kesekolah dari tanggal 7,9,11,21,2	JU		Y	TR	COMP
+10:33	3	2022-03-19	6100	D	\N	54000.00	Transport Alifa kesekolah dari tanggal 7,9,11,21,2	JU		Y		COMP
+10:33	3	2022-03-19	1112	K	\N	54000.00	Transport Alifa kesekolah dari tanggal 7,9,11,21,2	JU		Y	TR	COMP
+10:33	3	2022-03-19	1110	K	\N	54000.00	Transport Alifa kesekolah dari tanggal 7,9,11,21,2	JU		Y		COMP
+10:33	4	2022-03-19	6134	D	\N	83500.00	Keperluan praktek sekolah alifa ( masak,drama. Sen	JU		Y	TR	COMP
+10:33	4	2022-03-19	6100	D	\N	83500.00	Keperluan praktek sekolah alifa ( masak,drama. Sen	JU		Y		COMP
+10:33	4	2022-03-19	1112	K	\N	83500.00	Keperluan praktek sekolah alifa ( masak,drama. Sen	JU		Y	TR	COMP
+10:33	4	2022-03-19	1110	K	\N	83500.00	Keperluan praktek sekolah alifa ( masak,drama. Sen	JU		Y		COMP
+10:33	5	2022-03-19	6138	D	\N	100000.00	Potong plat untuk plang FH	JU		Y	TR	COMP
+10:33	5	2022-03-19	6100	D	\N	100000.00	Potong plat untuk plang FH	JU		Y		COMP
+10:33	5	2022-03-19	1112	K	\N	100000.00	Potong plat untuk plang FH	JU		Y	TR	COMP
+10:33	5	2022-03-19	1110	K	\N	100000.00	Potong plat untuk plang FH	JU		Y		COMP
+10:33	6	2022-03-19	6134	D	\N	40000.00	Transport ke sekolah SMAN 10 dan disdik Jabar	JU		Y	TR	COMP
+10:33	6	2022-03-19	6100	D	\N	40000.00	Transport ke sekolah SMAN 10 dan disdik Jabar	JU		Y		COMP
+10:33	6	2022-03-19	1112	K	\N	40000.00	Transport ke sekolah SMAN 10 dan disdik Jabar	JU		Y	TR	COMP
+10:33	6	2022-03-19	1110	K	\N	40000.00	Transport ke sekolah SMAN 10 dan disdik Jabar	JU		Y		COMP
+10:33	7	2022-03-19	6138	D	\N	75800.00	Stiker untuk Plang penunjuk arah Panti FH	JU		Y	TR	COMP
+10:33	7	2022-03-19	6100	D	\N	75800.00	Stiker untuk Plang penunjuk arah Panti FH	JU		Y		COMP
+10:33	7	2022-03-19	1112	K	\N	75800.00	Stiker untuk Plang penunjuk arah Panti FH	JU		Y	TR	COMP
+10:33	7	2022-03-19	1110	K	\N	75800.00	Stiker untuk Plang penunjuk arah Panti FH	JU		Y		COMP
+10:33	3	2022-03-20	1112	D	\N	4500000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y	TR	COMP
+10:33	3	2022-03-20	1110	D	\N	4500000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y		COMP
+10:33	3	2022-03-20	1111	K	\N	4500000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y	TR	COMP
+10:33	3	2022-03-20	1110	K	\N	4500000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y		COMP
+10:33	4	2022-03-20	6127	D	\N	113448.00	Listrik Panti Fajar Harapan	JU		Y	TR	COMP
+10:33	4	2022-03-20	6100	D	\N	113448.00	Listrik Panti Fajar Harapan	JU		Y		COMP
+10:33	4	2022-03-20	1112	K	\N	113448.00	Listrik Panti Fajar Harapan	JU		Y	TR	COMP
+10:33	4	2022-03-20	1110	K	\N	113448.00	Listrik Panti Fajar Harapan	JU		Y		COMP
+10:33	5	2022-03-20	6127	D	\N	27780.00	Listrik Perumnas	JU		Y	TR	COMP
+10:33	5	2022-03-20	6100	D	\N	27780.00	Listrik Perumnas	JU		Y		COMP
+10:33	5	2022-03-20	1112	K	\N	27780.00	Listrik Perumnas	JU		Y	TR	COMP
+10:33	5	2022-03-20	1110	K	\N	27780.00	Listrik Perumnas	JU		Y		COMP
+10:33	6	2022-03-20	6128	D	\N	219000.00	PDAM Ade Rochman	JU		Y	TR	COMP
+10:33	6	2022-03-20	6100	D	\N	219000.00	PDAM Ade Rochman	JU		Y		COMP
+10:33	6	2022-03-20	1112	K	\N	219000.00	PDAM Ade Rochman	JU		Y	TR	COMP
+10:33	6	2022-03-20	1110	K	\N	219000.00	PDAM Ade Rochman	JU		Y		COMP
+10:33	7	2022-03-20	6129	D	\N	486500.00	TELKOM dan Wifi	JU		Y	TR	COMP
+10:33	7	2022-03-20	6100	D	\N	486500.00	TELKOM dan Wifi	JU		Y		COMP
+10:33	7	2022-03-20	1112	K	\N	486500.00	TELKOM dan Wifi	JU		Y	TR	COMP
+10:33	7	2022-03-20	1110	K	\N	486500.00	TELKOM dan Wifi	JU		Y		COMP
+10:33	8	2022-03-20	6130	D	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y	TR	COMP
+10:33	8	2022-03-20	6100	D	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y		COMP
+10:33	8	2022-03-20	1112	K	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y	TR	COMP
+10:33	8	2022-03-20	1110	K	\N	464500.00	Wifi Asrama Putera a.n Hendra Rossano	JU		Y		COMP
+10:33	9	2022-03-20	6127	D	\N	223700.00	Listrik Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	9	2022-03-20	6100	D	\N	223700.00	Listrik Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	9	2022-03-20	1112	K	\N	223700.00	Listrik Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	9	2022-03-20	1110	K	\N	223700.00	Listrik Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	10	2022-03-20	6128	D	\N	86900.00	PDAM Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	10	2022-03-20	6100	D	\N	86900.00	PDAM Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	10	2022-03-20	1112	K	\N	86900.00	PDAM Asrama Putera a.n Satriawan	JU		Y	TR	COMP
+10:33	10	2022-03-20	1110	K	\N	86900.00	PDAM Asrama Putera a.n Satriawan	JU		Y		COMP
+10:33	2	2022-03-21	6176	D	\N	1000000.00	Dana Operasional Dakwah PCM bulan Maret 2022	JU		Y	TR	COMP
+10:33	2	2022-03-21	6100	D	\N	1000000.00	Dana Operasional Dakwah PCM bulan Maret 2022	JU		Y		COMP
+10:33	2	2022-03-21	1112	K	\N	1000000.00	Dana Operasional Dakwah PCM bulan Maret 2022	JU		Y	TR	COMP
+10:33	2	2022-03-21	1110	K	\N	1000000.00	Dana Operasional Dakwah PCM bulan Maret 2022	JU		Y		COMP
+10:33	3	2022-03-21	6149	D	\N	270000.00	Suara  Muhammadiyyah 10 exmp	JU		Y	TR	COMP
+10:33	3	2022-03-21	6100	D	\N	270000.00	Suara  Muhammadiyyah 10 exmp	JU		Y		COMP
+10:33	3	2022-03-21	1112	K	\N	270000.00	Suara  Muhammadiyyah 10 exmp	JU		Y	TR	COMP
+10:33	3	2022-03-21	1110	K	\N	270000.00	Suara  Muhammadiyyah 10 exmp	JU		Y		COMP
+10:33	4	2022-03-21	6151	D	\N	8000.00	Rivet 440 ( 3,2 x 11 )	JU		Y	TR	COMP
+10:33	4	2022-03-21	6100	D	\N	8000.00	Rivet 440 ( 3,2 x 11 )	JU		Y		COMP
+10:33	4	2022-03-21	1112	K	\N	8000.00	Rivet 440 ( 3,2 x 11 )	JU		Y	TR	COMP
+10:33	4	2022-03-21	1110	K	\N	8000.00	Rivet 440 ( 3,2 x 11 )	JU		Y		COMP
+10:33	5	2022-03-21	6151	D	\N	65000.00	Seng Alum 120	JU		Y	TR	COMP
+10:33	5	2022-03-21	6100	D	\N	65000.00	Seng Alum 120	JU		Y		COMP
+10:33	5	2022-03-21	1112	K	\N	65000.00	Seng Alum 120	JU		Y	TR	COMP
+10:33	5	2022-03-21	1110	K	\N	65000.00	Seng Alum 120	JU		Y		COMP
+10:33	6	2022-03-21	6134	D	\N	225000.00	SPP Agung bulan Maret 2022	JU		Y	TR	COMP
+10:33	6	2022-03-21	6100	D	\N	225000.00	SPP Agung bulan Maret 2022	JU		Y		COMP
+10:33	6	2022-03-21	1112	K	\N	225000.00	SPP Agung bulan Maret 2022	JU		Y	TR	COMP
+10:33	6	2022-03-21	1110	K	\N	225000.00	SPP Agung bulan Maret 2022	JU		Y		COMP
+10:33	7	2022-03-21	6134	D	\N	200000.00	Spp Fardan bulan Maret 2022	JU		Y	TR	COMP
+10:33	7	2022-03-21	6100	D	\N	200000.00	Spp Fardan bulan Maret 2022	JU		Y		COMP
+10:33	7	2022-03-21	1112	K	\N	200000.00	Spp Fardan bulan Maret 2022	JU		Y	TR	COMP
+10:33	7	2022-03-21	1110	K	\N	200000.00	Spp Fardan bulan Maret 2022	JU		Y		COMP
+10:33	8	2022-03-21	6134	D	\N	62000.00	Praktek IPA Alifa	JU		Y	TR	COMP
+10:33	8	2022-03-21	6100	D	\N	62000.00	Praktek IPA Alifa	JU		Y		COMP
+10:33	8	2022-03-21	1112	K	\N	62000.00	Praktek IPA Alifa	JU		Y	TR	COMP
+10:33	8	2022-03-21	1110	K	\N	62000.00	Praktek IPA Alifa	JU		Y		COMP
+10:33	9	2022-03-21	6152	D	\N	45000.00	Transport Grab ke kecamatan untuk pembuatan KTP an	JU		Y	TR	COMP
+10:33	9	2022-03-21	6100	D	\N	45000.00	Transport Grab ke kecamatan untuk pembuatan KTP an	JU		Y		COMP
+10:33	9	2022-03-21	1112	K	\N	45000.00	Transport Grab ke kecamatan untuk pembuatan KTP an	JU		Y	TR	COMP
+10:33	9	2022-03-21	1110	K	\N	45000.00	Transport Grab ke kecamatan untuk pembuatan KTP an	JU		Y		COMP
+10:33	2	2022-03-22	6152	D	\N	200000.00	Ongkos Pembuatan Plang 2 bh asrama Puteri	JU		Y	TR	COMP
+10:33	2	2022-03-22	6100	D	\N	200000.00	Ongkos Pembuatan Plang 2 bh asrama Puteri	JU		Y		COMP
+10:33	2	2022-03-22	1112	K	\N	200000.00	Ongkos Pembuatan Plang 2 bh asrama Puteri	JU		Y	TR	COMP
+10:33	2	2022-03-22	1110	K	\N	200000.00	Ongkos Pembuatan Plang 2 bh asrama Puteri	JU		Y		COMP
+10:33	3	2022-03-22	6151	D	\N	150000.00	pipa air 3 m	JU		Y	TR	COMP
+10:33	3	2022-03-22	6100	D	\N	150000.00	pipa air 3 m	JU		Y		COMP
+10:33	3	2022-03-22	1112	K	\N	150000.00	pipa air 3 m	JU		Y	TR	COMP
+10:33	3	2022-03-22	1110	K	\N	150000.00	pipa air 3 m	JU		Y		COMP
+10:33	4	2022-03-22	6125	D	\N	216000.00	Konsumsi Akreditasi Panti	JU		Y	TR	COMP
+10:33	4	2022-03-22	6100	D	\N	216000.00	Konsumsi Akreditasi Panti	JU		Y		COMP
+10:33	4	2022-03-22	1112	K	\N	216000.00	Konsumsi Akreditasi Panti	JU		Y	TR	COMP
+10:33	4	2022-03-22	1110	K	\N	216000.00	Konsumsi Akreditasi Panti	JU		Y		COMP
+10:33	4	2022-03-23	6134	D	\N	24000.00	Transport ke sekolah Meli dari tanggal 21 Maret 20	JU		Y	TR	COMP
+10:33	4	2022-03-23	6100	D	\N	24000.00	Transport ke sekolah Meli dari tanggal 21 Maret 20	JU		Y		COMP
+10:33	4	2022-03-23	1112	K	\N	24000.00	Transport ke sekolah Meli dari tanggal 21 Maret 20	JU		Y	TR	COMP
+10:33	4	2022-03-23	1110	K	\N	24000.00	Transport ke sekolah Meli dari tanggal 21 Maret 20	JU		Y		COMP
+10:33	5	2022-03-23	6134	D	\N	34650.00	Buku Gambar A3,pulpen jeli dan HVS   ( praktek sek	JU		Y	TR	COMP
+10:33	5	2022-03-23	6100	D	\N	34650.00	Buku Gambar A3,pulpen jeli dan HVS   ( praktek sek	JU		Y		COMP
+10:33	5	2022-03-23	1112	K	\N	34650.00	Buku Gambar A3,pulpen jeli dan HVS   ( praktek sek	JU		Y	TR	COMP
+10:33	5	2022-03-23	1110	K	\N	34650.00	Buku Gambar A3,pulpen jeli dan HVS   ( praktek sek	JU		Y		COMP
+10:33	6	2022-03-23	6134	D	\N	33500.00	Lampu senter ,dudukan lampu, lem tembak ( praktek	JU		Y	TR	COMP
+10:33	6	2022-03-23	6100	D	\N	33500.00	Lampu senter ,dudukan lampu, lem tembak ( praktek	JU		Y		COMP
+10:33	6	2022-03-23	1112	K	\N	33500.00	Lampu senter ,dudukan lampu, lem tembak ( praktek	JU		Y	TR	COMP
+10:33	6	2022-03-23	1110	K	\N	33500.00	Lampu senter ,dudukan lampu, lem tembak ( praktek	JU		Y		COMP
+10:33	1	2022-03-24	6134	D	\N	840000.00	SPP sekolah Aldi kelas ix dari bulan Juli 2021 sam	JU		Y	TR	COMP
+10:33	1	2022-03-24	6100	D	\N	840000.00	SPP sekolah Aldi kelas ix dari bulan Juli 2021 sam	JU		Y		COMP
+10:33	1	2022-03-24	1112	K	\N	840000.00	SPP sekolah Aldi kelas ix dari bulan Juli 2021 sam	JU		Y	TR	COMP
+10:33	1	2022-03-24	1110	K	\N	840000.00	SPP sekolah Aldi kelas ix dari bulan Juli 2021 sam	JU		Y		COMP
+10:33	8	2022-03-25	6125	D	\N	300000.00	konsumsi Tabligh Akbar Qobla Ramadhan	JU		Y	TR	COMP
+10:33	8	2022-03-25	6100	D	\N	300000.00	konsumsi Tabligh Akbar Qobla Ramadhan	JU		Y		COMP
+10:33	8	2022-03-25	1112	K	\N	300000.00	konsumsi Tabligh Akbar Qobla Ramadhan	JU		Y	TR	COMP
+10:33	8	2022-03-25	1110	K	\N	300000.00	konsumsi Tabligh Akbar Qobla Ramadhan	JU		Y		COMP
+10:33	9	2022-03-25	6152	D	\N	100000.00	Transport Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	9	2022-03-25	6100	D	\N	100000.00	Transport Tutor Tapak Suci	JU		Y		COMP
+10:33	9	2022-03-25	1112	K	\N	100000.00	Transport Tutor Tapak Suci	JU		Y	TR	COMP
+10:33	9	2022-03-25	1110	K	\N	100000.00	Transport Tutor Tapak Suci	JU		Y		COMP
+10:33	10	2022-03-25	6134	D	\N	60000.00	Cukur Rambut anak putera 4 anak	JU		Y	TR	COMP
+10:33	10	2022-03-25	6100	D	\N	60000.00	Cukur Rambut anak putera 4 anak	JU		Y		COMP
+10:33	10	2022-03-25	1112	K	\N	60000.00	Cukur Rambut anak putera 4 anak	JU		Y	TR	COMP
+10:33	10	2022-03-25	1110	K	\N	60000.00	Cukur Rambut anak putera 4 anak	JU		Y		COMP
+10:33	11	2022-03-25	6134	D	\N	85000.00	Transport ke sekolah SMAMSA 2 hari pakai grab	JU		Y	TR	COMP
+10:33	11	2022-03-25	6100	D	\N	85000.00	Transport ke sekolah SMAMSA 2 hari pakai grab	JU		Y		COMP
+10:33	11	2022-03-25	1112	K	\N	85000.00	Transport ke sekolah SMAMSA 2 hari pakai grab	JU		Y	TR	COMP
+10:33	11	2022-03-25	1110	K	\N	85000.00	Transport ke sekolah SMAMSA 2 hari pakai grab	JU		Y		COMP
+10:33	2	2022-03-26	1112	D	\N	6000000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y	TR	COMP
+10:33	2	2022-03-26	1110	D	\N	6000000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y		COMP
+10:33	2	2022-03-26	1111	K	\N	6000000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y	TR	COMP
+10:33	2	2022-03-26	1110	K	\N	6000000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y		COMP
+10:33	3	2022-03-26	6134	D	\N	241000.00	Belanja keperluan pribadi anak putera 4 orang paka	JU		Y	TR	COMP
+10:33	3	2022-03-26	6100	D	\N	241000.00	Belanja keperluan pribadi anak putera 4 orang paka	JU		Y		COMP
+10:33	3	2022-03-26	1112	K	\N	241000.00	Belanja keperluan pribadi anak putera 4 orang paka	JU		Y	TR	COMP
+10:33	3	2022-03-26	1110	K	\N	241000.00	Belanja keperluan pribadi anak putera 4 orang paka	JU		Y		COMP
+10:33	4	2022-03-26	6134	D	\N	1660000.00	Bahan untuk pembuatan jemuran di panti puteri	JU		Y	TR	COMP
+10:33	4	2022-03-26	6100	D	\N	1660000.00	Bahan untuk pembuatan jemuran di panti puteri	JU		Y		COMP
+10:33	4	2022-03-26	1112	K	\N	1660000.00	Bahan untuk pembuatan jemuran di panti puteri	JU		Y	TR	COMP
+10:33	4	2022-03-26	1110	K	\N	1660000.00	Bahan untuk pembuatan jemuran di panti puteri	JU		Y		COMP
+10:33	6	2022-03-28	6134	D	\N	219100.00	Spanduk acara pengajian Qobla Ramadhan dan stiker	JU		Y	TR	COMP
+10:33	6	2022-03-28	6100	D	\N	219100.00	Spanduk acara pengajian Qobla Ramadhan dan stiker	JU		Y		COMP
+10:33	6	2022-03-28	1112	K	\N	219100.00	Spanduk acara pengajian Qobla Ramadhan dan stiker	JU		Y	TR	COMP
+10:33	6	2022-03-28	1110	K	\N	219100.00	Spanduk acara pengajian Qobla Ramadhan dan stiker	JU		Y		COMP
+10:33	7	2022-03-28	6134	D	\N	3370000.00	Seragam acara anak dan pengelola	JU		Y	TR	COMP
+10:33	7	2022-03-28	6100	D	\N	3370000.00	Seragam acara anak dan pengelola	JU		Y		COMP
+10:33	7	2022-03-28	1112	K	\N	3370000.00	Seragam acara anak dan pengelola	JU		Y	TR	COMP
+10:33	7	2022-03-28	1110	K	\N	3370000.00	Seragam acara anak dan pengelola	JU		Y		COMP
+10:33	8	2022-03-28	6152	D	\N	45000.00	Transport ke pasar baru	JU		Y	TR	COMP
+10:33	8	2022-03-28	6100	D	\N	45000.00	Transport ke pasar baru	JU		Y		COMP
+10:33	8	2022-03-28	1112	K	\N	45000.00	Transport ke pasar baru	JU		Y	TR	COMP
+10:33	8	2022-03-28	1110	K	\N	45000.00	Transport ke pasar baru	JU		Y		COMP
+10:33	9	2022-03-28	6134	D	\N	18000.00	Transport ke sekolah Fina 3 hari	JU		Y	TR	COMP
+10:33	9	2022-03-28	6100	D	\N	18000.00	Transport ke sekolah Fina 3 hari	JU		Y		COMP
+10:33	9	2022-03-28	1112	K	\N	18000.00	Transport ke sekolah Fina 3 hari	JU		Y	TR	COMP
+10:33	9	2022-03-28	1110	K	\N	18000.00	Transport ke sekolah Fina 3 hari	JU		Y		COMP
+10:33	10	2022-03-28	6149	D	\N	22000.00	Buku Agenda saldo Bank	JU		Y	TR	COMP
+10:33	10	2022-03-28	6100	D	\N	22000.00	Buku Agenda saldo Bank	JU		Y		COMP
+10:33	10	2022-03-28	1112	K	\N	22000.00	Buku Agenda saldo Bank	JU		Y	TR	COMP
+10:33	10	2022-03-28	1110	K	\N	22000.00	Buku Agenda saldo Bank	JU		Y		COMP
+10:33	11	2022-03-28	6149	D	\N	37200.00	Buku Kas Besar	JU		Y	TR	COMP
+10:33	11	2022-03-28	6100	D	\N	37200.00	Buku Kas Besar	JU		Y		COMP
+10:33	11	2022-03-28	1112	K	\N	37200.00	Buku Kas Besar	JU		Y	TR	COMP
+10:33	11	2022-03-28	1110	K	\N	37200.00	Buku Kas Besar	JU		Y		COMP
+10:33	12	2022-03-28	6102	D	\N	225000.00	Ongkos tukang perbaikan tempat jemuran puteri	JU		Y	TR	COMP
+10:33	12	2022-03-28	6100	D	\N	225000.00	Ongkos tukang perbaikan tempat jemuran puteri	JU		Y		COMP
+10:33	12	2022-03-28	1112	K	\N	225000.00	Ongkos tukang perbaikan tempat jemuran puteri	JU		Y	TR	COMP
+10:33	12	2022-03-28	1110	K	\N	225000.00	Ongkos tukang perbaikan tempat jemuran puteri	JU		Y		COMP
+10:33	13	2022-03-28	6148	D	\N	185000.00	Tinta Brother D60 Bk, Mouse logitech B 100	JU		Y	TR	COMP
+10:33	13	2022-03-28	6100	D	\N	185000.00	Tinta Brother D60 Bk, Mouse logitech B 100	JU		Y		COMP
+10:33	13	2022-03-28	1112	K	\N	185000.00	Tinta Brother D60 Bk, Mouse logitech B 100	JU		Y	TR	COMP
+10:33	13	2022-03-28	1110	K	\N	185000.00	Tinta Brother D60 Bk, Mouse logitech B 100	JU		Y		COMP
+10:33	14	2022-03-28	6177	D	\N	10000.00	Sponshorship kencleng untuk anak dengan donatur bu	JU		Y	TR	COMP
+10:33	14	2022-03-28	6100	D	\N	10000.00	Sponshorship kencleng untuk anak dengan donatur bu	JU		Y		COMP
+10:33	14	2022-03-28	1112	K	\N	10000.00	Sponshorship kencleng untuk anak dengan donatur bu	JU		Y	TR	COMP
+10:33	14	2022-03-28	1110	K	\N	10000.00	Sponshorship kencleng untuk anak dengan donatur bu	JU		Y		COMP
+10:33	6	2022-03-29	1112	D	\N	6000000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y	TR	COMP
+10:33	6	2022-03-29	1110	D	\N	6000000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y		COMP
+10:33	6	2022-03-29	1111	K	\N	6000000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y	TR	COMP
+10:33	6	2022-03-29	1110	K	\N	6000000.00	Dikeluarkan dari Brankas untuk operasional bulan M	JU		Y		COMP
+10:33	7	2022-03-29	6151	D	\N	12500.00	Rivet dan Ramset	JU		Y	TR	COMP
+10:33	7	2022-03-29	6100	D	\N	12500.00	Rivet dan Ramset	JU		Y		COMP
+10:33	7	2022-03-29	1112	K	\N	12500.00	Rivet dan Ramset	JU		Y	TR	COMP
+10:33	7	2022-03-29	1110	K	\N	12500.00	Rivet dan Ramset	JU		Y		COMP
+10:33	8	2022-03-29	6151	D	\N	130000.00	Seng Alum 2 m	JU		Y	TR	COMP
+10:33	8	2022-03-29	6100	D	\N	130000.00	Seng Alum 2 m	JU		Y		COMP
+10:33	8	2022-03-29	1112	K	\N	130000.00	Seng Alum 2 m	JU		Y	TR	COMP
+10:33	8	2022-03-29	1110	K	\N	130000.00	Seng Alum 2 m	JU		Y		COMP
+10:33	9	2022-03-29	6136	D	\N	12000.00	Ongkos kirim makanan ( kurma ) via Grab	JU		Y	TR	COMP
+10:33	9	2022-03-29	6100	D	\N	12000.00	Ongkos kirim makanan ( kurma ) via Grab	JU		Y		COMP
+10:33	9	2022-03-29	1112	K	\N	12000.00	Ongkos kirim makanan ( kurma ) via Grab	JU		Y	TR	COMP
+10:33	9	2022-03-29	1110	K	\N	12000.00	Ongkos kirim makanan ( kurma ) via Grab	JU		Y		COMP
+10:33	1	2022-03-30	1370	D	\N	4700000.00	Infocus In 1/2 aa	JU		Y	TR	COMP
+10:33	1	2022-03-30	1300	D	\N	4700000.00	Infocus In 1/2 aa	JU		Y		COMP
+10:33	1	2022-03-30	1112	K	\N	4700000.00	Infocus In 1/2 aa	JU		Y	TR	COMP
+10:33	1	2022-03-30	1110	K	\N	4700000.00	Infocus In 1/2 aa	JU		Y		COMP
+10:33	2	2022-03-30	6136	D	\N	60000.00	Ongkos kirim makanan via Grab	JU		Y	TR	COMP
+10:33	2	2022-03-30	6100	D	\N	60000.00	Ongkos kirim makanan via Grab	JU		Y		COMP
+10:33	2	2022-03-30	1112	K	\N	60000.00	Ongkos kirim makanan via Grab	JU		Y	TR	COMP
+10:33	2	2022-03-30	1110	K	\N	60000.00	Ongkos kirim makanan via Grab	JU		Y		COMP
+10:33	3	2022-03-30	6135	D	\N	6000.00	fotocopy	JU		Y	TR	COMP
+10:33	3	2022-03-30	6100	D	\N	6000.00	fotocopy	JU		Y		COMP
+10:33	3	2022-03-30	1112	K	\N	6000.00	fotocopy	JU		Y	TR	COMP
+10:33	3	2022-03-30	1110	K	\N	6000.00	fotocopy	JU		Y		COMP
+10:33	4	2022-03-30	6135	D	\N	25400.00	Foto copy dan Jilid	JU		Y	TR	COMP
+10:33	4	2022-03-30	6100	D	\N	25400.00	Foto copy dan Jilid	JU		Y		COMP
+10:33	4	2022-03-30	1112	K	\N	25400.00	Foto copy dan Jilid	JU		Y	TR	COMP
+10:33	4	2022-03-30	1110	K	\N	25400.00	Foto copy dan Jilid	JU		Y		COMP
+10:33	5	2022-03-30	6149	D	\N	42000.00	Spidol , jilid,clip,photocopy ( praktek Aliffa )	JU		Y	TR	COMP
+10:33	5	2022-03-30	6100	D	\N	42000.00	Spidol , jilid,clip,photocopy ( praktek Aliffa )	JU		Y		COMP
+10:33	5	2022-03-30	1112	K	\N	42000.00	Spidol , jilid,clip,photocopy ( praktek Aliffa )	JU		Y	TR	COMP
+10:33	5	2022-03-30	1110	K	\N	42000.00	Spidol , jilid,clip,photocopy ( praktek Aliffa )	JU		Y		COMP
+10:33	6	2022-03-30	6149	D	\N	63000.00	Jilid, pensil faber castel, Map ,kuas  dll ( prakt	JU		Y	TR	COMP
+10:33	6	2022-03-30	6100	D	\N	63000.00	Jilid, pensil faber castel, Map ,kuas  dll ( prakt	JU		Y		COMP
+10:33	6	2022-03-30	1112	K	\N	63000.00	Jilid, pensil faber castel, Map ,kuas  dll ( prakt	JU		Y	TR	COMP
+10:33	6	2022-03-30	1110	K	\N	63000.00	Jilid, pensil faber castel, Map ,kuas  dll ( prakt	JU		Y		COMP
+10:33	7	2022-03-30	6149	D	\N	60000.00	Buku belajar, cat poster ( praktek Aliffa )	JU		Y	TR	COMP
+10:33	7	2022-03-30	6100	D	\N	60000.00	Buku belajar, cat poster ( praktek Aliffa )	JU		Y		COMP
+10:33	7	2022-03-30	1112	K	\N	60000.00	Buku belajar, cat poster ( praktek Aliffa )	JU		Y	TR	COMP
+10:33	7	2022-03-30	1110	K	\N	60000.00	Buku belajar, cat poster ( praktek Aliffa )	JU		Y		COMP
+10:33	8	2022-03-30	6159	D	\N	100000.00	ongkos pembuatan plang putera	JU		Y	TR	COMP
+10:33	8	2022-03-30	6100	D	\N	100000.00	ongkos pembuatan plang putera	JU		Y		COMP
+10:33	8	2022-03-30	1112	K	\N	100000.00	ongkos pembuatan plang putera	JU		Y	TR	COMP
+10:33	8	2022-03-30	1110	K	\N	100000.00	ongkos pembuatan plang putera	JU		Y		COMP
+10:33	9	2022-03-30	6134	D	\N	48000.00	Transport Meli ke sekolah dari tanggal 25 Maret sa	JU		Y	TR	COMP
+10:33	9	2022-03-30	6100	D	\N	48000.00	Transport Meli ke sekolah dari tanggal 25 Maret sa	JU		Y		COMP
+10:33	9	2022-03-30	1112	K	\N	48000.00	Transport Meli ke sekolah dari tanggal 25 Maret sa	JU		Y	TR	COMP
+10:33	9	2022-03-30	1110	K	\N	48000.00	Transport Meli ke sekolah dari tanggal 25 Maret sa	JU		Y		COMP
+10:33	10	2022-03-30	6134	D	\N	12000.00	print warna ( tugas meli )	JU		Y	TR	COMP
+10:33	10	2022-03-30	6100	D	\N	12000.00	print warna ( tugas meli )	JU		Y		COMP
+10:33	10	2022-03-30	1112	K	\N	12000.00	print warna ( tugas meli )	JU		Y	TR	COMP
+10:33	10	2022-03-30	1110	K	\N	12000.00	print warna ( tugas meli )	JU		Y		COMP
+10:33	11	2022-03-30	6134	D	\N	150000.00	Seragam acara susulan pengelola ( bunda Tatik )	JU		Y	TR	COMP
+10:33	11	2022-03-30	6100	D	\N	150000.00	Seragam acara susulan pengelola ( bunda Tatik )	JU		Y		COMP
+10:33	11	2022-03-30	1112	K	\N	150000.00	Seragam acara susulan pengelola ( bunda Tatik )	JU		Y	TR	COMP
+10:33	11	2022-03-30	1110	K	\N	150000.00	Seragam acara susulan pengelola ( bunda Tatik )	JU		Y		COMP
+10:33	2	2022-03-31	6134	D	\N	24000.00	Transport 2 anak puteri 2 hari ke SMAN 10	JU		Y	TR	COMP
+10:33	2	2022-03-31	6100	D	\N	24000.00	Transport 2 anak puteri 2 hari ke SMAN 10	JU		Y		COMP
+10:33	2	2022-03-31	1112	K	\N	24000.00	Transport 2 anak puteri 2 hari ke SMAN 10	JU		Y	TR	COMP
+10:33	2	2022-03-31	1110	K	\N	24000.00	Transport 2 anak puteri 2 hari ke SMAN 10	JU		Y		COMP
+10:33	3	2022-03-31	6115	D	\N	200000.00	Imbalan jasa Pa Nanam berupa uang, bulan Jan,Feb,M	JU		Y	TR	COMP
+10:33	3	2022-03-31	6100	D	\N	200000.00	Imbalan jasa Pa Nanam berupa uang, bulan Jan,Feb,M	JU		Y		COMP
+10:33	3	2022-03-31	1112	K	\N	200000.00	Imbalan jasa Pa Nanam berupa uang, bulan Jan,Feb,M	JU		Y	TR	COMP
+10:33	3	2022-03-31	1110	K	\N	200000.00	Imbalan jasa Pa Nanam berupa uang, bulan Jan,Feb,M	JU		Y		COMP
+10:33	4	2022-03-31	6149	D	\N	10000.00	Map Merah @ 5 bh	JU		Y	TR	COMP
+10:33	4	2022-03-31	6100	D	\N	10000.00	Map Merah @ 5 bh	JU		Y		COMP
+10:33	4	2022-03-31	1112	K	\N	10000.00	Map Merah @ 5 bh	JU		Y	TR	COMP
+10:33	4	2022-03-31	1110	K	\N	10000.00	Map Merah @ 5 bh	JU		Y		COMP
+10:38	3	2022-03-03	6152	D	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	3	2022-03-03	6100	D	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	3	2022-03-03	1112	K	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	3	2022-03-03	1110	K	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	2	2022-03-24	6152	D	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	2	2022-03-24	6100	D	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	2	2022-03-24	1112	K	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	2	2022-03-24	1110	K	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	5	2022-03-31	6152	D	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	5	2022-03-31	6100	D	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	5	2022-03-31	1112	K	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	5	2022-03-31	1110	K	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	9	2022-01-14	6152	D	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	9	2022-01-14	6100	D	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	9	2022-01-14	1112	K	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	9	2022-01-14	1110	K	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	5	2022-01-20	6152	D	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	5	2022-01-20	6100	D	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	5	2022-01-20	1112	K	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	5	2022-01-20	1110	K	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	21	2022-02-03	6152	D	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	21	2022-02-03	6100	D	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	21	2022-02-03	1112	K	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	21	2022-02-03	1110	K	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	4	2022-02-10	6152	D	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	4	2022-02-10	6100	D	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
+10:38	4	2022-02-10	1112	K	\N	50000.00	Transport Tutor Qiroah	JU		Y	TR	COMP
+10:38	4	2022-02-10	1110	K	\N	50000.00	Transport Tutor Qiroah	JU		Y		COMP
